@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+@font-face {
+  font-display: swap;
+  font-family: 'CF Greycliff Bold';
+  font-style: normal;
+  font-weight: 700;
+  src:
+    url("https://cea.vteximg.com.br/arquivos/greycliff-cf-bold-webfont.eot.css") format("embedded-opentype"),
+    url("https://cea.vteximg.com.br/arquivos/greycliff-cf-bold-webfont.woff.css") format("woff"),
+    url("https://cea.vteximg.com.br/arquivos/greycliff-cf-bold-webfont.ttf.css") format("truetype"),
+    url("https://cea.vteximg.com.br/arquivos/greycliff-cf-bold-webfont.svg.css") format("svg");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'CF Greycliff';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    url("https://cea.vteximg.com.br/arquivos/greycliff-cf-regular-webfont.eot.css") format("embedded-opentype"),
+    url("https://cea.vteximg.com.br/arquivos/greycliff-cf-regular-webfont.woff.css") format("woff"),
+    url("https://cea.vteximg.com.br/arquivos/greycliff-cf-regular-webfont.ttf.css") format("truetype"),
+    url("https://cea.vteximg.com.br/arquivos/greycliff-cf-regular-webfont.svg.css") format("svg");
+}
+
+:root {
+  --COLOR-CEA: #104170;
+  --COLOR-CEA-LIGHT: #165b9d;
+  --COLOR-CEA-LIGHTER: #1c73c6;
+  --COLOR-CEA-GALERIA: #497ce9;
+  --COLOR-EMERALD: #1eceac;
+  --COLOR-EMERALD-LIGHT: #21dfba;
+  --COLOR-EMERALD-LIGHTER: #54e6ca;
+  --COLOR-ORANGE: #ff5630;
+  --COLOR-ORANGE-LIGHT: #ff6b4a;
+  --COLOR-ORANGE-LIGHTER: #ff8064;
+  --COLOR-BLACK: #212b36;
+  --COLOR-BLACK-LIGHT: #5f6872;
+  --COLOR-BLACK-LIGHTER: #a6adb5;
+  --COLOR-ROSE: #e309a4;
+  --COLOR-SMOKE: #bbc7dc;
+  --COLOR-SMOKE-LIGHT: #d5dce9;
+  --COLOR-SMOKE-LIGHTER: #eff2f7;
+  --COLOR-SNOW: #dfe4ef;
+  --COLOR-SNOW-LIGHT: #eceff5;
+  --COLOR-SNOW-LIGHTER: #f9fafc;
+  --COLOR-WHITE: #fff;
+  --COLOR-INFO-TEXT: #104170;
+  --COLOR-SUCCESS-TEXT: #087621;
+  --COLOR-DANGER-TEXT: #a00211;
+  --FONT-FAMILY-PRIMARY: 'Roboto', sans-serif;
+  --FONT-FAMILY-SECONDARY: 'CF Greycliff', sans-serif;
+  --FONT-FAMILY-SECONDARY-BOLD: 'CF Greycliff Bold', sans-serif;
+  --FONT-SIZE-DISPLAY-XXXLARGE: 80px;
+  --FONT-SIZE-DISPLAY-XXLARGE: 64px;
+  --FONT-SIZE-DISPLAY-XLARGE: 48px;
+  --FONT-SIZE-DISPLAY-LARGE: 32px;
+  --FONT-SIZE-DISPLAY-MEDIUM: 24px;
+  --FONT-SIZE-DISPLAY-SMALL: 20px;
+  --FONT-SIZE-DISPLAY-XSMALL: 18px;
+  --FONT-SIZE-BODY: 16px;
+  --FONT-SIZE-SMALL: 14px;
+  --FONT-SIZE-XSMALL: 12px;
+  --FONT-SIZE-XXSMALL: 10px;
+  --RADIUS: 4px;
+  --SPACE-SIZE: 16px;
+  --ICON-SIZE: 24px;
+  --ICON-SIZE-SMALL: 16px;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  outline: none;
+  padding: 0;
+}
+
+body {
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-size: var(--FONT-SIZE-BODY);
+  font-weight: 400;
+  height: 100vh;
+  line-height: 1.45;
+}
+
+figure {
+  margin: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+  -webkit-appearance: none;
+}
