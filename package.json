@@ -1,0 +1,52 @@
+{
+  "author": "Cleber de Moraes Gonçalves <cleber.engineer@gmail.com>",
+  "devDependencies": {
+    "husky": "^4.3.0",
+    "lint-staged": "^10.2.11"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged --allow-empty"
+    }
+  },
+  "lint-staged": {
+    "buckets/checkout/**/*.{css,js,jsx}": "yarn workspace @cea/checkout lint-staged --allow-empty",
+    "blocks/comprelook/**/*.{css,js,jsx}": "yarn workspace @cea/comprelook lint-staged --allow-empty",
+    "blocks/floater/**/*.{css,js,jsx}": "yarn workspace @cea/floater lint-staged --allow-empty",
+    "blocks/glossario/**/*.{css,js,jsx}": "yarn workspace @cea/glossario lint-staged --allow-empty",
+    "blocks/lojinha/**/*.{css,js,jsx}": "yarn workspace @cea/lojinha lint-staged --allow-empty",
+    "blocks/reseller/**/*.{css,js,jsx}": "yarn workspace @cea/reseller lint-staged --allow-empty",
+    "blocks/megafooter/**/*.{css,js,jsx}": "yarn workspace @cea/megafooter lint-staged --allow-empty",
+    "blocks/megaheader/**/*.{css,js,jsx}": "yarn workspace @cea/megaheader lint-staged --allow-empty",
+    "blocks/modulos/**/*.{css,js,jsx}": "yarn workspace @cea/modulos lint-staged --allow-empty",
+    "blocks/region/**/*.{css,js,jsx}": "yarn workspace @cea/region lint-staged --allow-empty",
+    "blocks/splitorder/**/*.{css,js,jsx}": "yarn workspace @cea/splitorder lint-staged --allow-empty",
+    "blocks/vendaaqui/**/*.{css,js,jsx}": "yarn workspace @cea/vendaaqui lint-staged --allow-empty",
+    "shared/f/**/*.{js,jsx}": "yarn workspace @cea/f lint-staged --allow-empty",
+    "shared/h/**/*.{js,jsx}": "yarn workspace @cea/h lint-staged --allow-empty",
+    "shared/hook/**/*.{js,jsx}": "yarn workspace @cea/hook lint-staged --allow-empty",
+    "shared/serviceslojinha/**/*.{js,jsx}": "yarn workspace @cea/serviceslojinha lint-staged --allow-empty",
+    "shared/mask/**/*.{js,jsx}": "yarn workspace @cea/mask lint-staged --allow-empty",
+    "shared/io/**/*.{js,jsx}": "yarn workspace @cea/io lint-staged --allow-empty",
+    "shared/radio/**/*.{js,jsx}": "yarn workspace @cea/radio lint-staged --allow-empty",
+    "shared/reset/**/*.css": "yarn workspace @cea/reset lint-staged --allow-empty",
+    "shared/router/**/*.{js,jsx}": "yarn workspace @cea/router lint-staged --allow-empty",
+    "shared/orderform/**/*.{js,jsx}": "yarn workspace @cea/orderform lint-staged --allow-empty"
+  },
+  "name": "cea",
+  "private": true,
+  "scripts": {
+    "setup": "yarn install"
+  },
+  "version": "1.0.0",
+  "workspaces": {
+    "packages": [
+      "actions/*",
+      "blocks/*",
+      "buckets/*",
+      "elements/*",
+      "pixels/*",
+      "shared/*"
+    ]
+  }
+}
