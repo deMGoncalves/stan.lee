@@ -1,0 +1,37 @@
+.h2 {
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD) !important; /* TODO: !important - css obstrusivo dentro na vtex */
+  line-height: 1.2 !important; /* TODO: css obstrusivo dentro da vtex */
+  text-decoration: none !important; /* TODO: css obstrusivo dentro da vtex */
+  text-transform: none !important; /* TODO: css obstrusivo dentro da vtex */
+}
+
+.h2.black,
+.h2.inverse {
+  color: var(--COLOR-BLACK);
+}
+
+@media (min-width: 768px) {
+  .h2.inverse {
+    color: #fff;
+  }
+}
+
+.h2.displaySmall {
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+  line-height: 38px;
+}
+
+.h2.body {
+  font-size: var(--FONT-SIZE-BODY) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+  line-height: 24px;
+}
+
+@media (min-width: 768px) {
+  .h2.displaySmall {
+    font-size: var(--FONT-SIZE-DISPLAY-LARGE) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+  }
+
+  .h2.body {
+    font-size: var(--FONT-SIZE-DISPLAY-MEDIUM) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+  }
+}

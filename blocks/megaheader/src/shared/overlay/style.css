@@ -1,0 +1,16 @@
+.overlay {
+  background-color: rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+  display: none;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  text-indent: -9000em;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.overlay.open {
+  display: block;
+}

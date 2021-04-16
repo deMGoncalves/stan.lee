@@ -1,0 +1,33 @@
+title-departament {
+  display: block;
+  position: relative;
+  z-index: 1;
+}
+
+.titleDepartament {
+  align-items: center;
+  background-color: #fff;
+  box-shadow: 0 2px 4px 0 rgba(33, 43, 54, 0.25);
+  display: flex;
+  height: 48px;
+}
+
+.titleDepartament__title {
+  color: var(--COLOR-INFO-TEXT);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: var(--FONT-SIZE-BODY);
+  font-weight: 600;
+  line-height: 1.2;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .titleDepartament {
+    height: 64px;
+  }
+
+  .titleDepartament__title {
+    font-size: var(--FONT-SIZE-DISPLAY-MEDIUM);
+    text-align: left;
+  }
+}

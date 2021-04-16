@@ -1,0 +1,11 @@
+.modulo {
+  display: inline-block;
+  margin: 12px 0;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .modulo {
+    margin: 24px 0;
+  }
+}

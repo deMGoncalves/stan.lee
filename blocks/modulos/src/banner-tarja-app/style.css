@@ -1,0 +1,9 @@
+banner-tarja-app {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+
+.bannerTarjaApp__banner img {
+  height: auto !important;
+}

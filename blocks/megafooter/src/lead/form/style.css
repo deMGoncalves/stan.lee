@@ -1,0 +1,386 @@
+.form__container {
+  padding: 10px 12px;
+  position: relative;
+}
+
+.form__spinner {
+  align-self: center;
+  display: flex;
+  margin: 0 auto;
+  position: relative;
+  top: 45px;
+}
+
+.form__spinner::before {
+  animation: anim_rotate 0.8s linear infinite;
+  background-color: transparent;
+  border: 4px solid;
+  border-bottom-color: rgba(22, 22, 50, 0.15);
+  border-left-color: rgba(22, 22, 50, 0.65);
+  border-radius: 100%;
+  border-right-color: rgba(22, 22, 50, 0.15);
+  border-top-color: rgba(22, 22, 50, 0.65);
+  content: '';
+  display: inline-block;
+  height: 72px;
+  left: 0;
+  margin: 0 auto;
+  opacity: 1;
+  padding: 0;
+  top: 0;
+  transition: all 0.25s linear;
+  width: 72px;
+}
+
+.form__loader__icon {
+  color: rgba(22, 22, 50, 0.8);
+  font-size: 40px;
+  left: 22px;
+  line-height: 90px;
+  position: absolute;
+  top: 0;
+}
+
+.form__loader__container {
+  background-color: var(--COLOR-SNOW-LIGHT);
+  height: 100%;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  visibility: hidden;
+  width: 100%;
+  z-index: 5;
+}
+
+.form__loading {
+  bottom: 0;
+  height: 80px;
+  left: 0;
+  margin: auto;
+  opacity: 1;
+  position: absolute;
+  right: 0;
+  top: -80px;
+  width: 80px;
+  z-index: 999;
+}
+
+.form__loading__text {
+  align-self: center;
+  color: var(--COLOR-EMERALD);
+  font-size: var(--FONT-SIZE-DISPLAY-XLARGE);
+  font-weight: bold;
+  line-height: 61px;
+  text-align: center;
+}
+
+.form__heading {
+  color: #212B36;
+  display: inline-block;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: 18px;
+  line-height: 0;
+  padding: 0 10px;
+  text-align: center;
+}
+
+.form__heading__first,
+.form__heading__second,
+.form__heading__last {
+  color: #212B36;
+  display: inline-block;
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 61px;
+}
+
+.form__heading__first {
+  font-weight: 400;
+}
+
+.form__heading__second {
+  font-size: 40px;
+  margin: 0 0 0 10px;
+}
+
+.form__campaign {
+  text-align: center;
+}
+
+.form__campaing__desc {
+  color: #4a4a4a;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: 14px;
+  line-height: 17px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.form__form {
+  display: contents;
+}
+
+.form__mail {
+  display: grid;
+  margin-top: 25px;
+}
+
+.form__label {
+  color: #212B36;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
+.form__input {
+  background-color: #fff;
+  border: 1px solid #e2e7f0;
+  border-radius: 4px;
+  box-shadow: 0 1px 0 rgba(69, 95, 135, 0.6);
+  font-size: var(--FONT-SIZE-SMALL);
+  line-height: 1.15;
+  margin: 0;
+  outline: none;
+  padding: 17px 24px;
+}
+
+.form__radio {
+  display: flex;
+  margin-bottom: 28px;
+  margin-top: 16px;
+}
+
+.form__container__radio {
+  cursor: pointer;
+  display: block;
+  font-size: var(--FONT-SIZE-BODY);
+  margin-bottom: 12px;
+  padding-left: 35px;
+  position: relative;
+  user-select: none;
+}
+
+.form__container__radio:last-child {
+  margin-left: 25px;
+}
+
+.form__container__radio .form__input__radio {
+  cursor: pointer;
+  opacity: 0;
+  position: absolute;
+}
+
+.form__checkmark {
+  background-color: #fff;
+  border: 1px solid #BBC7DC;
+  border-radius: 50%;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.form__container__radio .form__input__radio:checked ~ .form__checkmark {
+  border: 1px solid #1ECEAC;
+}
+
+.form__checkmark::after {
+  content: "";
+  display: none;
+  position: absolute;
+}
+
+.form__container__radio .form__input__radio:checked ~ .form__checkmark::after {
+  display: block;
+}
+
+.form__container__radio .form__checkmark::after {
+  background-color: #1ECEAC;
+  border-radius: 50%;
+  height: 10px;
+  left: 6px;
+  top: 6px;
+  width: 10px;
+}
+
+.form__button {
+  background-color: #212B36;
+  border: 0;
+  border-radius: 32px;
+  box-shadow: 0 2px 2px 0 transparent;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: 18px;
+  font-weight: bold;
+  height: 53px;
+  line-height: 53px;
+  outline: none;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow 0.2s ease-in-out, background-color 0.2s ease-in-out;
+  width: 100%;
+}
+
+.form__button:hover {
+  background-color: var(--COLOR-EMERALD);
+}
+
+.form__terms {
+  color: #666;
+  font-size: 12px;
+  line-height: 14px;
+  margin: 22px 0;
+}
+
+.form__msg {
+  height: 25px;
+  margin-top: 5px;
+}
+
+.form__input__error {
+  box-shadow: 0 1px 0 #e43717;
+}
+
+.form__error {
+  color: #e43717;
+  font-size: 13px;
+  line-height: 15px;
+}
+
+@media (min-width: 768px) {
+  .form__campaign {
+    width: 80%;
+  }
+
+  .form__campaing__desc {
+    margin-bottom: 15px;
+    margin-top: 0;
+  }
+
+  .form__container {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+  }
+
+  .form__form {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    padding: 0;
+  }
+
+  .form__label {
+    margin-bottom: 4px;
+  }
+
+  .form__mail {
+    margin: 0;
+    padding: 0 20px;
+    position: relative;
+    width: unset;
+  }
+
+  .form__mail {
+    padding: 0;
+  }
+
+  .form__gender {
+    padding: 0 20px;
+  }
+
+  .form__button {
+    margin: 0;
+    width: 185px;
+  }
+
+  .form__msg {
+    height: unset;
+    margin-top: 0;
+    position: absolute;
+    top: 90px;
+  }
+
+  .form__subheading {
+    font-size: 70px !important;
+  }
+
+  .form__terms {
+    margin-bottom: 0;
+  }
+
+  .form__radio {
+    margin-bottom: 0;
+    margin-top: 15px;
+  }
+}
+
+@media (min-width: 1014px) {
+  .form__form {
+    justify-content: space-between;
+    width: calc(75% - 45px);
+  }
+
+  .form__container {
+    justify-content: space-between;
+  }
+
+  .form__campaign {
+    min-height: 1px;
+    padding: 0;
+    padding-left: 7px;
+    padding-right: 5px;
+    width: 288px;
+  }
+
+  .form__campaing__desc {
+    margin-bottom: 0;
+    margin-top: 10px;
+  }
+
+  .form__mail {
+    width: 266px;
+  }
+
+  .form__gender {
+    padding: 0;
+  }
+
+  .form__terms {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 0;
+    width: 100%;
+  }
+
+  .form__button {
+    position: relative;
+    top: 12px;
+  }
+}
+
+@keyframes anim_rotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.form__link {
+  color: var(--COLOR-CEA-LIGHTER);
+  text-decoration: underline;
+}

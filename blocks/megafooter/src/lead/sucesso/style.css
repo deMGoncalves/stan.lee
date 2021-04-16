@@ -1,0 +1,25 @@
+.leadSucesso__container {
+  display: block;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  margin: 0 auto;
+  min-height: 147px;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.leadSucesso__tudocerto {
+  color: #212B36;
+  font-size: var(--FONT-SIZE-DISPLAY-XLARGE);
+  font-weight: bold;
+  line-height: 61px;
+  text-align: center;
+}
+
+.leadSucesso__campaing__desc {
+  color: #4a4a4a;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: 14px;
+  line-height: 17px;
+  margin-top: 10px;
+  text-align: center;
+}

@@ -1,0 +1,30 @@
+share-buttons {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
+
+.shareButtons__container {
+  display: inline-flex;
+}
+
+.shareButtons__title {
+  align-self: center;
+  color: #5f6872;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: 14px;
+  margin-right: 21px;
+}
+
+.at-share-btn {
+  border-radius: 50% !important;
+  margin: 0 21px 0 0 !important;
+}
+
+.at-share-btn:last-child {
+  margin-right: 0 !important;
+}
+
+.at-share-btn .at-label {
+  display: none;
+}

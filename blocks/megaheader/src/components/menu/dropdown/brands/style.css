@@ -1,0 +1,37 @@
+.brand {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 16px 0;
+  width: 212px;
+}
+
+.brand__heading {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: 14px;
+  margin-bottom: 14px;
+  width: 100%;
+}
+
+.brand__url {
+  border: 1px solid var(--COLOR-SNOW-LIGHT);
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-flex;
+  height: 60px;
+  margin-bottom: 16px;
+  overflow: hidden;
+  width: 100px;
+}
+
+.brand__url:hover {
+  border-color: var(--COLOR-CEA-LIGHT);
+}
+
+.brand__image {
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+}

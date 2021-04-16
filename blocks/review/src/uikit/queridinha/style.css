@@ -1,0 +1,56 @@
+.queridinha {
+  cursor: pointer;
+  display: inline-block;
+  padding: 6px;
+  width: 168px;
+}
+
+.queridinha:hover {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 2px 0 var(--COLOR-SMOKE-LIGHT);
+}
+
+.queridinha__figure {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.queridinha__figure picture {
+  border-radius: 50%;
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 100%;
+}
+
+@media (min-width: 808px) {
+  .queridinha {
+    padding: 12px;
+    width: 196px;
+  }
+}
+
+.queridinha__figure img {
+  height: auto;
+}
+
+.queridinha__title {
+  color: var(--COLOR-BLACK-LIGHT);
+  font-size: 12px !important;
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-weight: 300;
+  height: 36px;
+  line-height: 1.45 !important;
+  margin-top: 16px;
+  overflow: hidden;
+  text-decoration: none;
+  white-space: initial;
+}
+
+.queridinha__price {
+  color: var(--COLOR-BLACK) !;
+  font-size: var(--FONT-SIZE-SMALL);
+  margin-top: 8px;
+}

@@ -1,0 +1,68 @@
+top-alert {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+
+/**
+ * Fortificação do seletor de classe para evitar CSS
+ * intrusivo, classe .topAlert inserida por script no body
+ * Remover fortificação quando subir o novo Header
+ */
+
+top-alert .topAlert {
+  align-items: center;
+  background-color: #e5f2ff;
+  border: 1px solid #d1e8ff;
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 12px;
+}
+
+.topAlert__icon {
+  margin-right: 12px;
+  max-height: 52px;
+  max-width: 52px;
+}
+
+.topAlert__text {
+  color: var(--COLOR-CEA);
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-size: var(--FONT-SIZE-XSMALL);
+}
+
+.topAlert__link {
+  color: var(--COLOR-CEA);
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-size: var(--FONT-SIZE-XSMALL);
+  margin-left: 3px;
+}
+
+.topAlert__button {
+  appearance: none;
+  background: transparent;
+  border: none;
+  font-size: var(--FONT-SIZE-BODY);
+  height: 52px;
+  width: 52px;
+}
+
+@media (min-width: 768px) {
+  top-alert .topAlert {
+    height: 37px;
+    justify-content: center;
+  }
+
+  .topAlert__icon {
+    max-height: 37px;
+    max-width: 37px;
+  }
+
+  .topAlert__button {
+    height: 37px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 37px;
+  }
+}

@@ -1,0 +1,132 @@
+.p {
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-weight: 400;
+}
+
+.p.displayXLarge {
+  font-size: var(--FONT-SIZE-DISPLAY-XLARGE);
+  line-height: 57px;
+}
+
+.p.displayLarge {
+  font-size: var(--FONT-SIZE-DISPLAY-LARGE);
+  line-height: 38px;
+}
+
+.p.displayMedium {
+  font-size: var(--FONT-SIZE-DISPLAY-MEDIUM);
+  line-height: 29px;
+}
+
+.p.displaySmall {
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL);
+  line-height: 29px;
+}
+
+.p.body {
+  font-size: var(--FONT-SIZE-BODY);
+  line-height: 24px;
+}
+
+.p.small {
+  font-size: var(--FONT-SIZE-SMALL);
+  line-height: 21px;
+}
+
+.p.xSmall {
+  font-size: var(--FONT-SIZE-XSMALL);
+  line-height: 18px;
+}
+
+.p.xXSmall {
+  font-size: var(--FONT-SIZE-XXSMALL);
+  line-height: 18px;
+}
+
+.p.cea {
+  color: var(--COLOR-CEA);
+}
+
+.p.ceaLight {
+  color: var(--COLOR-CEA-LIGHT);
+}
+
+.p.ceaLighter {
+  color: var(--COLOR-CEA-LIGHTER);
+}
+
+.p.emerald {
+  color: var(--COLOR-EMERALD);
+}
+
+.p.emeraldLight {
+  color: var(--COLOR-EMERALD-LIGHT);
+}
+
+.p.emeraldLighter {
+  color: var(--COLOR-EMERALD-LIGHTER);
+}
+
+.p.orange {
+  color: var(--COLOR-ORANGE);
+}
+
+.p.orangeLight {
+  color: var(--COLOR-ORANGE-LIGHT);
+}
+
+.p.orangeLighter {
+  color: var(--COLOR-ORANGE-LIGHTER);
+}
+
+.p.black {
+  color: var(--COLOR-BLACK);
+}
+
+.p.blackLight {
+  color: var(--COLOR-BLACK-LIGHT);
+}
+
+.p.blackLighter {
+  color: var(--COLOR-BLACK-LIGHTER);
+}
+
+.p.smoke {
+  color: var(--COLOR-SMOKE);
+}
+
+.p.smokeLight {
+  color: var(--COLOR-SMOKE-LIGHT);
+}
+
+.p.smokeLighter {
+  color: var(--COLOR-SMOKE-LIGHTER);
+}
+
+.p.snow {
+  color: var(--COLOR-SNOW);
+}
+
+.p.snowLight {
+  color: var(--COLOR-SNOW-LIGHT);
+}
+
+.p.snowLighter {
+  color: var(--COLOR-SNOW-LIGHTER);
+}
+
+.p.info {
+  color: var(--COLOR-INFO-TEXT);
+}
+
+.p.success {
+  color: var(--COLOR-SUCCESS-TEXT);
+}
+
+.p.warning {
+  color: var(--COLOR-WARNING-TEXT);
+}
+
+.p.danger {
+  color: var(--COLOR-DANGER-TEXT);
+}

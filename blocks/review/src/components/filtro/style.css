@@ -1,0 +1,53 @@
+.filtro {
+  margin-bottom: 12px;
+}
+
+.titulo {
+  margin: auto;
+  margin-bottom: 24px;
+}
+
+.texto {
+  display: inline-block;
+  font-weight: 500;
+  margin-right: 8px;
+}
+
+.dropdown__select {
+  height: 40px;
+  width: 165px;
+}
+
+.dropdown,
+.dropdown div {
+  display: inline-block !important;
+}
+
+.dropdown div::before {
+  top: 14px !important;
+}
+
+@media (min-width: 768px) {
+  .filtro {
+    border-bottom: 1px solid var(--COLOR-SMOKE-LIGHT);
+    padding-bottom: 24px;
+  }
+
+  .dropdown__select {
+    font-size: 12px;
+    width: 145px;
+  }
+
+  .texto {
+    font-size: 16px;
+  }
+
+  .titulo {
+    float: left;
+    margin: 0;
+  }
+
+  .filtragem {
+    text-align: right;
+  }
+}

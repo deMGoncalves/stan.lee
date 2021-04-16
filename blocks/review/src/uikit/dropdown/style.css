@@ -1,0 +1,56 @@
+.wrapper__dropdown {
+  background-color: #fff;
+  position: relative;
+}
+
+.wrapper__dropdown::before {
+  background: transparent url(https://cea.vteximg.com.br/arquivos/icon-arrow-down.2876dc522ddb18f8fd3fedac60ccfd26.png) center center no-repeat;
+  background-size: contain;
+  content: '';
+  display: inline-block;
+  height: 12px;
+  position: absolute;
+  right: 16px;
+  top: 24px;
+  width: 12px;
+  z-index: 0;
+}
+
+.dropdown {
+  appearance: none;
+  background-color: transparent;
+  border: solid 1px var(--COLOR-SMOKE-LIGHT);
+  border-radius: 4px;
+  border-bottom-color: var(--COLOR-SMOKE);
+  border-bottom-width: 2px;
+  color: var(--COLOR-BLACK-LIGHT);
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: var(--FONT-SIZE-BODY);
+  font-weight: 300;
+  height: 64px;
+  line-height: 1;
+  outline: none;
+  padding: 12px 16px;
+  position: relative;
+  transition: all 0.5s;
+  width: 100%;
+}
+
+.dropdown.checked {
+  border-bottom-color: var(--COLOR-EMERALD);
+}
+
+.dropdown.active {
+  border-bottom-color: var(--COLOR-CEA-LIGHT);
+}
+
+.dropdown.disabled {
+  background-color: var(--COLOR-SMOKE-LIGHTER);
+  color: var(--COLOR-BLACK-LIGHTER);
+}
+
+.dropdown option {
+  appearance: none;
+  background-color: #fff;
+  color: var(--COLOR-BLACK-LIGHTER);
+}

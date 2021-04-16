@@ -1,0 +1,182 @@
+.bubble {
+  border: 1px solid transparent;
+  border-radius: 4px;
+  cursor: pointer;
+  display: inline-block;
+  padding: 6px;
+  position: relative;
+  width: 102px;
+}
+
+.bubble:hover {
+  border-color: #bbc7dc;
+  box-shadow: 0 2px 2px #d5dce9;
+  transition: all 0.5s;
+}
+
+.bubble__tooltip {
+  align-items: flex-end;
+  background-color: #ff5630;
+  border: 2px solid #fff;
+  border-radius: 8px;
+  color: #fff;
+  display: flex;
+  font-size: 9px;
+  height: 16px;
+  justify-content: center;
+  line-height: 1.1;
+  position: absolute;
+  right: 20px;
+  top: 8px;
+  width: 16px;
+  z-index: 1;
+}
+
+.bubble__tooltip:active::before,
+.bubble__tooltip:hover::before {
+  background: rgba(0, 0, 0, 0.75);
+  border-radius: 5px;
+  color: #fff;
+  content: attr(data-tooltip);
+  display: inline-block;
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 10px;
+  position: absolute;
+  top: -74px;
+  width: 320px;
+}
+
+.bubble__tooltip:active::after,
+.bubble__tooltip:hover::after {
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid rgba(0, 0, 0, 0.75);
+  content: "";
+  height: 0;
+  position: absolute;
+  top: -12px;
+  width: 0;
+}
+
+.bubble__figure {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.bubble__figure picture {
+  border: 1px solid #212b36;
+  border-radius: 50%;
+  display: inherit;
+  height: 64px;
+  left: -1px;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  width: 64px;
+}
+
+.bubble__figure picture::after {
+  border: 3px solid #fff;
+  border-radius: 50%;
+  content: '';
+  display: block;
+  height: calc(100% - 6px);
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: calc(100% - 6px);
+}
+
+.bubble__figure img {
+  height: auto;
+}
+
+.bubble__figure.disable img {
+  filter: grayscale(100%);
+}
+
+.bubble__title {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+
+  /* TODO: - css obstrusivo dentro na vtex */
+  font-size: var(--FONT-SIZE-SMALL);
+
+  /* TODO: - css obstrusivo dentro da vtex */
+  font-weight: 400;
+  line-height: 1.2 !important;
+
+  /* TODO: css obstrusivo dentro da vtex */
+  margin-top: 6px;
+  text-decoration: none;
+
+  /* TODO: css obstrusivo dentro da vtex */
+  text-transform: none;
+
+  /* TODO: css obstrusivo dentro da vtex */
+  white-space: normal;
+}
+
+.bubble__title.disable {
+  color: var(--COLOR-BLACK-LIGHTER);
+}
+
+@media (min-width: 768px) {
+  .bubble {
+    border-radius: 8px;
+    padding: 12px;
+    width: 146.8px;
+  }
+
+  .bubble__tooltip {
+    border-radius: 16px;
+    font-size: 24px;
+    height: 32px;
+    line-height: 1;
+    right: 13px;
+    top: 13px;
+    width: 32px;
+  }
+
+  .bubble__figure {
+    width: 120px;
+  }
+
+  .bubble__figure picture {
+    display: inherit;
+    height: 120px;
+    width: 120px;
+  }
+
+  .bubble__title {
+    font-size: var(--FONT-SIZE-BODY);
+    margin-top: 8px;
+  }
+}
+
+.figure {
+  cursor: inherit;
+  display: block;
+  margin: 0; /* este reset por causa dos css obstrusivos dentro da vtex */
+  position: relative;
+  width: 100%;
+}
+
+.figure.banner.cursor {
+  cursor: pointer;
+}
+
+.figure__picture {
+  display: inline-block;
+  width: 100%;
+}
+
+.figure__img {
+  display: inline-block;
+  height: auto;
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+}

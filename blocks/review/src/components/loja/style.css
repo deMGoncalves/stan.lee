@@ -1,0 +1,65 @@
+.loja {
+  text-align: center;
+}
+
+.loja .texto {
+  margin: 24px 0;
+}
+
+.loja .nota {
+  font-size: var(--FONT-SIZE-DISPLAY-XLARGE);
+  line-height: var(--FONT-SIZE-DISPLAY-XLARGE);
+}
+
+.loja .estrela {
+  font-size: var(--FONT-SIZE-DISPLAY-MEDIUM);
+  line-height: var(--FONT-SIZE-DISPLAY-MEDIUM);
+  line-height: 1;
+  margin: 2px 0 12px;
+}
+
+.loja .textoAviso {
+  margin: 24px auto 62px;
+}
+
+.loja .imagem {
+  margin-bottom: -7px;
+  margin-left: 3px;
+}
+
+@media (min-width: 768px) {
+  .loja .avaliacaoGeral {
+    width: 100%;
+  }
+
+  .loja .informacoesGerais {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .loja .texto {
+    margin: 62px auto;
+    font-size: var(--FONT-SIZE-DISPLAY-SMALL) !important;
+  }
+
+  .loja .nota {
+    font-size: var(--FONT-SIZE-DISPLAY-XXXLARGE);
+    line-height: var(--FONT-SIZE-DISPLAY-XXXLARGE);
+  }
+
+  .loja .estrela {
+    font-size: var(--FONT-SIZE-DISPLAY-LARGE);
+    line-height: var(--FONT-SIZE-DISPLAY-LARGE);
+    margin: 16px auto;
+  }
+
+  .loja .textoAviso {
+    font-size: var(--FONT-SIZE-SMALL) !important;
+    margin: 16px auto 64px;
+    max-width: 590px;
+  }
+
+  .loja .textoLegal {
+    text-align: right;
+  }
+}

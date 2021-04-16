@@ -1,0 +1,6 @@
+.opcoesEmCasa {
+  background-color: var(--COLOR-SNOW-LIGHTER);
+  border: 1px solid var(--COLOR-SNOW-LIGHT);
+  border-radius: 2px;
+  margin: 8px 0;
+}

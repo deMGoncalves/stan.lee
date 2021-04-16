@@ -1,0 +1,91 @@
+highlight-hero-with-buttons {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.highlightHeroWithButtons__container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 12px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.highlightHeroWithButtons__title {
+  margin-bottom: 6px;
+}
+
+.highlightHeroWithButtons__subTitle {
+  color: var(--COLOR-BLACK-LIGHT);
+  font-size: var(--FONT-SIZE-SMALL);
+  margin: 2px 0;
+}
+
+.highlightHeroWithButtons__warning {
+  color: var(--COLOR-BLACK-LIGHT);
+  font-size: var(--FONT-SIZE-XXSMALL);
+  margin-top: 2px;
+}
+
+.highlightHeroWithButtons__buttons {
+  margin-top: 12px;
+}
+
+@media (min-width: 768px) {
+  .highlightHeroWithButtons__container {
+    height: 100%;
+    justify-content: center;
+    left: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+  }
+
+  .highlightHeroWithButtons__container.center {
+    align-items: center;
+  }
+
+  .highlightHeroWithButtons__container.left {
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  .highlightHeroWithButtons__container.right {
+    align-items: flex-start;
+    left: 50%;
+    text-align: left;
+    width: 50%;
+  }
+
+  .highlightHeroWithButtons__title.center {
+    width: 40%;
+  }
+
+  .highlightHeroWithButtons__subTitle {
+    color: var(--COLOR-BLACK);
+    font-size: var(--FONT-SIZE-BODY);
+  }
+
+  .highlightHeroWithButtons__subTitle.center,
+  .highlightHeroWithButtons__subTitle.left {
+    width: 40%;
+  }
+
+  .highlightHeroWithButtons__subTitle.inverse {
+    color: #fff;
+  }
+
+  .highlightHeroWithButtons__warning {
+    bottom: 24px;
+    color: var(--COLOR-BLACK-LIGHT);
+    position: absolute;
+    text-align: center;
+  }
+
+  .highlightHeroWithButtons__warning.inverse {
+    color: #fff;
+  }
+}

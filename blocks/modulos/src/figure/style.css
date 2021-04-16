@@ -1,0 +1,30 @@
+.figure {
+  cursor: inherit;
+  display: block;
+  margin: 0; /* este reset por causa dos css obstrusivos dentro da vtex */
+  position: relative;
+  width: 100%;
+}
+
+.figure.banner.cursor {
+  cursor: pointer;
+}
+
+.figure__picture {
+  display: inline-block;
+  width: 100%;
+}
+
+.figure__picture picture {
+  display: inherit;
+  height: inherit;
+  width: inherit;
+}
+
+.figure__img {
+  display: inline-block;
+  height: auto;
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+}

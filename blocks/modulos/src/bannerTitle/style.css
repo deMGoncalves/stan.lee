@@ -1,0 +1,23 @@
+.bannerTitle {
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL);
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: none;
+  text-transform: none;
+}
+
+.bannerTitle.black,
+.bannerTitle.inverse {
+  color: var(--COLOR-BLACK);
+}
+
+@media (min-width: 768px) {
+  .bannerTitle {
+    font-size: var(--FONT-SIZE-DISPLAY-LARGE);
+  }
+
+  .bannerTitle.inverse {
+    color: #fff;
+  }
+}

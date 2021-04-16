@@ -1,0 +1,31 @@
+.back {
+  align-items: center;
+  border-bottom: 1px solid var(--COLOR-SNOW-LIGHT);
+  box-sizing: border-box;
+  display: flex;
+  height: 56px;
+  padding: 0 16px;
+  width: 100%;
+}
+
+.back__label {
+  align-items: center;
+  color: var(--COLOR-BLACK);
+  cursor: pointer;
+  display: flex;
+  font-size: 16px;
+  text-transform: lowercase;
+}
+
+.back__label:hover {
+  text-decoration: underline;
+}
+
+.back__icon {
+  background-image: url('./icon-back.png');
+  background-size: contain;
+  height: 16px;
+  margin-right: 12px;
+  text-indent: -9000em;
+  width: 16px;
+}

@@ -1,0 +1,50 @@
+.breadcrumb {
+  align-items: center;
+  background-color: #fff;
+  border-bottom: 1px solid var(--COLOR-SNOW-LIGHT);
+  cursor: pointer;
+  display: flex;
+  left: 0;
+  line-height: 48px;
+  max-width: 350px;
+  padding: 0 16px;
+  position: fixed;
+  top: 0;
+  width: 80%;
+  z-index: 1;
+}
+
+.breadcrumb::after,
+.breadcrumb::before { content: ''; }
+
+.breadcrumb::before {
+  background-image: url('./icon-back.png');
+  background-size: contain;
+  height: 16px;
+  margin-right: 12px;
+  width: 16px;
+}
+
+.breadcrumb::after {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.breadcrumb__path {
+  font-size: 14px;
+  margin-right: 5px;
+}
+
+.breadcrumb__path:last-child {
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  white-space: nowrap;
+}
+
+.breadcrumb__path + .breadcrumb__path {
+  max-width: 115px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

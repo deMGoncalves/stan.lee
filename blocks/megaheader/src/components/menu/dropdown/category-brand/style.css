@@ -1,0 +1,24 @@
+.brand__content {
+  display: flex;
+  flex-direction: column;
+  margin-right: 16px;
+}
+
+.brand__link {
+  color: var(--COLOR-BLACK);
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 34px;
+  overflow: hidden;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  text-transform: lowercase;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.brand__link:hover {
+  color: var(--COLOR-CEA-LIGHTER);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  text-decoration: underline;
+}

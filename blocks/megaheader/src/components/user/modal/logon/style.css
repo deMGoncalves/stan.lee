@@ -1,0 +1,72 @@
+.logon {
+  font-family: var(--FONT-FAMILY-SECONDARY);
+}
+
+.logon__perfil {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  height: 80px;
+  justify-content: space-around;
+  padding: 0 12px;
+}
+
+.logon__perfil::after {
+  background-image: url('./icon-arrow-right.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  content: '';
+  height: 12px;
+  width: 12px;
+}
+
+@media (min-width: 1024px) {
+  .logon__perfil::after {
+    display: none;
+  }
+}
+
+.logon__avatar {
+  align-items: center;
+  border: 2px solid var(--COLOR-BLACK);
+  border-radius: 100%;
+  color: var(--COLOR-BLACK);
+  display: flex;
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: 16px;
+  height: 48px;
+  justify-content: center;
+  padding: 2px;
+  width: 48px;
+}
+
+.logon__text {
+  display: flex;
+  flex-direction: column;
+  padding-left: 12px;
+  width: calc(100% - 60px);
+}
+
+@media (min-width: 1024px) {
+  .logon__text {
+    width: calc(100% - 48px);
+  }
+}
+
+.logon__name {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: 14px;
+}
+
+@media (min-width: 1024px) {
+  .logon__name {
+    font-size: 20px;
+  }
+}
+
+.logon__url {
+  color: var(--COLOR-ROSE);
+  font-size: 12px;
+  text-decoration: underline;
+}

@@ -1,0 +1,20 @@
+.disclaimer {
+  background-color: #F9FAFC;
+}
+
+.disclaimer__container {
+  max-width: 1200px;
+  padding: 24px 8px 8px 8px;
+}
+
+.disclaimer__text {
+  color: #5F6872;
+  font-size: var(--FONT-SIZE-XSMALL);
+  text-align: justify;
+}
+
+@media (min-width: 768px) {
+  .disclaimer__container {
+    padding: 24px 12px 8px 12px;
+  }
+}

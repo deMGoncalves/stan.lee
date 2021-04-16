@@ -1,0 +1,19 @@
+display-post + display-brand {
+  margin-top: -48px;
+}
+
+display-post {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.displayPost {
+  padding: 24px 0 0 0;
+}
+
+@media (min-width: 768px) {
+  .displayPost {
+    padding-bottom: 12px;
+  }
+}

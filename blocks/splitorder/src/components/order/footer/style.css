@@ -1,0 +1,40 @@
+.footer,
+.footer__total {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer {
+  flex-direction: column;
+  margin: 0;
+  max-width: 768px;
+  padding: 2rem 0;
+}
+
+@media (min-width: 768px) {
+  .footer { flex-direction: row; }
+}
+
+.footer__total {
+  width: 100%;
+}
+
+.footer__boleto::before {
+  background-image: url('//io.vtex.com.br/order-placed-ui/3.7.0/a46eec4e6b2c7eb395abbc21cb0c65ae.png');
+  background-position: 159px;
+  content: '';
+  display: inline-block;
+  height: 23px;
+  margin-right: 5px;
+  vertical-align: middle;
+  width: 39px;
+}
+
+.sumario {
+  border-bottom: 1px solid #eee;
+  color: #5f6872;
+  display: flex;
+  font-size: 14px;
+  justify-content: space-between;
+  width: 100%;
+}

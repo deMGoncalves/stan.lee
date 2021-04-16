@@ -1,0 +1,1 @@
+export { default as Seletores } from './seletores'

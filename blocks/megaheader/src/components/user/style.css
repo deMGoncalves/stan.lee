@@ -1,0 +1,56 @@
+.user {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  padding-left: 16px;
+}
+
+@media (min-width: 1024px) {
+  .user {
+    padding: 0;
+  }
+}
+
+.user__icon,
+.user__arrow {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  text-indent: -9999px;
+}
+
+.user__icon {
+  background-image: url("./icon-user.png");
+  height: 20px;
+  margin: 2px 8px 0 0;
+  width: 20px;
+}
+
+.user__arrow {
+  background-image: url("./icon-arrow-down.png");
+  height: 12px;
+  margin-left: 5px;
+  margin-top: 15px;
+  width: 12px;
+}
+
+.user__text {
+  color: var(--COLOR-BLACK);
+  display: block;
+  flex-grow: 2;
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: 14px;
+}
+
+@media (min-width: 1024px) {
+  .user__text {
+    line-height: 16px;
+  }
+}
+
+.user__label {
+  color: var(--COLOR-BLACK-LIGHT);
+  display: block;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: 12px;
+}

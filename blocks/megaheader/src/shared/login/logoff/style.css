@@ -1,0 +1,130 @@
+.logoff {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  height: 80px;
+  justify-content: space-around;
+  padding: 0 16px;
+  position: relative;
+}
+
+@media (min-width: 1024px) {
+  .logoff {
+    height: auto;
+    padding: 20px 16px;
+  }
+}
+
+.logoff__avatar {
+  background-image: url('./photo-user.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 90%;
+  border: 2px solid var(--COLOR-SMOKE);
+  border-radius: 100%;
+  height: 48px;
+  padding: 2px;
+  width: 48px;
+}
+
+@media (min-width: 1024px) {
+  .logoff__avatar {
+    height: 56px;
+    width: 56px;
+  }
+}
+
+.logoff__text {
+  color: var(--COLOR-BLACK-LIGHT);
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  justify-content: center;
+  padding-left: 12px;
+  text-transform: lowercase;
+  width: calc(100% - 68px);
+}
+
+@media (min-width: 1024px) {
+  .logoff__text {
+    font-size: 14px;
+    width: calc(100% - 56px);
+  }
+}
+
+.logoff__textDestak {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: 14px;
+}
+
+@media (min-width: 1024px) {
+  .logoff__textDestak {
+    font-size: 20px;
+  }
+}
+
+.logoff__buttonEnter,
+.logoff__buttonCancel {
+  align-items: center;
+  border-radius: 400px;
+  cursor: pointer;
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: 16px;
+  height: 48px;
+  justify-content: center;
+  margin-top: 16px;
+  text-decoration: none;
+  text-transform: lowercase;
+  width: 166px;
+}
+
+.logoff__buttonEnter {
+  background-color: var(--COLOR-EMERALD);
+  border: none;
+  color: #fff;
+}
+
+.logoff__buttonEnter:hover {
+  background-color: var(--COLOR-EMERALD-LIGHT);
+}
+
+.logoff__buttonCancel {
+  background-color: transparent;
+  border: 1px solid var(--COLOR-SMOKE-LIGHT);
+  color: var(--COLOR-EMERALD);
+  display: none;
+}
+
+.logoff__buttonCancel:hover {
+  background-color: var(--COLOR-EMERALD);
+  border-color: transparent;
+  color: #fff;
+}
+
+@media (min-width: 1024px) {
+  .logoff__buttonEnter,
+  .logoff__buttonCancel {
+    display: flex;
+  }
+}
+
+@media (max-width: 1024px) {
+  .logoff__buttonEnter {
+    background: transparent;
+    border-radius: 0;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    text-indent: -9000em;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+  }
+
+  .logoff__buttonEnter:hover {
+    background-color: transparent;
+  }
+}

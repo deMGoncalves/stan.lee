@@ -1,0 +1,77 @@
+.button {
+  align-items: center;
+  appearance: none;
+  background-color: var(--COLOR-SMOKE-LIGHTER);
+  border: 1px solid var(--COLOR-SMOKE-LIGHT);
+  border-radius: 16px;
+  color: var(--COLOR-BLACK-LIGHTER);
+  cursor: pointer;
+  display: inline-flex;
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: var(--FONT-SIZE-SMALL);
+  font-weight: 600;
+  height: 32px;
+  justify-content: center;
+  line-height: 1;
+  margin: 0 auto;
+  min-width: 176px;
+  padding: 0 16px;
+  text-align: center;
+  text-decoration: none;
+  width: 232px;
+}
+
+.button.black,
+.button.inverse {
+  background-color: #212b36;
+  border: none;
+  color: #fff;
+}
+
+.button.black:hover,
+.button.inverse:hover {
+  background-color: #4c545d;
+  box-shadow: 2px 2px 11px 0 #5f6872;
+  transition: all 0.5s;
+}
+
+.button:active,
+.button:focus:active,
+.button:hover:active {
+  background-color: #7e858d;
+}
+
+@media (min-width: 484px) {
+  .button {
+    width: 176px;
+  }
+}
+
+@media (min-width: 768px) {
+  .button {
+    border-radius: 24px;
+    font-size: var(--FONT-SIZE-BODY);
+    height: 48px;
+    margin: 0;
+    padding: 0 24px;
+    width: auto;
+  }
+
+  .button.inverse {
+    background-color: #fff;
+    border: none;
+    color: #212b3c;
+  }
+
+  .button.inverse:hover {
+    background-color: #eff2f7;
+    box-shadow: 2px 2px 11px 0 #5f6872;
+    transition: all 0.5s;
+  }
+
+  .button.inverse:active,
+  .button.inverse:focus:active,
+  .button.inverse:hover:active {
+    background-color: #eff2f7;
+  }
+}

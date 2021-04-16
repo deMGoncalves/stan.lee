@@ -1,0 +1,45 @@
+.bci__container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  padding: 24px 8px;
+}
+
+.bci__logo {
+  height: 45px;
+  margin: 0 auto;
+  width: 99px;
+}
+
+.bci__text {
+  color: #5F6872;
+  font-size: var(--FONT-SIZE-XSMALL);
+  margin-top: 12px;
+  text-align: justify;
+}
+
+.bci__text a {
+  color: inherit;
+}
+
+@media (min-width: 768px) {
+  .bci__container {
+    flex-direction: row;
+    padding: 24px 12px;
+  }
+
+  .bci__container picture {
+    align-items: center;
+    display: flex;
+    margin-right: 12px;
+  }
+
+  .bci__logo {
+    height: auto;
+    width: 177px;
+  }
+
+  .bci__text {
+    margin-top: 0;
+  }
+}

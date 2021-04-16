@@ -1,0 +1,60 @@
+
+cea-glossariomarcas {
+  display: block;
+  margin: 12px auto;
+  padding: 8px;
+}
+
+.glossariomarcas {
+  background: #fff;
+  border-radius: 0;
+  margin: auto;
+  max-width: 1200px;
+  padding: 8px;
+}
+
+.glossariomarcas__h1 {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: var(--FONT-SIZE-DISPLAY-LARGE);
+  line-height: 48px;
+  margin: 4px 0 15px;
+  text-transform: uppercase;
+}
+
+@media (min-width: 768px) {
+  cea-glossariomarcas {
+    margin: 24px auto;
+    padding: 12px;
+  }
+
+  .glossariomarcas {
+    padding: 12px;
+  }
+
+  .glossariomarcas__h1 {
+    font-size: var(--FONT-SIZE-DISPLAY-XLARGE);
+    line-height: normal;
+    margin: 0.67em 0;
+  }
+}
+
+.glossariomarcas__span {
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-weight: 400;
+}
+
+.glossariomarcas__div {
+  border-bottom: 1px solid var(--COLOR-SMOKE-LIGHTER);
+  color: var(--COLOR-BLACK-LIGHT);
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-size: var(--FONT-SIZE-BODY);
+}
+
+.glossariomarcas__div:last-child {
+  border: none;
+}
+
+.glossariomarcas__p {
+  margin-bottom: 10px;
+}

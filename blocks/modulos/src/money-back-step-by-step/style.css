@@ -1,0 +1,204 @@
+money-back-step-by-step {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.barBenefits {
+  border: 1px solid var(--COLOR-SNOW);
+  margin: 24px auto;
+  padding: 28px 12px 24px;
+}
+
+.barBenefits__subtitle {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-size: var(--FONT-SIZE-SMALL);
+  font-weight: 400;
+  line-height: 21px;
+  text-align: center;
+}
+
+.barBenefits__title {
+  color: var(--COLOR-BLACK);
+  display: block;
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD) !important; /* TODO: !important - css obstrusivo dentro na vtex */
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+  line-height: 1.2 !important; /* TODO: css obstrusivo dentro da vtex */
+  margin: 0 auto;
+  max-width: 280px;
+  text-align: center;
+  text-decoration: none !important; /* TODO: css obstrusivo dentro da vtex */
+  text-transform: none !important; /* TODO: css obstrusivo dentro da vtex */
+}
+
+.barBenefits__steps {
+  margin-top: 24px;
+  padding-left: 27px;
+}
+
+.barBenefits__stepOne,
+.barBenefits__stepTwo,
+.barBenefits__stepThree {
+  position: relative;
+}
+
+.barBenefits__stepOne::before,
+.barBenefits__stepTwo::before,
+.barBenefits__stepThree::before {
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: var(--FONT-SIZE-DISPLAY-LARGE);
+  left: -26px;
+  line-height: 1;
+  position: absolute;
+  top: 3px;
+}
+
+.barBenefits__stepOne::before {
+  content: '1';
+}
+
+.barBenefits__stepTwo::before {
+  content: '2';
+}
+
+.barBenefits__stepThree::before {
+  content: '3';
+}
+
+.barBenefits__stepTwo,
+.barBenefits__stepThree {
+  margin-top: 16px;
+}
+
+.barBenefits__term {
+  color: var(--COLOR-BLACK);
+  font-size: var(--FONT-SIZE-SMALL);
+}
+
+.barBenefits__definition {
+  color: var(--COLOR-BLACK-LIGHT);
+  font-size: var(--FONT-SIZE-XSMALL);
+}
+
+.barBenefits__link {
+  color: var(--COLOR-CEA-LIGHTER);
+  display: block;
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  margin-top: 8px;
+  text-decoration: none;
+}
+
+.barBenefits__link:hover {
+  text-decoration: underline;
+}
+
+.barBenefits__link:active,
+.barBenefits__link:focus:active,
+.barBenefits__link:hover:active {
+  color: var(--COLOR-CEA);
+}
+
+@media (min-width: 426px) {
+  .barBenefits::after {
+    clear: both;
+    content: '';
+    display: block;
+  }
+
+  .barBenefits__steps {
+    padding: 0;
+  }
+
+  .barBenefits__stepOne,
+  .barBenefits__stepTwo,
+  .barBenefits__stepThree {
+    display: block;
+    float: left;
+    margin-top: 0;
+    padding: 0 11px;
+    text-align: center;
+    width: 33.333%;
+  }
+
+  .barBenefits__stepOne::before,
+  .barBenefits__stepTwo::before,
+  .barBenefits__stepThree::before {
+    display: inline;
+    left: 0;
+    line-height: 38px;
+    position: relative;
+    top: 0;
+  }
+
+  .barBenefits__stepOne::after,
+  .barBenefits__stepTwo::after {
+    background: var(--COLOR-SNOW);
+    content: '';
+    display: block;
+    height: 112px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 1px;
+  }
+}
+
+@media (min-width: 768px) {
+  .barBenefits {
+    margin: 48px auto;
+    padding: 44px 48px 50px 48px;
+  }
+
+  .barBenefits__title {
+    font-size: var(--FONT-SIZE-DISPLAY-LARGE) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+    max-width: 366px;
+  }
+
+  .barBenefits__steps {
+    margin-top: 49px;
+  }
+
+  .barBenefits__stepOne,
+  .barBenefits__stepTwo,
+  .barBenefits__stepThree {
+    padding: 0 22px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .barBenefits {
+    height: 248px;
+  }
+
+  .barBenefits__subtitle,
+  .barBenefits__title {
+    text-align: left;
+  }
+
+  .barBenefits__title {
+    margin: 0;
+  }
+
+  .barBenefits__steps {
+    align-items: top;
+    display: flex;
+    margin: 0;
+    position: absolute;
+    right: 48px;
+    top: 44px;
+    width: calc(100% - 450px);
+  }
+}
+
+@media (min-width: 1076px) {
+  .barBenefits__steps {
+    width: calc(100% - 504px);
+  }
+}
+
+@media (min-width: 1130px) {
+  .barBenefits {
+    height: 234px;
+  }
+}

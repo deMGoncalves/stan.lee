@@ -1,0 +1,89 @@
+.servicesList {
+  display: flex;
+  flex-direction: column;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+}
+
+.servicesList__title,
+.servicesList__link {
+  align-items: center;
+  display: flex;
+  font-size: 14px;
+  height: 48px;
+  padding: 0 12px;
+}
+
+.servicesList__title {
+  background-color: var(--COLOR-SNOW-LIGHT);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+}
+
+@media (min-width: 1024px) {
+  .servicesList__title {
+    font-size: 16px;
+  }
+}
+
+.servicesList__link {
+  border-bottom: 1px solid var(--COLOR-SNOW-LIGHT);
+  color: var(--COLOR-BLACK);
+  text-decoration: none;
+}
+
+.servicesList__link:hover {
+  text-decoration: underline;
+}
+
+.servicesList__link:last-child {
+  border-bottom: none;
+}
+
+.servicesList__link::before {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  content: '';
+  height: 22px;
+  margin-right: 12px;
+  width: 22px;
+}
+
+.servicesList__linkCeaVc::before {
+  background-image: url('./icon-evc.png');
+}
+
+.servicesList__linkBuyWhats::before {
+  background-image: url('./icon-whatsapp.png');
+}
+
+.servicesList__linkSearchStore::before {
+  background-image: url('./icon-shop.png');
+}
+
+.servicesList__linkSac::before {
+  background-image: url('./icon-message.png');
+}
+
+.servicesList__logOut::before {
+  background-image: url('./icon-arrow-exit.png');
+}
+
+.servicesList__label {
+  background-color: var(--COLOR-ORANGE);
+  border-radius: 4px;
+  color: #fff;
+  font-size: 14px;
+  line-height: 16px;
+  margin-left: 12px;
+  padding: 0 4px;
+  text-transform: lowercase;
+}
+
+.servicesList__link:hover .servicesList__label {
+  text-decoration: inherit;
+}
+
+.servicesList__logOut {
+  background-color: #f9fafc;
+  color: #1c73c6;
+}

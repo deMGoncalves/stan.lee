@@ -1,0 +1,10 @@
+{
+  "vtex": {
+    "action": "https://www.cea.com.br/busca",
+    "name": "ft"
+  },
+  "rr": {
+    "action": "https://busca.cea.com.br/search",
+    "name": "_query"
+  }
+}

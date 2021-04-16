@@ -1,0 +1,46 @@
+page-post {
+  display: inline-block;
+  margin: 24px 0;
+  width: 100%;
+}
+
+.pagePost {
+  display: flex;
+  flex-direction: column;
+}
+
+.pagePost__title {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD) !important; /* TODO: !important - css obstrusivo dentro na vtex */
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+  font-weight: 800;
+  line-height: 1.2 !important; /* TODO: css obstrusivo dentro da vtex */
+  margin-bottom: 24px;
+  text-align: center;
+  text-decoration: none !important; /* TODO: css obstrusivo dentro da vtex */
+  text-transform: none !important; /* TODO: css obstrusivo dentro da vtex */
+}
+
+.pagePost__text {
+  color: var(--COLOR-BLACK-LIGHT);
+  font-family: var(--FONT-FAMILY-PRIMARY) !important; /* TODO: !important - css obstrusivo dentro na vtex */
+  font-size: var(--FONT-SIZE-BODY) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+  line-height: 1.5 !important; /* TODO: css obstrusivo dentro da vtex */
+  margin: 24px 0;
+}
+
+@media (min-width: 768px) {
+  .pagePost {
+    flex-direction: column-reverse;
+  }
+
+  .pagePost__title {
+    font-size: var(--FONT-SIZE-DISPLAY-LARGE) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+    margin: 24px 0;
+    text-align: left;
+  }
+
+  .pagePost__text {
+    margin-top: 0;
+  }
+}

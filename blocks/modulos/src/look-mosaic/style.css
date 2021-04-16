@@ -1,0 +1,153 @@
+look-mosaic {
+  display: block;
+  margin: 12px 0;
+}
+
+@media (min-width: 768px) {
+  look-mosaic {
+    margin: 24px 0;
+  }
+}
+
+.brothers__header {
+  margin-bottom: 24px;
+}
+
+@media (min-width: 1200px) {
+  .brothers__header {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    height: 400px;
+    justify-content: center;
+    margin: 6px;
+    padding-left: 100px;
+    width: calc(50% - 12px);
+  }
+}
+
+.brothers__hashTag {
+  color: #ff593f;
+  display: inline-block;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: var(--FONT-SIZE-SMALL);
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+@media (min-width: 768px) {
+  .brothers__hashTag {
+    font-size: var(--FONT-SIZE-DISPLAY-SMALL);
+    margin-bottom: 31px;
+  }
+}
+
+.brothers__title {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL);
+  font-weight: 600;
+  line-height: 1.2;
+  max-width: 309px;
+}
+
+@media (min-width: 768px) {
+  .brothers__title {
+    font-size: var(--FONT-SIZE-DISPLAY-LARGE);
+    max-width: 327px;
+  }
+}
+
+.brothers__description {
+  color: var(--COLOR-BLACK-LIGHT);
+  font-size: var(--FONT-SIZE-XSMALL);
+  margin-top: 8px;
+  max-width: 309px;
+}
+
+@media (min-width: 768px) {
+  .brothers__description {
+    margin-top: 16px;
+    max-width: 279px;
+  }
+}
+
+.brothers__container {
+  display: block;
+  margin: -4px;
+}
+
+.brothers__thumbnail {
+  display: block;
+  float: left;
+  height: calc(1.6 * 100%);
+  margin: 4px;
+  position: relative;
+  width: calc(50% - 8px);
+}
+
+.brothers__link {
+  align-items: flex-end;
+  background-color: rgba(255, 255, 255, 0.4);
+  cursor: pointer;
+  display: none;
+  height: 100%;
+  justify-content: center;
+  left: 0;
+  padding-bottom: 20px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.brothers__thumbnail:hover .brothers__link {
+  display: flex;
+}
+
+@media (min-width: 519px) {
+  .brothers__thumbnail {
+    width: calc(33.334% - 8px);
+  }
+}
+
+@media (min-width: 768px) {
+  .brothers__thumbnail {
+    margin: 6px;
+    width: calc(25% - 12px);
+  }
+}
+
+.brothers__image {
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+}
+
+@media (min-width: 1200px) {
+  .brothers__image {
+    height: 400px;
+  }
+}
+
+.brothers__bubble {
+  border: 1px solid #212b36;
+  border-radius: 40px;
+  height: 40px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 40px;
+  z-index: 1;
+}
+
+@media (min-width: 768px) {
+  .brothers__bubble {
+    border-radius: 60px;
+    height: 60px;
+    left: 12px;
+    top: 12px;
+    width: 60px;
+  }
+}

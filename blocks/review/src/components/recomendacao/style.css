@@ -1,0 +1,36 @@
+.container {
+  padding-bottom: 16px;
+  align-self: flex-end;
+}
+
+.porcentagem {
+  color: var(--COLOR-BLACK-LIGHT);
+  display: inline-block;
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: var(--FONT-SIZE-XSMALL);
+  margin-right: 1px;
+  vertical-align: middle;
+  max-width: 30px;
+}
+
+.texto {
+  color: #878787;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+@media (min-width: 768px) {
+  .porcentagem {
+    display: block;
+    line-height: var(--FONT-SIZE-DISPLAY-XXXLARGE);
+    font-size: var(--FONT-SIZE-DISPLAY-XXXLARGE);
+    margin: 0 auto 20px;
+    max-width: 160px;
+  }
+
+  .texto {
+    font-size: var(--FONT-SIZE-DISPLAY-SMALL) !important;
+    max-width: 250px;
+    margin: auto;
+  }
+}

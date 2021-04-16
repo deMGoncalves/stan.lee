@@ -1,0 +1,12 @@
+.close {
+  background: url('./icon-close.png') no-repeat center;
+  background-size: 16px;
+  cursor: pointer;
+  height: 48px;
+  left: calc(80% - 48px);
+  position: fixed;
+  text-indent: -900em;
+  top: 0;
+  width: 48px;
+  z-index: 3;
+}

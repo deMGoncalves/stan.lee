@@ -1,0 +1,29 @@
+.header {
+  font-family: var(--FONT-FAMILY-SECONDARY);
+}
+
+.header__box {
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 14px;
+}
+
+.header__text {
+  color: var(--COLOR-BLACK-LIGHT);
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: 14px;
+  line-height: 17px;
+  margin: 4px 0 10px 0;
+}
+
+.header__name {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: 18px;
+}
+
+.header__url {
+  color: var(--COLOR-ROSE);
+  font-size: 12px;
+  text-decoration: underline;
+}

@@ -1,0 +1,25 @@
+.copyright {
+  background-color: #F9FAFC;
+}
+
+.copyright__container {
+  max-width: 1200px;
+  padding: 8px 8px 24px 8px;
+  padding-bottom: 24px;
+}
+
+.copyright__text {
+  color: #5F6872;
+  font-size: var(--FONT-SIZE-XSMALL);
+  text-align: justify;
+}
+
+.copyright__text a {
+  color: inherit;
+}
+
+@media (min-width: 768px) {
+  .copyright__container {
+    padding: 8px 12px 24px 12px;
+  }
+}

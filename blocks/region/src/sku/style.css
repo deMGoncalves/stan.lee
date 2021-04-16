@@ -1,0 +1,25 @@
+.sku__button {
+  background-color: #fff;
+  border: 1px solid #333;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-weight: bold;
+  height: 48px;
+  margin-right: 12px;
+  width: 48px;
+}
+
+.sku__button:hover {
+  border: 2px solid var(--COLOR-EMERALD);
+  color: var(--COLOR-EMERALD);
+}
+
+.sku__button:focus {
+  border: 2px solid var(--COLOR-EMERALD);
+  color: var(--COLOR-EMERALD);
+}
+
+.sku__button.true {
+  color: gray;
+}

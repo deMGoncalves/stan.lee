@@ -1,0 +1,35 @@
+.banner,
+.banner.p,
+.banner.m,
+.banner.g,
+.banner img,
+.banner.p img,
+.banner.m img,
+.banner.g img {
+  height: auto;
+}
+
+.banner.cursor {
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .banner.p,
+  .banner.p img {
+    height: 200px;
+  }
+
+  .banner.m,
+  .banner.g,
+  .banner.m img,
+  .banner.g img {
+    height: 300px;
+  }
+}
+
+@media (min-width: 960px) {
+  .banner.g,
+  .banner.g img {
+    height: 400px;
+  }
+}

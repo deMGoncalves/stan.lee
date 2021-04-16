@@ -1,0 +1,15 @@
+bbb-half-banner {
+  display: inline-block;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .bbbHalfBanner__column {
+    float: left;
+    width: calc(50% - 6px);
+  }
+
+  .bbbHalfBanner__column + .bbbHalfBanner__column {
+    margin-left: 12px;
+  }
+}

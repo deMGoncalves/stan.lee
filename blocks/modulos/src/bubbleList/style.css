@@ -1,0 +1,11 @@
+.bubbleList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media (min-width: 768px) {
+  .bubbleList {
+    justify-content: flex-start;
+  }
+}

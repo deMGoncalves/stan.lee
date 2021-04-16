@@ -1,0 +1,141 @@
+.h3 {
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD); /* TODO: - css obstrusivo dentro na vtex */
+  line-height: 1.2 !important; /* TODO: css obstrusivo dentro da vtex */
+  text-decoration: none; /* TODO: css obstrusivo dentro da vtex */
+  text-transform: none; /* TODO: css obstrusivo dentro da vtex */
+}
+
+.h3.cea {
+  color: var(--COLOR-CEA);
+}
+
+.h3.ceaLight {
+  color: var(--COLOR-CEA-LIGHT);
+}
+
+.h3.ceaLighter {
+  color: var(--COLOR-CEA-LIGHTER);
+}
+
+.h3.emerald {
+  color: var(--COLOR-EMERALD);
+}
+
+.h3.emeraldLight {
+  color: var(--COLOR-EMERALD-LIGHT);
+}
+
+.h3.emeraldLighter {
+  color: var(--COLOR-EMERALD-LIGHTER);
+}
+
+.h3.orange {
+  color: var(--COLOR-ORANGE);
+}
+
+.h3.orangeLight {
+  color: var(--COLOR-ORANGE-LIGHT);
+}
+
+.h3.orangeLighter {
+  color: var(--COLOR-ORANGE-LIGHTER);
+}
+
+.h3.black,
+.h3.inverse {
+  color: var(--COLOR-BLACK);
+}
+
+@media (min-width: 768px) {
+  .h3.inverse {
+    color: #fff;
+  }
+}
+
+.h3.blackLight {
+  color: var(--COLOR-BLACK-LIGHT);
+}
+
+.h3.blackLighter {
+  color: var(--COLOR-BLACK-LIGHTER);
+}
+
+.h3.smoke {
+  color: var(--COLOR-SMOKE);
+}
+
+.h3.smokeLight {
+  color: var(--COLOR-SMOKE-LIGHT);
+}
+
+.h3.smokeLighter {
+  color: var(--COLOR-SMOKE-LIGHTER);
+}
+
+.h3.snow {
+  color: var(--COLOR-SNOW);
+}
+
+.h3.snowLight {
+  color: var(--COLOR-SNOW-LIGHT);
+}
+
+.h3.snowLighter {
+  color: var(--COLOR-SNOW-LIGHTER);
+}
+
+.h3.info {
+  color: var(--COLOR-INFO-TEXT);
+}
+
+.h3.success {
+  color: var(--COLOR-SUCCESS-TEXT);
+}
+
+.h3.warning {
+  color: var(--COLOR-WARNING-TEXT);
+}
+
+.h3.danger {
+  color: var(--COLOR-DANGER-TEXT);
+}
+
+.h3.displayXLarge {
+  font-size: var(--FONT-SIZE-DISPLAY-XLARGE); /* TODO: - css obstrusivo dentro da vtex */
+  line-height: 57px;
+}
+
+.h3.displayLarge {
+  font-size: var(--FONT-SIZE-DISPLAY-LARGE); /* TODO: - css obstrusivo dentro da vtex */
+  line-height: 38px;
+}
+
+.h3.displayMedium {
+  font-size: var(--FONT-SIZE-DISPLAY-MEDIUM); /* TODO: - css obstrusivo dentro da vtex */
+  line-height: 39px;
+}
+
+.h3.displaySmall {
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL); /* TODO: - css obstrusivo dentro da vtex */
+  line-height: 39px;
+}
+
+.h3.body {
+  font-size: var(--FONT-SIZE-BODY); /* TODO: - css obstrusivo dentro da vtex */
+  line-height: 34px;
+}
+
+.h3.small {
+  font-size: var(--FONT-SIZE-SMALL); /* TODO: - css obstrusivo dentro da vtex */
+  line-height: 31px;
+}
+
+.h3.xSmall {
+  font-size: var(--FONT-SIZE-XSMALL); /* TODO: - css obstrusivo dentro da vtex */
+  line-height: 18px;
+}
+
+.h3.xXSmall {
+  font-size: var(--FONT-SIZE-XXSMALL); /* TODO: - css obstrusivo dentro da vtex */
+  line-height: 18px;
+}

@@ -1,0 +1,233 @@
+.metro {
+  margin: 0 auto;
+  max-width: 1176px;
+  position: relative;
+  width: 100%;
+}
+
+.metro__estacao {
+  box-sizing: border-box;
+  display: inline-block;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0;
+  width: 100%;
+}
+
+.metro__trilho {
+  display: inline-block;
+  font-size: 0;
+  margin: 0;
+  padding-bottom: 12px;
+  transition: margin-left 1s;
+  transition-timing-function: cubic-bezier(0.5, 0.01, 0.5, 1);
+  white-space: nowrap;
+}
+
+.metro__controle {
+  display: none;
+  left: 0;
+  position: absolute;
+  top: calc(50% - 39px);
+  width: 100%;
+}
+
+.metro__seta {
+  background: #fff;
+  border: none;
+  border-radius: 50%;
+  box-shadow: 0 2px 2px 0 var(--COLOR-SMOKE-LIGHT);
+  cursor: pointer;
+  display: inline-block;
+  height: 48px;
+  position: absolute;
+  width: 48px;
+}
+
+.metro__arrow {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
+}
+
+.metro__arrow::before,
+.metro__arrow::after {
+  background-color: #000;
+  content: '';
+  display: inline-block;
+  height: 14px;
+  left: calc(50%);
+  position: absolute;
+  width: 2px;
+}
+
+.metro__arrow::before {
+  top: calc(50% - 12px);
+  transform: rotate(-45deg);
+}
+
+.metro__arrow::after {
+  top: calc(50% - 2px);
+  transform: rotate(45deg);
+}
+
+.metro__arrow.left {
+  transform: rotate(180deg);
+}
+
+.metro__prox {
+  right: 0;
+}
+
+.metro__prev {
+  left: 0;
+}
+
+.metro__vagao {
+  display: inline-block;
+  font-size: initial;
+  margin: 0;
+  text-align: center;
+  vertical-align: top;
+}
+
+.metro__vagao.columns-4 {
+  width: 172px;
+}
+
+@media (min-width: 768px) {
+  .metro__vagao.columns-4 {
+    width: 294px;
+
+  }
+}
+
+.metro__vagao.columns-6 {
+  width: 168px;
+}
+
+.metro__vagao.columns-8 {
+  width: 102px;
+}
+
+.metro__vagao:first-child {
+  margin-left: 0;
+}
+
+.metro__vagao:last-child {
+  margin-right: 0;
+}
+
+@media (min-width: 296px) and (max-width: 335px) {
+  .metro__vagao.columns-8 {
+    margin: 0 calc((100vw - 296px) / 6);
+  }
+}
+
+@media (min-width: 376px) and (max-width: 415px) {
+  .metro__vagao.columns-8 {
+    margin: 0 calc((100vw - 376px) / 8);
+  }
+}
+
+@media (min-width: 436px) and (max-width: 519px) {
+  .metro__vagao.columns-6 {
+    margin: 0 calc((100vw - 436px) / 4);
+  }
+}
+
+@media (min-width: 456px) and (max-width: 495px) {
+  .metro__vagao.columns-8 {
+    margin: 0 calc((100vw - 456px) / 10);
+  }
+}
+
+@media (min-width: 536px) and (max-width: 575px) {
+  .metro__vagao.columns-8 {
+    margin: 0 calc((100vw - 536px) / 12);
+  }
+}
+
+@media (min-width: 604px) and (max-width: 687px) {
+  .metro__vagao.columns-6 {
+    margin: 0 calc((100vw - 604px) / 6);
+  }
+}
+
+@media (min-width: 616px) and (max-width: 655px) {
+  .metro__vagao.columns-8 {
+    margin: 0 calc((100vw - 616px) / 14);
+  }
+}
+
+@media (min-width: 696px) and (max-width: 735px) {
+  .metro__vagao.columns-8 {
+    margin: 0 calc((100vw - 696px) / 16);
+  }
+}
+
+@media (min-width: 768px) {
+  .metro__vagao.columns-8 {
+    width: 146.8px;
+  }
+}
+
+@media (min-width: 774px) and (max-width: 807px) {
+  .metro__vagao.columns-6 {
+    margin: 0 calc((100vw - 774px) / 8);
+  }
+}
+
+@media (min-width: 808px) {
+  .metro__controle {
+    display: block;
+  }
+
+  .metro__controle.columns-6 {
+    top: 87px;
+  }
+
+  .metro__estacao {
+    overflow: hidden;
+  }
+
+  .metro__vagao.columns-6 {
+    width: 196px;
+  }
+
+  .metro-seta {
+    font-size: 24px;
+    height: 48px;
+    line-height: 48px;
+    position: absolute;
+    text-align: center;
+    width: 48px;
+  }
+}
+
+@media (min-width: 831.4px) and (max-width: 903.8px) {
+  .metro__vagao.columns-8 {
+    margin: 0 calc((100vw - 831.4px) / 10);
+  }
+}
+
+@media (min-width: 906px) and (max-width: 1003px) {
+  .metro__vagao.columns-6 {
+    margin: 0 calc((100vw - 906px) / 8);
+  }
+}
+
+@media (min-width: 978.2px) and (max-width: 1050.6px) {
+  .metro__vagao.columns-8 {
+    margin: 0 calc((100vw - 978.2px) / 12);
+  }
+}
+
+@media (min-width: 1125px) and (max-width: 1197.4px) {
+  .metro__vagao.columns-8 {
+    margin: 0 calc((100vw - 1125px) / 14);
+  }
+}

@@ -1,0 +1,48 @@
+.avaliacao {
+  padding: 20px 0;
+  border-bottom: 1px dashed var(--COLOR-SMOKE-LIGHT);
+}
+
+.avaliacao .nota {
+  font-size: var(--FONT-SIZE-DISPLAY-LARGE);
+  line-height: var(--FONT-SIZE-DISPLAY-LARGE);
+}
+
+.avaliacao .estrela {
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL);
+  line-height: var(--FONT-SIZE-DISPLAY-SMALL);
+}
+
+@media (min-width: 768px) {
+  .avaliacao {
+    padding: 24px 0 48px 0;
+  }
+
+  .avaliacao .nota {
+    font-size: var(--FONT-SIZE-DISPLAY-XLARGE);
+    line-height: var(--FONT-SIZE-DISPLAY-XLARGE);
+  }
+
+  .avaliacao .estrela {
+    font-size: var(--FONT-SIZE-DISPLAY-MEDIUM);
+    line-height: var(--FONT-SIZE-DISPLAY-MEDIUM);
+  }
+
+  .nomeData {
+    font-size: var(--FONT-SIZE-SMALL) !important;
+  }
+
+  .infoNota {
+    display: inline-block;
+    margin-right: 5%;
+    max-width: 150px;
+    vertical-align: top;
+    width: 15%;
+  }
+
+  .infoCliente {
+    display: inline-block;
+    text-align: left;
+    width: 80%;
+  }
+}

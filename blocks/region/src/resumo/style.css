@@ -1,0 +1,27 @@
+.resumo {
+  align-items: center;
+  background-color: var(--COLOR-EMERALD);
+  border: 0;
+  border-radius: 50px;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: var(--FONT-SIZE-BODY);
+  font-weight: bold;
+  height: 48px;
+  line-height: 2;
+  margin: 16px auto;
+  width: 344px;
+}
+
+.resumo:hover {
+  background-color: #03b085;
+}
+
+.resumo__span {
+  font-size: var(--FONT-SIZE-XSMALL);
+  font-weight: normal;
+  line-height: 0;
+}

@@ -1,0 +1,143 @@
+@media (min-width: 1024px) {
+  .megaHeader {
+    background: linear-gradient(180deg, #fff calc(100% - 48px), #eceff5 48px);
+    position: relative;
+    z-index: 2000;
+  }
+}
+
+.megaHeader__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  z-index: 2;
+}
+
+@media (min-width: 1024px) {
+  .megaHeader__container {
+    padding: 0 16px;
+  }
+}
+
+.megaHeader__topBarAlert {
+  width: 100%;
+}
+
+@media (min-width: 1024px) {
+  .megaHeader__topBarAlert {
+    order: 1;
+  }
+}
+
+.megaHeader__lojinha {
+  width: 100%;
+}
+
+@media (min-width: 1024px) {
+  .megaHeader__lojinha {
+    order: 4;
+  }
+}
+
+.megaHeader__menu {
+  height: 48px;
+  width: 48px;
+}
+
+@media (min-width: 1024px) {
+  .megaHeader__menu {
+    order: 9;
+    width: 100%;
+  }
+}
+
+.megaHeader__logo {
+  height: 48px;
+  width: 58px;
+}
+
+@media (min-width: 1024px) {
+  .megaHeader__logo {
+    height: 72px;
+    order: 2;
+    width: 53px;
+  }
+}
+
+.megaHeader__search {
+  height: 48px;
+  width: calc(100% - 154px);
+}
+
+@media (min-width: 1024px) {
+  .megaHeader__search {
+    flex-grow: 1;
+    order: 3;
+  }
+}
+
+.megaHeader__bag {
+  height: 48px;
+  width: 48px;
+}
+
+@media (min-width: 1024px) {
+  .megaHeader__bag {
+    order: 8;
+  }
+}
+
+.megaHeader__services {
+  height: 48px;
+}
+
+.megaHeader__services,
+.megaHeader__region {
+  width: 100%;
+}
+
+@media (min-width: 1024px) {
+  .megaHeader__services {
+    order: 6;
+  }
+}
+
+@media (min-width: 1024px) {
+  .megaHeader__region {
+    order: 5;
+  }
+}
+
+.megaHeader__user {
+  display: none;
+}
+
+@media (min-width: 1024px) {
+  .megaHeader__user {
+    display: flex;
+    order: 7;
+  }
+}
+
+@media (min-width: 1024px) {
+  .megaHeader__bag,
+  .megaHeader__lojinha,
+  .megaHeader__region,
+  .megaHeader__search,
+  .megaHeader__services,
+  .megaHeader__user {
+    height: 72px;
+    margin-left: 16px;
+    width: auto;
+  }
+
+  .megaHeader__lojinha,
+  .megaHeader__region {
+    margin-left: 0;
+  }
+}

@@ -1,0 +1,16 @@
+.comentario {
+  background: var(--COLOR-SNOW-LIGHTER);
+  border-radius: 8px;
+  margin: 12px 0;
+  padding: 20px 12px;
+}
+
+@media (min-width: 768px) {
+  .comentario {
+    background: #fff;
+    line-height: 24px !important;
+    font-size: var(--FONT-SIZE-DISPLAY-SMALL) !important;
+    max-width: 830px;
+    padding: 0;
+  }
+}

@@ -1,0 +1,81 @@
+.grid {
+  margin-left: 10px;
+  min-width: 100%;
+  width: 100%;
+  max-height: 590px;
+}
+
+.grid.WithTwo {
+  display: grid;
+  gap: 10px;
+  grid-template-areas: "Grid-One Grid-Two";
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+}
+
+.grid.WithTwo .One,
+.grid.WithTwo .Two {
+  width: 100%;
+}
+
+.grid.WithThree {
+  display: grid;
+  gap: 10px;
+  grid-template-areas:
+    "Grid-One Grid-Two"
+    "Grid-One Grid-Three";
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.grid.WithThree .One {
+  width: 100%;
+}
+
+.grid.WithThree .Two,
+.grid.WithThree .Three {
+  width: 100%;
+}
+
+.grid.WithFour {
+  display: grid;
+  gap: 10px;
+  grid-template-areas:
+    "Grid-One Grid-Two"
+    "Grid-Three Grid-Four";
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.grid.WithFour .Two,
+.grid.WithFour .Three,
+.grid.WithFour .Four {
+  width: 100%;
+}
+
+.grid.WithFive {
+  display: grid;
+  gap: 10px;
+  grid-template-areas:
+    "Grid-One Grid-Five Grid-Two"
+    "Grid-Three Grid-Five Grid-Four";
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.grid.WithFive .One,
+.grid.WithFive .Two,
+.grid.WithFive .Three,
+.grid.WithFive .Four {
+  width: 100%;
+}
+
+.grid.WithFive .Five {
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .grid {
+    min-width: unset;
+  }
+}

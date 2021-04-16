@@ -1,0 +1,54 @@
+back-button {
+  display: block;
+  position: relative;
+  z-index: 1;
+}
+
+.backButton {
+  align-items: center;
+  background-color: #fff;
+  box-shadow: 0 2px 4px 0 rgba(33, 43, 54, 0.25);
+  display: flex;
+  height: 48px;
+}
+
+.backButton__link {
+  color: var(--COLOR-BLACK);
+  display: inline-flex;
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: var(--FONT-SIZE-SMALL);
+  font-weight: 600;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none;
+}
+
+.backButton__link::before {
+  background: url('https://cea.vteximg.com.br/arquivos/arrow-left_m6wz8s.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 16px 16px;
+  content: '';
+  display: inline-block;
+  height: 12px;
+  margin-right: 8px;
+  width: 16px;
+}
+
+@media (min-width: 768px) {
+  .backButton {
+    height: 64px;
+  }
+
+  .backButton__link {
+    font-size: var(--FONT-SIZE-DISPLAY-MEDIUM);
+    text-align: left;
+  }
+
+  .backButton__link::before {
+    background-size: 20px 20px;
+    height: 28px;
+    margin-right: 16px;
+    width: 28px;
+  }
+}

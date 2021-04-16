@@ -1,0 +1,33 @@
+.gridTabs {
+  display: flex;
+  margin-bottom: 12px;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: none;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  width: 100%;
+}
+
+.gridTabs::-webkit-scrollbar {
+  display: none;
+}
+
+.gridTabs__tab {
+  background: #fff;
+  border-bottom: 3px solid #fff;
+  color: var(--COLOR-BLACK);
+  cursor: pointer;
+  flex: 0 0 136px;
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  padding: 15px 5px;
+  text-align: center;
+  font-size: VAR(--FONT-SIZE-DISPLAY-XSMALL);
+}
+
+.gridTabs__tab--active,
+.gridTabs__tab:hover {
+  border-bottom: 3px solid var(--COLOR-CEA-LIGHTER);
+  color: var(--COLOR-CEA-LIGHTER);
+}

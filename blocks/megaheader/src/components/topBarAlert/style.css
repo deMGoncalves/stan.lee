@@ -1,0 +1,51 @@
+.topBarAlert {
+  background-color: #e5f2ff;
+  cursor: pointer;
+  justify-content: center;
+}
+
+.topBarAlert__container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  min-height: 40px;
+  padding: 8px 16px;
+  position: relative;
+  width: 100%;
+}
+
+@media (min-width: 1024px) {
+  .topBarAlert__container {
+    padding: 8px 12px;
+  }
+}
+
+.topBarAlert.closed {
+  display: none;
+}
+
+.topBarAlert.opened {
+  display: flex;
+}
+
+.topBarAlert__p {
+  color: #104170;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: 12px;
+  line-height: 14px;
+  padding-right: 32px;
+}
+
+.topBarAlert__button {
+  background: url(./icon-close.png) no-repeat;
+  background-position: center;
+  background-size: 16px;
+  border: none;
+  cursor: pointer;
+  height: 100%;
+  position: absolute;
+  right: 16px;
+  text-indent: -9999px;
+  width: 40px;
+}

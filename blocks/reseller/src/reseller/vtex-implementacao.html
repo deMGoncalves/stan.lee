@@ -1,0 +1,27 @@
+<script>
+  function markup (name, callback) {
+    var markup = document.createElement('tr');
+    var td = document.createElement('td');
+    var custom = document.createElement('pixel-reseller');
+
+    td.style.width = '100%';
+    td.append(custom);
+
+    markup.style.padding = '0';
+    markup.append(td);
+
+    document.querySelector('.totalizers-list').append(markup);
+
+    callback(name);
+  }
+
+  function scriptCreate (code) {
+    var script = document.createElement('script');
+    script.src = 'https://cea.vteximg.com.br/arquivos/reseller.' + code + '.js';
+    document.body.append(script);
+  }
+
+  window.addEventListener ('load', function() {
+    markup('21af468a94eb672c0938', scriptCreate);
+  });
+</script>

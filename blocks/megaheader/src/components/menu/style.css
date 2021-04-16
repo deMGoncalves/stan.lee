@@ -1,0 +1,13 @@
+.menu {
+  align-items: center;
+  display: flex;
+
+  /* padding-left: 16px; */
+}
+
+@media (min-width: 1024px) {
+  .menu {
+    background-color: #eceff5;
+    padding: 0;
+  }
+}

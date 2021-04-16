@@ -1,0 +1,40 @@
+.topBar {
+  display: flex;
+  justify-content: center;
+  padding: 6px 0;
+  width: 100%;
+}
+
+.topBar__text {
+  width: 100%;
+  min-height: 54px;
+  background-size: cover;
+  max-width: 1200px;
+  border-radius: 4px;
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-size: var(--FONT-SIZE-SMALL);
+  line-height: 1.5em;
+  padding: 18px 20px; 
+  text-align: center;
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .topBar__text {
+    background-image: none!important;
+    padding: 6px 10px;
+  }
+}
+
+.topBar__coupon {
+  border: 2px dotted;
+  font-weight: bold;
+  margin-left: 4px;
+  padding: 6px 14px;
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.topBar__coupon:hover {
+  opacity: 0.9;
+}

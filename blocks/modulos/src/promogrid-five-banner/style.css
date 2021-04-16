@@ -1,0 +1,48 @@
+promogrid-five-banner {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.promogridFiveBanner__container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 12px 0 24px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.promogridFiveBanner__title {
+  margin-bottom: 12px;
+}
+
+@media (min-width: 768px) {
+  .promogridFiveBanner__row {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .promogridFiveBanner__column {
+    width: calc(50% - 12px);
+  }
+
+  .promogridFiveBanner__banner img {
+    height: 100% !important;
+  }
+
+  .promogridFiveBanner__container {
+    height: 100%;
+    justify-content: flex-end;
+    left: 0;
+    padding: 0 0 24px 0;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+  }
+
+  .promogridFiveBanner__title {
+    margin-bottom: 24px;
+  }
+}

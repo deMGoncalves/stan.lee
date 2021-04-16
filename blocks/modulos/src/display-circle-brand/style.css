@@ -1,0 +1,20 @@
+display-circle-brand + display-circle-brand {
+  margin-top: -48px;
+}
+
+display-circle-brand {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.displayCircleBrand {
+  background-color: var(--COLOR-SNOW-LIGHTER);
+  padding: 24px 0 0 0;
+}
+
+@media (min-width: 768px) {
+  .displayCircleBrand {
+    padding-bottom: 12px;
+  }
+}

@@ -1,0 +1,93 @@
+.figure {
+  cursor: inherit;
+  display: block;
+  margin: 0; /* este reset por causa dos css obstrusivos dentro da vtex */
+  position: relative;
+  width: 100%;
+}
+
+.figure.banner.cursor {
+  cursor: pointer;
+}
+
+.figure__picture {
+  display: inline-block;
+  width: 100%;
+}
+
+.figure__picture picture {
+  display: inherit;
+  height: inherit;
+  width: inherit;
+}
+
+.figure__img {
+  display: inline-block;
+  height: auto;
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+}
+
+.queridinha {
+  cursor: pointer;
+  display: inline-block;
+  padding: 6px;
+  width: 168px;
+}
+
+.queridinha:hover {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 2px 0 var(--COLOR-SMOKE-LIGHT);
+}
+
+.queridinha__figure {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.queridinha__figure picture {
+  border: 1px solid var(--COLOR-SMOKE-LIGHT);
+  border-radius: 50%;
+  box-sizing: content-box;
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 100%;
+}
+
+@media (min-width: 808px) {
+  .queridinha {
+    padding: 12px;
+    width: 196px;
+  }
+}
+
+.queridinha__figure img {
+  height: auto;
+}
+
+.queridinha__title {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-size: var(--FONT-SIZE-XSMALL);
+  font-weight: 400;
+  height: 36px;
+  line-height: 1.45;
+  margin-top: 16px;
+  overflow: hidden;
+  text-decoration: none;
+  white-space: initial;
+}
+
+.queridinha__title.product {
+  color: var(--COLOR-BLACK-LIGHT);
+}
+
+.queridinha__price {
+  color: var(--COLOR-BLACK);
+  font-size: var(--FONT-SIZE-SMALL);
+  margin-top: 8px;
+}

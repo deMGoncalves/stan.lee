@@ -1,0 +1,42 @@
+[
+  {
+    "name": "central de atendimento",
+    "url": "https://atendimentocea.zendesk.com/hc/pt-br",
+    "icon": "CentralAtendimento"
+  },
+  {
+    "name": "compre pelo Whatsapp",
+    "url": "https://wa.me/551135852892",
+    "icon": "Whatsapp"
+  },
+  {
+    "name": "cartão C&A: 4004-0127",
+    "url": "https://www.bradescard.com.br/SiteBradescard/cea",
+    "icon": "Cartao"
+  },
+  {
+    "name": "acompanhar meu pedido",
+    "url": "https://www.cea.com.br/_secure/minha-conta#/pedidos",
+    "icon": "AcompanharLojas"
+  },
+  {
+    "name": "solicitar devolução de pedido",
+    "url": "https://www.cea.com.br/_secure/minha-conta#/pedidos",
+    "icon": "SolicitarDevolucoes"
+  },
+  {
+    "name": "encontrar lojas",
+    "url": "http://www.cea.com.br/lojas",
+    "icon": "EncontrarLojas"
+  },
+  {
+    "name": "C&A&VC",
+    "url": "https://www.cea.com.br/evc-programa-de-relacionamento",
+    "icon": "Ceavc"
+  },
+  {
+    "name": "venda na C&A",
+    "url": "https://www.cea.com.br/galeria-venda-aqui",
+    "icon": "Vendacea"
+  }
+]

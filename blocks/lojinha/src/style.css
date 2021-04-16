@@ -1,0 +1,13 @@
+.lojinha {
+  display: block;
+  margin: 0 auto 128px auto;
+  max-width: 1200px;
+  padding: 0 8px;
+  width: 100%;
+}
+
+@media (min-width: 960px) {
+  .lojinha {
+    padding: 0 12px;
+  }
+}

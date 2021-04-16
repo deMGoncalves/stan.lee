@@ -1,0 +1,65 @@
+.order {
+  box-sizing: border-box;
+  clear: both;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0.75rem;
+  width: 100%;
+}
+
+.order__table {
+  border: 1px solid #aaa;
+  border-collapse: collapse;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  max-width: 768px;
+  width: 100%;
+}
+
+@media (max-width: 767px) {
+  .order__table thead { display: none; }
+}
+
+.order__table td,
+.order__table th {
+  vertical-align: top;
+}
+
+@media (min-width: 768px) {
+  .order__table td,
+  .order__table th {
+    border: 1px solid #aaa;
+    width: 50%;
+  }
+}
+
+.order__table th {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 5px;
+  text-align: left;
+}
+
+@media (max-width: 767px) {
+  .order__table td {
+    display: block;
+    padding: 0 10px;
+  }
+}
+
+.order__table td::before {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+@media (min-width: 768px) {
+  .order__table td::before { display: none; }
+}
+
+.order__table td:nth-child(1)::before {
+  content: 'produtos';
+}
+
+.order__table td:nth-child(2)::before {
+  content: 'opcoes de entrega';
+}

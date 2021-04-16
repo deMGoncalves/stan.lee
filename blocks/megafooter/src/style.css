@@ -1,0 +1,40 @@
+cea-megafooter {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+
+.megafooter__paymentAndSecurity {
+  background-color: #F9FAFC;
+}
+
+.megafooter__container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.megafooter__connected,
+.megafooter__payment,
+.megafooter__security,
+.megafooter__disclaimer,
+.megafooter__copyright,
+.megafooter__bci,
+.megafooter__lead {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.megafooter__lead {
+  background-color: #F9FAFC;
+}
+
+@media (min-width: 1011px) {
+  .megafooter__container {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}

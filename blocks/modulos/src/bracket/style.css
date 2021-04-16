@@ -1,0 +1,61 @@
+.bracket__container {
+  padding: 12px 0;
+  text-align: center;
+}
+
+.bracket__title {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD); /* TODO: - css obstrusivo dentro na vtex */
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL); /* TODO: - css obstrusivo dentro da vtex */
+  font-weight: 600;
+  line-height: 1.2 !important; /* TODO: css obstrusivo dentro da vtex */
+  text-decoration: none; /* TODO: css obstrusivo dentro da vtex */
+  text-transform: none; /* TODO: css obstrusivo dentro da vtex */
+}
+
+.bracket__link {
+  color: var(--COLOR-CEA-LIGHTER);
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-size: var(--FONT-SIZE-SMALL);
+  text-decoration: none;
+}
+
+.bracket__link:hover {
+  text-decoration: underline;
+}
+
+.bracket__link:active,
+.bracket__link:focus:active,
+.bracket__link:hover:active {
+  color: var(--COLOR-CEA);
+}
+
+@media (min-width: 768px) {
+  .bracket__link {
+    font-size: var(--FONT-SIZE-BODY);
+  }
+}
+
+.bracket__description {
+  color: #5f6872;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 19px;
+  text-align: center;
+}
+
+.bracket__description a,
+.bracket__description a:visited,
+.bracket__description a:focus {
+  color: #1c73c6;
+}
+
+.bracket__figure + .bracket__figure {
+  margin-left: 12px;
+}
+
+.bracket__figure.cursor {
+  cursor: pointer;
+}

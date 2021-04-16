@@ -1,0 +1,9 @@
+banner-tarja {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.bannerTarja__banner img {
+  height: auto !important;
+}

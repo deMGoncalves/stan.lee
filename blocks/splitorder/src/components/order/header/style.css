@@ -1,0 +1,25 @@
+.header {
+  background-color: transparent;
+  color: #333;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  height: auto;
+  max-width: 768px;
+}
+
+.header__title {
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: 24.5px;
+  line-height: 40px;
+  margin: 10px 0;
+  text-transform: lowercase;
+}
+
+.header__subtitle { font-size: 18px; }
+
+.header__text,
+.header__seller {
+  margin-bottom: 14px;
+}
+
+.header__seller { font-size: 16px; }

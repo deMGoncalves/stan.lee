@@ -1,0 +1,70 @@
+.modulo {
+  display: inline-block;
+  margin: 12px 0;
+  width: 100%;
+}
+
+.modulo__title {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD) !important; /* TODO: !important - css obstrusivo dentro na vtex */
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+  font-weight: 800;
+  line-height: 1.2 !important; /* TODO: css obstrusivo dentro da vtex */
+  margin-bottom: 24px;
+  text-align: center;
+  text-decoration: none !important; /* TODO: css obstrusivo dentro da vtex */
+  text-transform: none !important; /* TODO: css obstrusivo dentro da vtex */
+}
+
+.modulo__subTitle {
+  color: var(--COLOR-BLACK-LIGHT);
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-size: var(--FONT-SIZE-SMALL);
+  font-weight: 400;
+  line-height: 24px;
+  margin: -24px 0 24px 0;
+  text-align: center;
+}
+
+.modulo__text {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-PRIMARY) !important; /* TODO: !important - css obstrusivo dentro na vtex */
+  font-size: var(--FONT-SIZE-SMALL) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+  line-height: 1.5 !important; /* TODO: css obstrusivo dentro da vtex */
+  margin-top: 12px;
+  text-align: center;
+}
+
+.modulo__moreLink {
+  color: var(--COLOR-CEA-LIGHTER);
+  display: block;
+  margin-top: 24px;
+  text-align: center;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .modulo {
+    margin: 16px 0;
+  }
+
+  .modulo__title {
+    font-size: var(--FONT-SIZE-DISPLAY-LARGE) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+    text-align: left;
+    width: calc(100% - 200px);
+  }
+
+  .modulo__subTitle {
+    font-size: var(--FONT-SIZE-BODY);
+    text-align: left;
+  }
+
+  .modulo__moreLink {
+    float: right;
+    margin: 10px 0 0 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: auto;
+  }
+}

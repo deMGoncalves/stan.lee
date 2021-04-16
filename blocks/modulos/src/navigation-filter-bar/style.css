@@ -1,0 +1,60 @@
+navigation-filter-bar {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.navigationFilterBar__title {
+  color: var(--COLOR-BLACK);
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD) !important; /* TODO: !important - css obstrusivo dentro na vtex */
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+  line-height: 1.2 !important; /* TODO: css obstrusivo dentro da vtex */
+  text-align: center;
+  text-decoration: none !important; /* TODO: css obstrusivo dentro da vtex */
+  text-transform: none !important; /* TODO: css obstrusivo dentro da vtex */
+}
+
+.navigationFilterBar__subtitle {
+  color: var(--COLOR-BLACK-LIGHT);
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-size: var(--FONT-SIZE-BODY);
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 48px;
+}
+
+.navigationFilterBar__column {
+  background-color: var(--COLOR-SNOW-LIGHT);
+  padding: 24px 12px;
+}
+
+.navigationFilterBar__column:nth-child(2) {
+  background-color: var(--COLOR-SNOW-LIGHTER);
+}
+
+@media (min-width: 768px) {
+  .navigationFilterBar__title {
+    font-size: var(--FONT-SIZE-DISPLAY-LARGE) !important; /* TODO: !important - css obstrusivo dentro da vtex */
+    text-align: left;
+  }
+
+  .navigationFilterBar__column {
+    padding: 80px 48px;
+  }
+
+  .navigationFilterBar__button a {
+    min-width: 148px;
+    width: 148px !important;
+  }
+}
+
+@media (min-width: 1024px) {
+  .navigationFilterBar__row {
+    display: flex;
+  }
+
+  .navigationFilterBar__column {
+    float: left;
+    width: 50%;
+  }
+}

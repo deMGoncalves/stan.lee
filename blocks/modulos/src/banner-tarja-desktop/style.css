@@ -1,0 +1,9 @@
+banner-tarja-desktop {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+
+.bannerTarjaDesktop__banner img {
+  height: auto !important;
+}

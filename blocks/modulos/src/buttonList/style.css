@@ -1,0 +1,100 @@
+.buttonList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: -12px;
+}
+
+.buttonList__button {
+  align-items: center;
+  appearance: none;
+  background-color: var(--COLOR-SMOKE-LIGHTER);
+  border: 1px solid var(--COLOR-SMOKE-LIGHT);
+  border-radius: 16px;
+  color: var(--COLOR-BLACK-LIGHTER);
+  cursor: pointer;
+  display: inline-flex;
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: var(--FONT-SIZE-SMALL);
+  font-weight: 600;
+  height: 32px;
+  justify-content: center;
+  line-height: 1;
+  margin: 12px auto 0 auto;
+  min-width: 176px;
+  padding: 0 16px;
+  text-align: center;
+  text-decoration: none;
+  width: 232px;
+}
+
+.buttonList__button.black,
+.buttonList__button.inverse {
+  background-color: #212b36;
+  border: none;
+  color: #fff;
+}
+
+.buttonList__button.black:hover,
+.buttonList__button.inverse:hover {
+  background-color: #4c545d;
+  box-shadow: 2px 2px 11px 0 #5f6872;
+  transition: all 0.5s;
+}
+
+.buttonList__button:active,
+.buttonList__button:focus:active,
+.buttonList__button:hover:active {
+  background-color: #7e858d;
+}
+
+.buttonList__button.small {
+  min-width: 76px;
+  width: 76px;
+}
+
+@media (min-width: 484px) {
+  .buttonList {
+    justify-content: center;
+    margin: -12px 0 0 -12px;
+  }
+
+  .buttonList__button {
+    margin: 12px 0 0 12px;
+    width: 176px;
+  }
+}
+
+@media (min-width: 768px) {
+  .buttonList {
+    justify-content: flex-start;
+    margin: -24px 0 0 -24px;
+  }
+
+  .buttonList__button {
+    border-radius: 24px;
+    font-size: var(--FONT-SIZE-BODY);
+    height: 48px;
+    margin: 24px 0 0 24px;
+    padding: 0 24px;
+    width: auto;
+  }
+
+  .buttonList__button.inverse {
+    background-color: #fff;
+    border: none;
+    color: #212b3c;
+  }
+
+  .buttonList__button.inverse:hover {
+    background-color: #eff2f7;
+    box-shadow: 2px 2px 11px 0 #5f6872;
+    transition: all 0.5s;
+  }
+
+  .buttonList__button.inverse:active,
+  .buttonList__button.inverse:focus:active,
+  .buttonList__button.inverse:hover:active {
+    background-color: #eff2f7;
+  }
+}

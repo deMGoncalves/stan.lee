@@ -1,0 +1,123 @@
+.figure {
+  display: block;
+  margin: 0; /* este reset por causa da vtex */
+  position: relative;
+  width: 100%;
+}
+
+.figure.hover .figure__picture,
+.figure.hover .figure__figcaption.in,
+.figure.hover .figure__figcaption.outIn {
+  cursor: pointer;
+}
+
+.figure__picture {
+  display: block;
+  width: 100%;
+}
+
+.figure__img {
+  display: block;
+  height: auto;
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .figure__img.half {
+    height: 200px;
+  }
+}
+
+.figure__figcaption {
+  display: block;
+}
+
+%in {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.figure__figcaption.in,
+.figure__figcaption.inOut {
+  @extend %in;
+}
+
+.in.left,
+.inOut.left {
+  align-items: flex-start;
+}
+
+.in.center,
+.inOut.center {
+  align-items: center;
+}
+
+.in.right,
+.inOut.right {
+  align-items: flex-end;
+}
+
+.in.top,
+.inOut.top {
+  justify-content: flex-start;
+}
+
+.in.middle,
+.inOut.middle {
+  justify-content: center;
+}
+
+.in.bottom,
+.inOut.bottom {
+  justify-content: flex-end;
+}
+
+@media (min-width: 768px) {
+  .figure__figcaption.outIn {
+    @extend %in;
+  }
+
+  .figure__figcaption.out,
+  .figure__figcaption.inOut {
+    display: block;
+    height: auto;
+    position: relative;
+  }
+
+  .out.left,
+  .outIn.left {
+    align-items: flex-start;
+  }
+
+  .out.center,
+  .outIn.center {
+    align-items: center;
+  }
+
+  .out.right,
+  .outIn.right {
+    align-items: flex-end;
+  }
+
+  .out.top,
+  .outIn.top {
+    justify-content: flex-start;
+  }
+
+  .out.middle,
+  .outIn.middle {
+    justify-content: center;
+  }
+
+  .out.bottom,
+  .outIn.bottom {
+    justify-content: flex-end;
+  }
+}

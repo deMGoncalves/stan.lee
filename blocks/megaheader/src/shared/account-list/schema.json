@@ -1,0 +1,32 @@
+[
+  {
+    "name": "meus pedidos",
+    "url": "//www.cea.com.br/_secure/minha-conta#/pedidos",
+    "icon": "Bag"
+  },
+  {
+    "name": "meu perfil",
+    "url": "//www.cea.com.br/_secure/minha-conta#/dados",
+    "icon": "Perfil"
+  },
+  {
+    "name": "C&A&VC",
+    "url": "//www.cea.com.br/_secure/minha-conta#/cea-e-vc/inicio",
+    "icon": "Ceavc"
+  },
+  {
+    "name": "endereços de entrega",
+    "url": "//www.cea.com.br/_secure/minha-conta#/enderecos",
+    "icon": "Entrega"
+  },
+  {
+    "name": "lista de favoritos",
+    "url": "//www.cea.com.br/_secure/minha-conta#/lista-de-desejos",
+    "icon": "Favoritos"
+  },
+  {
+    "name": "acompanhar devoluções",
+    "url": "https://www.cea.com.br/login",
+    "icon": "Devolucoes"
+  }
+]

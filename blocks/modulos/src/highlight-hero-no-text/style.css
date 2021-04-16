@@ -1,0 +1,30 @@
+highlight-hero-no-text {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.highlightHeroNoText__container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 12px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.highlightHeroNoText__title {
+  margin-bottom: 12px;
+}
+
+@media (min-width: 768px) {
+  .highlightHeroNoText__container {
+    height: 100%;
+    justify-content: flex-end;
+    left: 0;
+    padding: 0 0 24px 0;
+    position: absolute;
+    top: 0;
+  }
+}

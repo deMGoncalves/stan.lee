@@ -1,0 +1,14 @@
+.quantidade {
+  margin: 12px auto 24px;
+}
+
+.quantidade b {
+  font-weight: 500;
+}
+
+@media (min-width: 768px) {
+  .quantidade {
+    font-size: var(--FONT-SIZE-DISPLAY-SMALL) !important;
+    margin: 12px auto 16px;
+  }
+}

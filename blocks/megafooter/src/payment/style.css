@@ -1,0 +1,49 @@
+.payment {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start !important;
+  padding: 24px 8px;
+}
+
+.payment__title {
+  color: #212B36;
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL);
+  margin-bottom: 12px;
+}
+
+.payment__list {
+  display: inline;
+  margin: -4px;
+}
+
+.payment__item {
+  display: inline-block;
+  height: 38px;
+  margin: 4px;
+  overflow: hidden;
+  text-indent: -99999px;
+  width: 61px;
+}
+
+.payment__visa,
+.payment__mastercard,
+.payment__dinners,
+.payment__hipercard,
+.payment__elo,
+.payment__cartaocea,
+.payment__cartaopresente,
+.payment__boleto {
+  display: block;
+}
+
+@media (min-width: 1011px) {
+  .payment {
+    padding: 24px 12px;
+    width: 576px !important;
+  }
+
+  .payment__list {
+    padding-top: 17px;
+  }
+}

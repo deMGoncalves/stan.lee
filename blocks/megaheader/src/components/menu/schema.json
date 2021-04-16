@@ -1,0 +1,5080 @@
+[
+  {
+    "name": "novidades",
+    "url": "https://www.cea.com.br/novidades",
+    "categorias": [
+      {
+        "name": "feminino",
+        "url": "https://www.cea.com.br/moda/feminina/novidades",
+        "subcategorias": []
+      },
+      {
+        "name": "masculino",
+        "url": "https://www.cea.com.br/novidades/masculino",
+        "subcategorias": []
+      },
+      {
+        "name": "infantil",
+        "url": "https://www.cea.com.br/moda/infantil/novidades",
+        "subcategorias": []
+      },
+      {
+        "name": "calçados",
+        "url": "https://www.cea.com.br/calcados",
+        "subcategorias": []
+      },
+      {
+        "name": "beleza",
+        "url": "https://www.cea.com.br/novidades?fq=C:1000438&fq=H:9577&categories=beleza&O=vtexscore+DESC&PS=48",
+        "subcategorias": []
+      },
+      {
+        "name": "Mindset",
+        "url": "https://www.cea.com.br/mindset/vitrine/todos",
+        "subcategorias": []
+      }
+    ]
+  },
+  {
+    "name": "feminino",
+    "url": "https://www.cea.com.br/moda-feminina",
+    "categorias": [
+      {
+        "name": "roupas",
+        "url": "https://www.cea.com.br/moda/feminina",
+        "banners": [
+          {
+            "name": "Mindset",
+            "image": "https://appb2c-pages.s3.amazonaws.com/site/2020/mega-header/menu-1-fem-mindse7.jpg",
+            "url": "https://www.cea.com.br/mindset?utmi_campaign=_ID-007312_CAMP_MIND_HOME-FEM_BM01_M11_20201008_MENU-MINDSE7_GENERICO"
+          },
+          {
+            "name": "Pijamas",
+            "image": "https://appb2c-pages.s3.amazonaws.com/site/2020/mega-header/menu-2-fem-pijamas.jpg",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/pijamas?utmi_campaign=_ID-007314_CAMP_FEM_HOME-FEM_BM03_M11_20201007_MENU-PIJAMAS_GENERICO"
+          },
+          {
+            "name": "Mais Vendidos",
+            "image": "https://appb2c-pages.s3.amazonaws.com/site/2020/mega-header/menu-3-fem-mais-vendidos.jpg",
+            "url": "https://www.cea.com.br/moda/feminina/mais-vendidos?utmi_campaign=_ID-007313_CAMP_FEM_HOME-FEM_BM02_M11_20201007_MENU-MAIS-VENDIDOS_GENERICO"
+          },
+          {
+            "name": "Banner Básicos",
+            "image": "https://appb2c-pages.s3.amazonaws.com/site/2020/mega-header/menu-4-fem-basicos.jpg",
+            "url": "https://www.cea.com.br/roupas-basicas/feminino/todos?utmi_campaign=_ID-007315_CAMP_FEM_HOME-FEM_BM04_M11_20201007_MENU-BASICOS_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "básicos",
+            "url": "https://www.cea.com.br/roupas-basicas/feminino/todos"
+          },
+          {
+            "name": "body",
+            "url": "https://www.cea.com.br/moda/feminina/blusas/bodies"
+          },
+          {
+            "name": "blusas",
+            "url": "https://www.cea.com.br/moda-feminina/blusas"
+          },
+          {
+            "name": "cropped",
+            "url": "https://www.cea.com.br/moda/feminina/blusas/cropped"
+          },
+          {
+            "name": "baby look",
+            "url": "https://www.cea.com.br/moda/feminina/blusas/baby-look"
+          },
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/moda-feminina/camisas"
+          },
+          {
+            "name": "camisetas",
+            "url": "https://www.cea.com.br/moda-feminina/camisetas"
+          },
+          {
+            "name": "regatas",
+            "url": "https://www.cea.com.br/moda/feminina/blusas/regatas"
+          },
+          {
+            "name": "blazer",
+            "url": "https://www.cea.com.br/moda/feminina/blazers"
+          },
+          {
+            "name": "sueter e cardigan",
+            "url": "https://www.cea.com.br/moda/feminina/cardigans-e-sueteres"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/moda-feminina/casacos-e-jaquetas"
+          },
+          {
+            "name": "moletom",
+            "url": "https://www.cea.com.br/moda/feminina/moletom"
+          },
+          {
+            "name": "macacões e jardineiras",
+            "url": "https://www.cea.com.br/moda-feminina/macacoes-e-jardineiras?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "vestidos",
+            "url": "https://www.cea.com.br/moda-feminina/vestidos"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/moda-feminina/calcas"
+          },
+          {
+            "name": "calças jeans",
+            "url": "https://www.cea.com.br/jeans/feminino/calcas"
+          },
+          {
+            "name": "saias",
+            "url": "https://www.cea.com.br/moda-feminina/saias"
+          },
+          {
+            "name": "shorts e bermudas",
+            "url": "https://www.cea.com.br/moda/feminina/shorts-e-bermudas"
+          },
+          {
+            "name": "short jeans",
+            "url": "https://www.cea.com.br/jeans/feminino/shorts-e-bermudas"
+          }
+        ]
+      },
+      {
+        "name": "novidades",
+        "url": "https://www.cea.com.br/moda/feminina/novidades",
+        "subcategorias": []
+      },
+      {
+        "name": "moda plus size",
+        "url": "https://www.cea.com.br/plus-size/feminino",
+        "subcategorias": [
+          {
+            "name": "blusas",
+            "url": "https://www.cea.com.br/plus-size/feminino/blusas"
+          },
+          {
+            "name": "camisetas",
+            "url": "https://www.cea.com.br/plus-size/feminino/camisetas"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/plus-size/feminino/calcas"
+          },
+          {
+            "name": "calças jeans",
+            "url": "https://www.cea.com.br/jeans/feminino/plus-size"
+          },
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/plus-size/feminino/camisas"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/plus-size/feminino/casacos-e-jaquetas"
+          },
+          {
+            "name": "macacões e jardineiras",
+            "url": "https://www.cea.com.br/plus-size/feminino/macacoes-e-jardineiras"
+          },
+          {
+            "name": "moda esportiva",
+            "url": "https://www.cea.com.br/plus-size/feminino/moda-esportiva"
+          },
+          {
+            "name": "moda íntima",
+            "url": "https://www.cea.com.br/plus-size/feminino/moda-intima"
+          },
+          {
+            "name": "moda praia",
+            "url": "https://www.cea.com.br/plus-size/feminino/moda-praia"
+          },
+          {
+            "name": "moletom",
+            "url": "https://www.cea.com.br/plus-size/feminino/moletom"
+          },
+          {
+            "name": "saias",
+            "url": "https://www.cea.com.br/plus-size/feminino/saias"
+          },
+          {
+            "name": "shorts e bermudas",
+            "url": "https://www.cea.com.br/plus-size/feminino/shorts-e-bermudas"
+          },
+          {
+            "name": "vestidos",
+            "url": "https://www.cea.com.br/plus-size/vestidos"
+          },
+          {
+            "name": "jeans",
+            "url": "https://www.cea.com.br/jeans/feminino/plus-size"
+          },
+          {
+            "name": "basicos",
+            "url": "https://www.cea.com.br/plus-size/feminino/basicos"
+          }
+        ]
+      },
+      {
+        "name": "mindset",
+        "url": "https://www.cea.com.br/mindset",
+        "banners":[
+          {
+            "name": "Todos os produtos",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-06/feminino/menu-lateral-mindse7/bannner-menu-1-lateral-mindset-todos-os-produtos_ID-8037.png",
+            "url": "http://www.cea.com.br/mindset?utmi_campaign=ID-008037_CAMP_MIND_HOME-PRC_BM01_M11_20210201_MENU-FEMININO-MINDSE7-TODOS-OS-PRODUTOS_GENERICO"
+          },
+          {
+            "name": "Novos jeans",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-14/feminino/menu-mindset/banner-menu-mindset-novos-jeans_ID-8316.jpg",
+            "url": "https://www.cea.com.br/mindset/new-denim?utmi_campaign=ID-008316_CAMP_MIND_HOME-PRC_BM02_M11_20210330_MENU-FEMININO-MINDSE7-NOVOS-JEANS_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "blusas",
+            "url": "https://www.cea.com.br/moda-feminina/blusas/5667?PS=9&map=c,c,productClusterIds&order=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "vestidos",
+            "url": "https://www.cea.com.br/mindset/vitrine/vestidos"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/moda-feminina/calcas/5667?PS=9&map=c,c,productClusterIds&order=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "shorts e bermudas",
+            "url": "https://www.cea.com.br/moda-feminina/shorts-e-bermudas/5667?PS=9&map=c,c,productClusterIds&order=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "saias",
+            "url": "https://www.cea.com.br/moda-feminina/saias/5667?PS=9&map=c,c,productClusterIds&order=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "camisetas",
+            "url": "https://www.cea.com.br/mindset/vitrine/t-shirts"
+          },
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/moda-feminina/camisas/5667?PS=9&map=c,c,productClusterIds&order=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "macacões",
+            "url": "https://www.cea.com.br/moda-feminina/macacoes-e-jardineiras/5667?PS=9&map=c,c,productClusterIds&order=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/moda-feminina/casacos-e-jaquetas/5667?PS=9&map=c,c,productClusterIds&order=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "calçados",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/5667?PS=9&map=c,c,productClusterIds&order=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/5667?PS=9&map=c,c,productClusterIds&order=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "moda praia",
+            "url": "https://www.cea.com.br/moda-feminina/moda-praia/5667?PS=9&map=c,c,productClusterIds&order=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "moletom",
+            "url": "https://www.cea.com.br/moda-feminina/mindset/Moletom?PS=9&map=c,,specificationFilter_9&order=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "tendências",
+            "url": "https://www.cea.com.br/mindset/vitrine/todos"
+          },
+          {
+            "name": "mais vendidos",
+            "url": "https://www.cea.com.br/moda-feminina/mindset?PS=9&order=OrderByTopSaleDESC"
+          },
+          {
+            "name": "todos os produtos",
+            "url": "https://www.cea.com.br/moda-feminina/mindset?PS=9&order=OrderByScoreDESC"
+          }
+      ]
+      },
+      {
+        "name": "calçados",
+        "url": "https://www.cea.com.br/moda-feminina/calcados?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "botas",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/botas?O=vtexscore+DESC"
+          },
+          {
+            "name": "chinelos",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/chinelos?O=vtexscore+DESC"
+          },
+          {
+            "name": "pantufas",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/pantufas?O=vtexscore+DESC"
+          },
+          {
+            "name": "rasteirinhas",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/sandalias/rasteirinhas?O=vtexscore+DESC"
+          },
+          {
+            "name": "sandálias",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/sandalias?O=vtexscore+DESC"
+          },
+          {
+            "name": "sapatilhas",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/sapatilhas?O=vtexscore+DESC"
+          },
+          {
+            "name": "mocassim",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/sapatos/mocassim?O=vtexscore+DESC"
+          },
+          {
+            "name": "mules",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/sapatos/mule?O=vtexscore+DESC"
+          },
+          {
+            "name": "oxford",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/sapatos/oxford?O=vtexscore+DESC"
+          },
+          {
+            "name": "scarpin",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/scarpin?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis casual",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/tenis?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis sneaker",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/tenis/sneaker?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis esportivo",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/tenis/esportivo?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "moda praia",
+        "url": "https://www.cea.com.br/moda-feminina/moda-praia?O=OrderByTopSaleDESC",
+        "subcategorias": [
+          {
+            "name": "biquini",
+            "url": "https://www.cea.com.br/moda-feminina/moda-praia/biquinis?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "maiô",
+            "url": "https://www.cea.com.br/moda-feminina/moda-praia/maios?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "saída",
+            "url": "https://www.cea.com.br/moda-feminina/moda-praia/saidas-de-praia?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/moda-feminina/moda-praia/acessorios-de-praia?O=OrderByTopSaleDESC"
+          }
+        ]
+      },
+      {
+        "name": "acessórios",
+        "url": "https://www.cea.com.br/moda-feminina/acessorios?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "bolsas",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/bolsas-e-mochilas?O=vtexscore+DESC"
+          },
+          {
+            "name": "chapéus",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/chapeus-e-boinas?O=vtexscore+DESC"
+          },
+          {
+            "name": "relógios",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/relogios?O=vtexscore+DESC"
+          },
+          {
+            "name": "máscaras",
+            "url": "https://www.cea.com.br/mascara-protecao"
+          },
+          {
+            "name": "carteiras",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/carteiras?O=vtexscore+DESC"
+          },
+          {
+            "name": "cintos",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/cintos?O=vtexscore+DESC"
+          },
+          {
+            "name": "óculos",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/oculos?O=vtexscore+DESC"
+          },
+          {
+            "name": "necessarie",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/necessaire"
+          },
+          {
+            "name": "lenços",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/lencos"
+          },
+          {
+            "name": "joias e bijoux",
+            "url": "https://www.cea.com.br/moda/feminina/bijuterias"
+          }
+        ]
+      },
+      {
+        "name": "moda esportiva",
+        "url": "https://www.cea.com.br/ace",
+        "subcategorias": [
+          {
+            "name": "top",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/top?O=vtexscore+DESC"
+          },
+          {
+            "name": "blusas e regatas",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/blusas?O=vtexscore+DESC"
+          },
+          {
+            "name": "shorts e bermudas",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/shorts?O=vtexscore+DESC"
+          },
+          {
+            "name": "calças e leggings",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/calcas?O=vtexscore+DESC"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/casacos-e-jaquetas?O=vtexscore+DESC"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/acessorios?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "moda íntima",
+        "url": "https://www.cea.com.br/moda-feminina/moda-intima?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "pijamas e short doll",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/pijamas"
+          },
+          {
+            "name": "camisolas",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/camisolas"
+          },
+          {
+            "name": "kit de calcinha",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/kits"
+          },
+          {
+            "name": "calcinhas",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/calcinhas?O=vtexscore+DESC"
+          },
+          {
+            "name": "sutiãs e tops",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/sutias?O=vtexscore+DESC"
+          },
+          {
+            "name": "meias",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/meias?O=vtexscore+DESC"
+          },
+          {
+            "name": "cintas e modeladores",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/funcionais?O=vtexscore+DESC"
+          },
+          {
+            "name": "robes e roupões",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/roupoes?O=vtexscore+DESC"
+          },
+          {
+            "name": "gestante",
+            "url": "https://www.cea.com.br/roupas-para-gestantes/lingerie"
+          },
+          {
+            "name": "plus size",
+            "url": "https://www.cea.com.br/plus-size/feminino/moda-intima"
+          },
+          {
+            "name": "monte seu conjunto",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/monte-seu-conjunto?O=vtexscore+DESC"
+          },
+          {
+            "name": "algodão",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/algodao"
+          },
+          {
+            "name": "renda",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/renda"
+          },
+          {
+            "name": "body",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/bodies-e-camisetes?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "tendências",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "básicos",
+            "url": "https://www.cea.com.br/roupas-basicas/feminino/todos"
+          },
+          {
+            "name": "maternidade",
+            "url": "https://www.cea.com.br/roupas-para-gestantes/todas"
+          },
+          {
+            "name": "mindset",
+            "url": "https://www.cea.com.br/mindset"
+          },
+          {
+            "name": "personagens",
+            "url": "https://www.cea.com.br/moda/feminina/personagens"
+          },
+          {
+            "name": "tal mãe, tal filho",
+            "url": "https://www.cea.com.br/moda/tal-mae-tal-filhos"
+          },
+          {
+            "name": "tie dye",
+            "url": "https://www.cea.com.br/moda/feminina/tie-dye"
+          },
+          {
+            "name": "manga bufante",
+            "url": "https://www.cea.com.br/moda/feminina/manga-bufante"
+          },
+          {
+            "name": "muscle tee",
+            "url": "https://www.cea.com.br/moda/feminina/muscle-tee"
+          },
+          {
+            "name": "produtos exclusivos online",
+            "url": "https://www.cea.com.br/exclusivo-online/feminino"
+          },
+          {
+            "name": "produtos sustentáveis",
+            "url": "https://www.cea.com.br/moda/algodao-sustentavel/moda-feminina"
+          },
+          {
+            "name": "conforto",
+            "url": "https://www.cea.com.br/roupas-confortaveis/feminino"
+          }
+        ]
+      },
+      {
+        "name": "marcas",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "Mindset",
+            "url": "https://www.cea.com.br/mindset"
+          },
+          {
+            "name": "Clock House",
+            "url": "https://www.cea.com.br/moda/feminina/clock-house"
+          },
+          {
+            "name": "Yessica",
+            "url": "https://www.cea.com.br/moda/feminina/yessica"
+          },
+          {
+            "name": "Basics",
+            "url": "https://www.cea.com.br/moda/feminina/basics"
+          },
+          {
+            "name": "Acqua by Classic",
+            "url": "https://www.cea.com.br/galeria-cea/acqua-by-classic"
+          },
+          {
+            "name": "Blueman",
+            "url": "https://www.cea.com.br/galeria-cea/blueman"
+          },
+          {
+            "name": "Cia Marítima",
+            "url": "https://www.cea.com.br/galeria-cea/cia-maritima"
+          },
+          {
+            "name": "Daluz",
+            "url": "https://www.cea.com.br/galeria-cea/daluz/feminino"
+          },
+          {
+            "name": "Flaminga",
+            "url": "https://www.cea.com.br/galeria-cea/flaminga/feminino"
+          },
+          {
+            "name": "Sawary Jeans",
+            "url": "https://www.cea.com.br/galeria-cea/sawary/todos/feminino"
+          },
+          {
+            "name": "Triya",
+            "url": "https://www.cea.com.br/galeria-cea/triya/feminino"
+          }
+        ]
+      },
+      {
+        "name": "ofertas",
+        "url": "https://www.cea.com.br/ofertas/moda-feminina",
+        "subcategorias": []
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/moda/feminina",
+        "subcategorias": []
+      }
+    ]
+  },
+  {
+    "name": "masculino",
+    "url": "https://www.cea.com.br/moda-masculina",
+    "categorias": [
+      {
+        "name": "roupas",
+        "url": "",
+        "banners": [
+          {
+            "name": "Favoritos",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-04/masculino/202x176_menu_masculino_FAVORITOS_ID-8002.jpg",
+            "url": "https://www.cea.com.br/moda/masculina/mais-vendidos?utmi_campaign=ID-008002_CAMP_MAS_HOME-PRC_BM01_M11_20210122_MENU-MASCULINO-FAVORITOS_GENERICO"
+          },
+          {
+            "name": "Personagens",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-06/masculino/banners-menu/banner-menu-masculino-personagens_ID-8071.jpg",
+            "url": "https://www.cea.com.br/personagens/masculino?utmi_campaign=ID-008071_CAMP_MAS_HOME-PRC_BM02_M11_20210204_MENU-MASCULINO-PERSONAGENS_GENERICO"
+          },
+          {
+            "name": "Cuecas e Meias",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-04/masculino/202x176_menu_masculino_MEIAS_CUECAS_ID-8003.jpg",
+            "url": "https://www.cea.com.br/moda-masculina/cuecas-e-meias?O=OrderByTopSaleDESC&utmi_campaign=ID-008003_CAMP_MAS_HOME-PRC_BM03_M11_20210122_MENU-MASCULINO-CUECAS-E-MEIAS_GENERICO"
+          },
+          {
+            "name": "Ace",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-04/masculino/202x176_menu_masculino_ACE_ID-8001.jpg",
+            "url": "https://www.cea.com.br/ace/moda-masculina"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "camisetas",
+            "url": "https://www.cea.com.br/moda-masculina/camisetas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "camiseta manga longa",
+            "url": "https://www.cea.com.br/moda/masculina/camisetas-manga-longa?O=vtexscore+DESC"
+          },
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/moda-masculina/camisas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "polos",
+            "url": "https://www.cea.com.br/moda-masculina/polos?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "regatas",
+            "url": "https://www.cea.com.br/moda/masculina/regatas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/moda-masculina/calcas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "jeans",
+            "url": "https://www.cea.com.br/jeans/masculino"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/moda-masculina/casacos-e-jaquetas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "blazer",
+            "url": "https://www.cea.com.br/moda-masculina/casacos-e-jaquetas/blazer?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "moletons",
+            "url": "https://www.cea.com.br/moda/masculina/moletom"
+          },
+          {
+            "name": "sueters e tricots",
+            "url": "https://www.cea.com.br/moda-masculina/casacos-e-jaquetas/cardigans-e-sueteres?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "bermudas e shorts",
+            "url": "https://www.cea.com.br/moda/masculina/shorts-e-bermudas"
+          },
+          {
+            "name": "básicos",
+            "url": "https://www.cea.com.br/roupas-basicas/masculino/todos"
+          },
+          {
+            "name": "cuecas",
+            "url": "https://www.cea.com.br/moda-masculina/cuecas-e-meias/cuecas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "meias",
+            "url": "https://www.cea.com.br/moda-masculina/cuecas-e-meias/meias?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "pijamas",
+            "url": "https://www.cea.com.br/moda-masculina/pijamas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "kits",
+            "url": "https://www.cea.com.br/moda/masculina/kits"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios?O=OrderByTopSaleDESC"
+          }
+        ]
+      },
+      {
+        "name": "moda plus size",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/plus-size/masculino/camisas"
+          },
+          {
+            "name": "polos",
+            "url": "https://www.cea.com.br/plus-size/masculino/polos"
+          },
+          {
+            "name": "camisetas",
+            "url": "https://www.cea.com.br/plus-size/masculino/camisetas"
+          },
+          {
+            "name": "bermudas e shorts",
+            "url": "https://www.cea.com.br/plus-size/masculino/shorts-e-bermudas"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/plus-size/masculino/calcas"
+          },
+          {
+            "name": "pijamas",
+            "url": "https://www.cea.com.br/plus-size/masculino/pijamas"
+          },
+          {
+            "name": "cuecas",
+            "url": "https://www.cea.com.br/plus-size/masculino/cuecas"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/plus-size/masculino/casacos-e-jaquetas"
+          },
+          {
+            "name": "moda esportiva",
+            "url": "https://www.cea.com.br/plus-size/masculino/moda-esportiva"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/plus-size/masculino"
+          }
+        ]
+      },
+      {
+        "name": "acessórios",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "mochilas e bolsas",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/bolsas-e-mochilas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "chapeus e bonés",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/chapeus-e-bones?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "relógios",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/relogios?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "máscaras",
+            "url": "https://www.cea.com.br/mascara-protecao?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "carteiras",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/carteiras?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "cintos",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/cintos?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "pulseiras",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/pulseiras?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "óculos",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/oculos?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios?O=OrderByTopSaleDESC"
+          }
+        ]
+      },
+      {
+        "name": "moda esportiva",
+        "url": "https://www.cea.com.br/ace",
+        "subcategorias": [
+          {
+            "name": "bermudas e shorts",
+            "url": "https://www.cea.com.br/moda-masculina/esporte-ace/shorts-e-bermudas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "camisetas",
+            "url": "https://www.cea.com.br/moda-masculina/esporte-ace/camisetas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "regatas",
+            "url": "https://www.cea.com.br/moda-masculina/esporte-ace/regatas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/moda-masculina/esporte-ace/calca?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/moda-masculina/esporte-ace/casacos-e-jaquetas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/acessorios-esportivos?O=OrderByTopSaleDESC"
+          }
+        ]
+      },
+      {
+        "name": "moda íntima",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "cuecas",
+            "url": "https://www.cea.com.br/moda-masculina/cuecas-e-meias/cuecas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "meias",
+            "url": "https://www.cea.com.br/moda-masculina/cuecas-e-meias/meias?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "pijamas",
+            "url": "https://www.cea.com.br/moda-masculina/pijamas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "samba canção",
+            "url": "https://www.cea.com.br/moda-masculina/cuecas-e-meias/samba-cancao?O=OrderByTopSaleDESC"
+          }
+        ]
+      },
+      {
+        "name": "moda praia",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "boardshort",
+            "url": "https://www.cea.com.br/moda-masculina/moda-praia/boardshort?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "shorts",
+            "url": "https://www.cea.com.br/moda-masculina/moda-praia/shorts?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "regatas",
+            "url": "https://www.cea.com.br/moda-masculina/moda-praia/regatas?O=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "sungas",
+            "url": "https://www.cea.com.br/moda-masculina/moda-praia/sunga?O=OrderByTopSaleDESC"
+          }
+        ]
+      },
+      {
+        "name": "tendências",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "produtos sustentáveis",
+            "url": "https://www.cea.com.br/moda/algodao-sustentavel"
+          },
+          {
+            "name": "plus size",
+            "url": "https://www.cea.com.br/plus-size/masculino"
+          },
+          {
+            "name": "jogger",
+            "url": "https://www.cea.com.br/moda/masculina/jogger"
+          },
+          {
+            "name": "geek",
+            "url": "https://www.cea.com.br/personagens/masculino"
+          },
+          {
+            "name": "tie dye",
+            "url": "https://www.cea.com.br/moda/masculina/tie-dye"
+          },
+          {
+            "name": "verão",
+            "url": "https://www.cea.com.br/moda/masculina/verao"
+          }
+        ]
+      },
+      {
+        "name": "calçados",
+        "url": "https://www.cea.com.br/moda-masculina/calcados?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "tênis casual",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/tenis/casual?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis esportivo",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/tenis/esportivo?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis sneaker",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/tenis/sneaker?O=vtexscore+DESC"
+          },
+          {
+            "name": "botas",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/botas?O=vtexscore+DESC"
+          },
+          {
+            "name": "chinelos",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/chinelos?O=vtexscore+DESC"
+          },
+          {
+            "name": "mocassim",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/mocassim?O=vtexscore+DESC"
+          },
+          {
+            "name": "sapatênis",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/sapatenis?O=vtexscore+DESC"
+          },
+          {
+            "name": "sapatos",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/sapatos?O=vtexscore+DESC"
+          },
+          {
+            "name": "mules",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/mocassins/mule?O=vtexscore+DESC"
+          },
+          {
+            "name": "pantufas",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/pantufas?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "marcas",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "Ace",
+            "url": "https://www.cea.com.br/ace/moda-masculina"
+          },
+          {
+            "name": "Clock House",
+            "url": "https://www.cea.com.br/moda/masculina/clock-house"
+          },
+          {
+            "name": "Suncoast",
+            "url": "https://www.cea.com.br/moda/masculina/suncoast"
+          },
+          {
+            "name": "Basics",
+            "url": "https://www.cea.com.br/roupas-basicas/masculino/todos"
+          },
+          {
+            "name": "Big Shirts",
+            "url": "https://www.cea.com.br/galeria-cea/bigshirts"
+          },
+          {
+            "name": "Key Design",
+            "url": "https://www.cea.com.br/galeria-cea/key-design"
+          },
+          {
+            "name": "Mormaii",
+            "url": "https://www.cea.com.br/galeria-cea/mormaii"
+          },
+          {
+            "name": "Skull Clothing",
+            "url": "https://www.cea.com.br/galeria-cea/skull-clothing"
+          },
+          {
+            "name": "Wollner",
+            "url": "https://www.cea.com.br/galeria-cea/wollner"
+          }
+        ]
+      },
+      {
+        "name": "novidades",
+        "url": "https://www.cea.com.br/novidades/masculino",
+        "subcategorias": []
+      },
+      {
+        "name": "ofertas",
+        "url": "https://www.cea.com.br/ofertas/masculina",
+        "subcategorias": []
+      },
+      {
+        "name": "mais vendidos",
+        "url": "https://www.cea.com.br/moda/masculina/mais-vendidos",
+        "subcategorias": []
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/moda/masculina",
+        "subcategorias": []
+      }
+    ]
+  },
+  {
+    "name": "infantil",
+    "url": "https://www.cea.com.br/moda-infantil",
+    "categorias": [
+      {
+        "name": "RN (0 a 24 meses)",
+        "url": "https://www.cea.com.br/moda/infantil/0-a-24-meses",
+        "banners": [
+          {
+            "name": "Mais Vendidos",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/menu-1-inf-mais-vendidos_ID-7423.jpg",
+            "url": "https://www.cea.com.br/moda/infantil/mais-vendidos?utmi_campaign=_ID-007423_CAMP_INF_HOME-INF_BM01_M11_20201022_MENU-MAIS-VENDIDOS_GENERICO"
+          },
+          {
+            "name": "Achadinhos",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/menu-2-inf-achadinhos_ID-7424.jpg",
+            "url": "https://www.cea.com.br/dia-das-criancas/precos-imperdiveis?utmi_campaign=_ID-007424_CAMP_INF_HOME-INF_BM02_M11_20201022_MENU-ACHADINHOS_GENERICO"
+          },
+          {
+            "name": "Moda Praia",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/menu-3-inf-moda-praia_ID-7425.jpg",
+            "url": "https://www.cea.com.br/moda-infantil/moda-praia?utmi_campaign=_ID-007425_CAMP_INF_HOME-INF_BM03_M11_20201022_MENU-MODA-PRAIA_GENERICO&O=vtexscore+DESC"
+          },
+          {
+            "name": "Moda Íntima",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/menu-4-inf-moda-intima_ID-7426.jpg",
+            "url": "https://www.cea.com.br/moda/infantil/moda-intima/kit?utmi_campaign=_ID-007426_CAMP_INF_HOME-INF_BM04_M11_20201022_MENU-MODA-INTIMA_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "básicos",
+            "url": "https://www.cea.com.br/infantil/vitrine/basicos?filters=[fq=specificationFilter_218:0%20a%2024%20meses]&pageNumber=1"
+          },
+          {
+            "name": "blusas e camisetas",
+            "url": "https://www.cea.com.br/moda-infantil/blusas/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "blusões e suéteres",
+            "url": "https://www.cea.com.br/moda/infantil/blusoes-e-sueteres?filters=[fq=specificationFilter_218:0%20a%2024%20meses]&pageNumber=1"
+          },
+          {
+            "name": "bodies",
+            "url": "https://www.cea.com.br/moda-infantil/bodies/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/moda-infantil/calcas/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/moda-infantil/camisas/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/moda-infantil/casacos-e-jaquetas/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "conjuntos",
+            "url": "https://www.cea.com.br/moda-infantil/conjuntos/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "jardineiras e salopetes",
+            "url": "https://www.cea.com.br/moda-infantil/jardineiras-e-salopetes/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "jeans",
+            "url": "https://www.cea.com.br/infantil/vitrine/jeans?filters=[fq=specificationFilter_218:0%20a%2024%20meses]&pageNumber=1"
+          },
+          {
+            "name": "legging",
+            "url": "https://www.cea.com.br/moda-infantil/calcas/Legging/0%20a%2024%20meses?map=c,c,specificationFilter_51,specificationFilter_218"
+          },
+          {
+            "name": "macacões e macaquinhos",
+            "url": "https://www.cea.com.br/moda-infantil/macacoes-e-macaquinhos/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "moda íntima",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "moda praia",
+            "url": "https://www.cea.com.br/moda-infantil/moda-praia/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "moletom",
+            "url": "https://www.cea.com.br/moda-infantil/moletom/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "pijamas",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/pijamas/0%20a%2024%20meses?map=c,c,c,specificationFilter_218"
+          },
+          {
+            "name": "shorts e bermudas",
+            "url": "https://www.cea.com.br/moda-infantil/shorts-e-bermudas/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "vestidos",
+            "url": "https://www.cea.com.br/moda-infantil/vestidos/0%20a%2024%20meses?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "ver todos",
+            "url": "https://www.cea.com.br/moda/infantil/0-a-24-meses"
+          }
+        ]
+      },
+      {
+        "name": "bebês (1 a 5 anos)",
+        "url": "https://www.cea.com.br/moda/infantil/1-a-5-anos",
+        "subcategorias": [
+          {
+            "name": "básicos",
+            "url": "https://www.cea.com.br/infantil/vitrine/basicos?filters=[fq=specificationFilter_218:1%20a%205%20anos]&pageNumber=1"
+          },
+          {
+            "name": "blusas e camisetas",
+            "url": "https://www.cea.com.br/moda-infantil/blusas/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "blusões e suéteres",
+            "url": "https://www.cea.com.br/moda/infantil/blusoes-e-sueteres/?filters=[fq=specificationFilter_218:1%20a%205%20anos]&pageNumber=1"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/moda-infantil/calcas/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/moda-infantil/camisas/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/moda-infantil/casacos-e-jaquetas/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "conjuntos",
+            "url": "https://www.cea.com.br/moda-infantil/conjuntos/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "fantasias",
+            "url": "https://www.cea.com.br/brinquedos-e-jogos/fantasias"
+          },
+          {
+            "name": "jardineiras e salopetes",
+            "url": "https://www.cea.com.br/moda-infantil/jardineiras-e-salopetes/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "jeans",
+            "url": "https://www.cea.com.br/infantil/vitrine/jeans?filters=[fq=specificationFilter_218:1%20a%205%20anos]&pageNumber=1"
+          },
+          {
+            "name": "legging",
+            "url": "https://www.cea.com.br/moda-infantil/calcas/Legging/1%20a%205%20anos?map=c,c,specificationFilter_51,specificationFilter_218"
+          },
+          {
+            "name": "macacões e macaquinhos",
+            "url": "https://www.cea.com.br/moda-infantil/macacoes-e-macaquinhos/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "moda íntima",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "moda praia",
+            "url": "https://www.cea.com.br/moda-infantil/moda-praia/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "moletom",
+            "url": "https://www.cea.com.br/moda-infantil/moletom/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "pijamas",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/pijamas/1%20a%205%20anos?map=c,c,c,specificationFilter_218"
+          },
+          {
+            "name": "polos",
+            "url": "https://www.cea.com.br/moda-infantil/camisetas-e-polos/polos/1%20a%205%20anos?map=c,c,c,specificationFilter_218"
+          },
+          {
+            "name": "regatas",
+            "url": "https://www.cea.com.br/moda/infantil/regatas?filters=[fq=specificationFilter_218:1%20a%205%20anos]&pageNumber=1"
+          },
+          {
+            "name": "saias",
+            "url": "https://www.cea.com.br/moda-infantil/saias/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "shorts e bermudas",
+            "url": "https://www.cea.com.br/moda-infantil/shorts-e-bermudas/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "vestidos",
+            "url": "https://www.cea.com.br/moda-infantil/vestidos/1%20a%205%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "ver todos",
+            "url": "https://www.cea.com.br/moda/infantil/1-a-5-anos"
+          }
+        ]
+      },
+      {
+        "name": "kids (4 a 12 anos)",
+        "url": "https://www.cea.com.br/moda/infantil/4-a-12-anos",
+        "subcategorias": [
+          {
+            "name": "básicos",
+            "url": "https://www.cea.com.br/infantil/vitrine/basicos?filters=[fq=specificationFilter_218:4%20a%2012%20anos]&pageNumber=1"
+          },
+          {
+            "name": "blusas e camisetas",
+            "url": "https://www.cea.com.br/moda-infantil/blusas/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "blusões e suéteres",
+            "url": "https://www.cea.com.br/moda/infantil/blusoes-e-sueteres/4-a-12-anos"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/moda-infantil/calcas/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/moda-infantil/camisas/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/moda-infantil/casacos-e-jaquetas/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "conjuntos",
+            "url": "https://www.cea.com.br/moda-infantil/conjuntos/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "fantasias",
+            "url": "https://www.cea.com.br/brinquedos-e-jogos/fantasias"
+          },
+          {
+            "name": "jardineiras e salopetes",
+            "url": "https://www.cea.com.br/moda-infantil/jardineiras-e-salopetes/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "jeans",
+            "url": "https://www.cea.com.br/infantil/vitrine/jeans?filters=[fq=specificationFilter_218:4%20a%2012%20anos]"
+          },
+          {
+            "name": "legging",
+            "url": "https://www.cea.com.br/moda-infantil/calcas/Legging/4%20a%2012%20anos?map=c,c,specificationFilter_51,specificationFilter_218"
+          },
+          {
+            "name": "macacões e macaquinhos",
+            "url": "https://www.cea.com.br/moda-infantil/macacoes-e-macaquinhos/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "moda íntima",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "moda praia",
+            "url": "https://www.cea.com.br/moda-infantil/moda-praia/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "moletom",
+            "url": "https://www.cea.com.br/moda-infantil/moletom/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "pijamas",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/pijamas/4%20a%2012%20anos?map=c,c,c,specificationFilter_218"
+          },
+          {
+            "name": "polos",
+            "url": "https://www.cea.com.br/moda-infantil/camisetas-e-polos/polos/4%20a%2012%20anos?map=c,c,c,specificationFilter_218"
+          },
+          {
+            "name": "regatas",
+            "url": "https://www.cea.com.br/moda/infantil/regatas?filters=[fq=specificationFilter_218:4%20a%2012%20anos]&pageNumber=1"
+          },
+          {
+            "name": "saias",
+            "url": "https://www.cea.com.br/moda-infantil/saias/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "shorts e bermudas",
+            "url": "https://www.cea.com.br/moda-infantil/shorts-e-bermudas/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "vestidos",
+            "url": "https://www.cea.com.br/moda-infantil/vestidos/4%20a%2012%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "ver todos",
+            "url": "https://www.cea.com.br/moda/infantil/4-a-12-anos"
+          }
+        ]
+      },
+      {
+        "name": "teen (10 a 16 anos)",
+        "url": "https://www.cea.com.br/moda/infantil/10-a-16-anos",
+        "subcategorias": [
+          {
+            "name": "blusas e camisetas",
+            "url": "https://www.cea.com.br/moda-infantil/blusas/10%20a%2016%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "blusões e suéteres",
+            "url": "https://www.cea.com.br/moda/infantil/blusoes-e-sueteres/10-a-16-anos"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/moda-infantil/calcas/10%20a%2016%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/moda-infantil/camisas/10%20a%2016%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/moda-infantil/casacos-e-jaquetas/10%20a%2016%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "jardineiras e salopetes",
+            "url": "https://www.cea.com.br/moda-infantil/jardineiras-e-salopetes/10%20a%2016%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "jeans",
+            "url": "https://www.cea.com.br/infantil/vitrine/jeans?filters=[fq=specificationFilter_218:10%20a%2016%20anos]&pageNumber=1"
+          },
+          {
+            "name": "legging",
+            "url": "https://www.cea.com.br/moda-infantil/calcas/Legging/10%20a%2016%20anos?map=c,c,specificationFilter_51,specificationFilter_218"
+          },
+          {
+            "name": "macacões e macaquinhos",
+            "url": "https://www.cea.com.br/moda-infantil/macacoes-e-macaquinhos/10%20a%2016%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "moda íntima",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/10%20a%2016%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "moletom",
+            "url": "https://www.cea.com.br/moda-infantil/moletom/10%20a%2016%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "pijamas",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/pijamas/10%20a%2016%20anos?map=c,c,c,specificationFilter_218"
+          },
+          {
+            "name": "saias",
+            "url": "https://www.cea.com.br/moda-infantil/saias/10%20a%2016%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "shorts e bermudas",
+            "url": "https://www.cea.com.br/moda-infantil/shorts-e-bermudas/10%20a%2016%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "vestidos",
+            "url": "https://www.cea.com.br/moda-infantil/vestidos/10%20a%2016%20anos?map=c,c,specificationFilter_218"
+          },
+          {
+            "name": "ver todos",
+            "url": "https://www.cea.com.br/moda/infantil/10-a-16-anos"
+          }
+        ]
+      },
+      {
+        "name": "menina",
+        "url": "https://www.cea.com.br/moda/infantil/geral?filters=[fq=specificationFilter_197:Menina]&pageNumber=1",
+        "subcategorias": []
+      },
+      {
+        "name": "menino",
+        "url": "https://www.cea.com.br/moda/infantil/geral?filters=[fq=specificationFilter_197:Menino]&pageNumber=1",
+        "subcategorias": []
+      },
+      {
+        "name": "personagens",
+        "url": "https://www.cea.com.br/infantil/vitrine/personagens",
+        "subcategorias": []
+      },
+      {
+        "name": "calçados",
+        "url": "https://www.cea.com.br/moda-infantil/calcados",
+        "subcategorias": [
+          {
+            "name": "botas",
+            "url": "https://www.cea.com.br/moda-infantil/calcados/botas?O=vtexscore+DESC"
+          },
+          {
+            "name": "chinelos",
+            "url": "https://www.cea.com.br/moda-infantil/calcados/chinelos?O=vtexscore+DESC"
+          },
+          {
+            "name": "pantufas",
+            "url": "https://www.cea.com.br/busca?fq=H:10906&O=vtexscore+DESC"
+          },
+          {
+            "name": "sandálias",
+            "url": "https://www.cea.com.br/moda-infantil/calcados/sandalias?O=vtexscore+DESC"
+          },
+          {
+            "name": "sapatênis",
+            "url": "https://www.cea.com.br/moda-infantil/calcados/sapatenis?O=vtexscore+DESC"
+          },
+          {
+            "name": "sapatilhas",
+            "url": "https://www.cea.com.br/moda-infantil/calcados/sapatilhas?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis",
+            "url": "https://www.cea.com.br/moda-infantil/calcados/tenis?O=vtexscore+DESC"
+          },
+          {
+            "name": "babuches",
+            "url": "https://www.cea.com.br/busca?fq=H:2809,C:1000562/1000566/1003381&O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "moda íntima",
+        "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas",
+        "subcategorias": [
+          {
+            "name": "calcinhas",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/moda-intima/calcinhas"
+          },
+          {
+            "name": "cuecas",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/moda-intima/cuecas"
+          },
+          {
+            "name": "meias",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/meias"
+          },
+          {
+            "name": "pijamas",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/pijamas"
+          },
+          {
+            "name": "sutiãs e tops",
+            "url": "https://www.cea.com.br/menina/pijamas-e-roupas-intimas/moda-intima/sutias"
+          },
+          {
+            "name": "ver tudo",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas"
+          }
+        ]
+      },
+      {
+        "name": "acessórios",
+        "url": "https://www.cea.com.br/moda-infantil/acessorios",
+        "subcategorias": [
+          {
+            "name": "bolsas",
+            "url": "https://www.cea.com.br/moda-infantil/acessorios/bolsas"
+          },
+          {
+            "name": "acessórios de bebê",
+            "url": "https://www.cea.com.br/moda-infantil/acessorios/acessorios-de-bebes"
+          },
+          {
+            "name": "acessórios de inverno",
+            "url": "https://www.cea.com.br/moda-infantil/acessorios/gorros-luvas-e-cachecois"
+          },
+          {
+            "name": "chapéus e bonés",
+            "url": "https://www.cea.com.br/moda-infantil/acessorios/chapeus-e-bones"
+          },
+          {
+            "name": "máscaras",
+            "url": "https://www.cea.com.br/moda-infantil/acessorios/mascaras-de-protecao"
+          },
+          {
+            "name": "mochilas, lancheiras e estojos",
+            "url": "https://www.cea.com.br/moda-infantil/acessorios/mochilas-lancheiras-e-estojos"
+          },
+          {
+            "name": "óculos",
+            "url": "https://www.cea.com.br/moda-infantil/acessorios/oculos"
+          },
+          {
+            "name": "ver tudo",
+            "url": "https://www.cea.com.br/moda-infantil/acessorios"
+          }
+        ]
+      },
+      {
+        "name": "bebê e mamãe",
+        "url": "https://www.cea.com.br/moda/bebe-e-mamae",
+        "subcategorias": [
+          {
+            "name": "alimentação",
+            "url": "https://www.cea.com.br/moda-infantil/bebe-e-mamae/alimentacao?O=vtexscore+DESC"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/moda-infantil/acessorios/acessorios-de-bebes?O=vtexscore+DESC"
+          },
+          {
+            "name": "movéis e decoração",
+            "url": "https://www.cea.com.br/moda-infantil/bebe-e-mamae/moveis-e-decoracao?O=vtexscore+DESC"
+          },
+          {
+            "name": "passeios e diversão",
+            "url": "https://www.cea.com.br/moda-infantil/passeio?O=vtexscore+DESC"
+          },
+          {
+            "name": "higiene e saúde",
+            "url": "https://www.cea.com.br/beleza/infantil"
+          },
+          {
+            "name": "para mamãe",
+            "url": "https://www.cea.com.br/beleza/infantil/para-mamaes"
+          }
+        ]
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/moda/infantil/geral"
+      }
+    ]
+  },
+  {
+    "name": "beleza",
+    "url": "https://www.cea.com.br/beleza",
+    "categorias": [
+      {
+        "name": "perfumes",
+        "url": "",
+        "banners": [
+          {
+            "name": "Makes",
+            "image": "https://appb2c-pages.s3.amazonaws.com/site/2020/mega-header/menu-1-beleza-makes.jpg",
+            "url": "https://www.cea.com.br/beleza-e-saude/makes?utmi_campaign=_ID-007201_PROM_MKP_HOME-BEL_BM01_M11_20200914_MENU-MAKE_ATE-50OFF"
+          },
+          {
+            "name": "Perfumes",
+            "image": "https://appb2c-pages.s3.amazonaws.com/site/2020/mega-header/menu-2-beleza-perfumes.jpg",
+            "url": "https://www.cea.com.br/beleza-e-saude/perfumes?utmi_campaign=_ID-007041_PROM_BEL_HOME-BEL_BM02_M11_20200817_MENU-PERFUMES_ATE-45OFF"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "perfumes femininos",
+            "url": "https://www.cea.com.br/beleza/perfumes/perfume-feminino?O=vtexscore+DESC"
+          },
+          {
+            "name": "perfumes masculinos",
+            "url": "https://www.cea.com.br/beleza/perfumes/perfume-masculino?O=vtexscore+DESC"
+          },
+          {
+            "name": "perfumes unissex",
+            "url": "https://www.cea.com.br/beleza/perfumes/perfume-unissex?O=vtexscore+DESC"
+          },
+          {
+            "name": "desodorantes e body Spray",
+            "url": "https://www.cea.com.br/beleza-e-saude/desodorantes-e-body-spray"
+          },
+          {
+            "name": "kits e coffrets",
+            "url": "https://www.cea.com.br/beleza/perfumes/kits-e-coffrets?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/beleza/perfumes?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "cuidados com a pele",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "rosto",
+            "url": "https://www.cea.com.br/beleza/tratamento/rosto?O=vtexscore+DESC"
+          },
+          {
+            "name": "olhos",
+            "url": "https://www.cea.com.br/beleza/tratamento/olhos?O=vtexscore+DESC"
+          },
+          {
+            "name": "lábios",
+            "url": "https://www.cea.com.br/beleza/tratamento/boca?O=vtexscore+DESC"
+          },
+          {
+            "name": "corpo",
+            "url": "https://www.cea.com.br/beleza/tratamento/corpo?O=vtexscore+DESC"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/beleza/corpo-e-banho/acessorios?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/beleza/tratamento?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "cabelos",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "shampoo",
+            "url": "https://www.cea.com.br/beleza/cabelos/shampoo?O=vtexscore+DESC"
+          },
+          {
+            "name": "condicionador",
+            "url": "https://www.cea.com.br/beleza/cabelos/condicionador?O=vtexscore+DESC"
+          },
+          {
+            "name": "tratamentos",
+            "url": "https://www.cea.com.br/beleza/cabelos/tratamento?O=vtexscore+DESC"
+          },
+          {
+            "name": "leave-in e creme de pentear",
+            "url": "https://www.cea.com.br/beleza/cabelos/leave-in-e-creme-de-pentar?O=vtexscore+DESC"
+          },
+          {
+            "name": "finalizador e modelador",
+            "url": "https://www.cea.com.br/beleza/cabelos/finalizador?O=vtexscore+DESC"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/beleza-e-saude/cabelos/acessorios"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/beleza/cabelos?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "maquiagem",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "boca",
+            "url": "https://www.cea.com.br/beleza/maquiagem/boca?O=vtexscore+DESC"
+          },
+          {
+            "name": "olhos",
+            "url": "https://www.cea.com.br/beleza/maquiagem/olhos?O=vtexscore+DESC"
+          },
+          {
+            "name": "rosto",
+            "url": "https://www.cea.com.br/beleza/maquiagem/rosto?O=vtexscore+DESC"
+          },
+          {
+            "name": "sobrancelha",
+            "url": "https://www.cea.com.br/beleza/maquiagem/sobrancelha?O=vtexscore+DESC"
+          },
+          {
+            "name": "unhas",
+            "url": "https://www.cea.com.br/beleza/maquiagem/unhas?O=vtexscore+DESC"
+          },
+          {
+            "name": "paletas e kits",
+            "url": "https://www.cea.com.br/beleza/maquiagem/paletas-e-kits?O=vtexscore+DESC"
+          },
+          {
+            "name": "pincéis de maquiagem",
+            "url": "https://www.cea.com.br/beleza/maquiagem/pincel?O=vtexscore+DESC"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/beleza/maquiagem/acessorios?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar Tudo",
+            "url": "https://www.cea.com.br/beleza/maquiagem?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "corpo e banho",
+        "url": "https://www.cea.com.br/beleza/corpo-e-banho?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "protetor solar",
+            "url": "https://www.cea.com.br/beleza/corpo-e-banho/protetor-solar?O=vtexscore+DESC"
+          },
+          {
+            "name": "bronzeador",
+            "url": "https://www.cea.com.br/beleza/corpo-e-banho/bronzeador?O=vtexscore+DESC"
+          },
+          {
+            "name": "banho",
+            "url": "https://www.cea.com.br/beleza-e-saude/corpo-e-banho/banho?O=vtexscore+DESC"
+          },
+          {
+            "name": "óleos",
+            "url": "https://www.cea.com.br/beleza/corpo-e-banho/oleo?O=vtexscore+DESC"
+          },
+          {
+            "name": "kits",
+            "url": "https://www.cea.com.br/beleza/corpo-e-banho/kit?O=vtexscore+DESC"
+          },
+          {
+            "name": "hidratantes",
+            "url": "https://www.cea.com.br/beleza/corpo-e-banho/hidratante?O=vtexscore+DESC"
+          },
+          {
+            "name": "mamãe e bebê",
+            "url": "https://www.cea.com.br/beleza/infantil?O=vtexscore+DESC"
+          },
+          {
+            "name": "barba",
+            "url": "https://www.cea.com.br/beleza/cosmeticos-masculinos/produtos-para-barba?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/beleza/maquiagem?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "infantil",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "banho e pós banho",
+            "url": "https://www.cea.com.br/beleza/infantil/banho-e-pos-banho?O=vtexscore+DESC"
+          },
+          {
+            "name": "colônias e perfumes",
+            "url": "https://www.cea.com.br/beleza/infantil/colonias-e-perfumes?O=vtexscore+DESC"
+          },
+          {
+            "name": "higiene e cuidados",
+            "url": "https://www.cea.com.br/beleza/infantil/higiene-e-cuidados?O=vtexscore+DESC"
+          },
+          {
+            "name": "maquiagem",
+            "url": "https://www.cea.com.br/beleza/infantil/maquiagem?O=vtexscore+DESC"
+          },
+          {
+            "name": "mamães",
+            "url": "https://www.cea.com.br/beleza/infantil/mamaes?O=vtexscore+DESC"
+          },
+          {
+            "name": "kits e presentes",
+            "url": "https://www.cea.com.br/beleza/infantil/presentes?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/beleza/infantil?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "bem-estar",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "aromatizador de ambientes",
+            "url": "https://www.cea.com.br/beleza/bem-estar/aromatizador-de-ambientes?O=vtexscore+DESC"
+          },
+          {
+            "name": "velas",
+            "url": "https://www.cea.com.br/beleza/bem-estar/velas?O=vtexscore+DESC"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/beleza/bem-estar/acessorios?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/beleza/bem-estar?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "marcas",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "Antonio Banderas",
+            "url": "https://www.cea.com.br/beleza/antonio-banderas?O=vtexscore+DESC"
+          },
+          {
+            "name": "Boca Rosa Beauty by Payot",
+            "url": "https://www.cea.com.br/beleza/boca-rosa?O=vtexscore+DESC"
+          },
+          {
+            "name": "Bruna Tavares",
+            "url": "https://www.cea.com.br/beleza/bruna-tavares?O=vtexscore+DESC"
+          },
+          {
+            "name": "Carolina Herrera",
+            "url": "https://www.cea.com.br/beleza/carolina-herrera?O=vtexscore+DESC"
+          },
+          {
+            "name": "Dolce&Gabbana",
+            "url": "https://www.cea.com.br/beleza/dolce-gabbana?O=vtexscore+DESC"
+          },
+          {
+            "name": "Mari Maria",
+            "url": "https://www.cea.com.br/beleza/mari-maria?O=vtexscore+DESC"
+          },
+          {
+            "name": "Mariana Saad by Océane",
+            "url": "https://www.cea.com.br/beleza/mariana-saad?O=vtexscore+DESC"
+          },
+          {
+            "name": "Payot",
+            "url": "https://www.cea.com.br/beleza/payot?O=vtexscore+DESC"
+          },
+          {
+            "name": "Tracta",
+            "url": "https://www.cea.com.br/beleza/tracta?O=vtexscore+DESC"
+          },
+          {
+            "name": "Océane",
+            "url": "https://www.cea.com.br/beleza/oceane?O=vtexscore+DESC"
+          },
+          {
+            "name": "Bed Head",
+            "url": "https://www.cea.com.br/beleza/bed-head?O=vtexscore+DESC"
+          },
+          {
+            "name": "Dermage",
+            "url": "https://www.cea.com.br/beleza/dermage?O=vtexscore+DESC"
+          },
+          {
+            "name": "Vult",
+            "url": "https://www.cea.com.br/beleza/vult?O=vtexscore+DESC"
+          },
+          {
+            "name": "Truss",
+            "url": "https://www.cea.com.br/beleza/truss?O=vtexscore+DESC"
+          },
+          {
+            "name": "Garnier",
+            "url": "https://www.cea.com.br/beleza/garnier?O=vtexscore+DESC"
+          },
+          {
+            "name": "Lola Cosmetics",
+            "url": "https://www.cea.com.br/beleza/lola?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "novidades",
+        "url": "https://www.cea.com.br/novidades?fq=C:1000438&fq=H:9577&categories=beleza&O=vtexscore+DESC&PS=48",
+        "subcategorias": []
+      },
+      {
+        "name": "ofertas",
+        "url": "https://www.cea.com.br/ofertas?fq=C:1000438&fq=spec_fct_208:Sale&categories=beleza&O=vtexscore+DESC",
+        "subcategorias": []
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/busca?fq=C:1000438&O=vtexscore+DESC",
+        "subcategorias": []
+      }
+    ]
+  },
+  {
+    "name": "moda íntima",
+    "url": "https://www.cea.com.br/moda/moda-intima",
+    "categorias": [
+      {
+        "name": "feminina",
+        "url": "https://www.cea.com.br/moda-feminina/moda-intima",
+        "banners": [
+          {
+            "name": "Kits Calcinhas",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-1-menu-moda-intima-kit-calcinhas_ID-7614.jpg",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/kits?utmi_campaign=ID-007614_CAMP_FEM_HOME-PRC_BM01_M11_20201116_MENU-MODA-INTIMA-KITS-CALCINHAS_GENERICO&O=vtexscore+DESC"
+          },
+          {
+            "name": "Kits Cuecas",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-2-menu-moda-intima-kit-cuecas_ID-7615.jpg",
+            "url": "https://www.cea.com.br/moda-masculina/kit-cuecas?utmi_campaign=ID-007615_CAMP_MAS_HOME-PRC_BM02_M11_20201116_MENU-MODA-INTIMA-KITS-CUECAS_GENERICO&O=vtexscore+DESC"
+          },
+          {
+            "name": "Pijamas",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-02/geral/menu-moda-intima/menu-pijamas_ID-7907.jpg",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/pijamas?utmi_campaign=ID-007907_CAMP_FEM_HOME-PRC_BM03_M11_20210105_MENU-MODA-INTIMA-PIJAMAS_GENERICO"
+          },
+          {
+            "name": "Rendas",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-4-menu-moda-intima-rendas_ID-7617.jpg",
+            "url": "https://www.cea.com.br/moda/feminina/moda-intima/renda?utmi_campaign=ID-007617_CAMP_FEM_HOME-PRC_BM04_M11_20201116_MENU-MODA-INTIMA-ANO-NOVO_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "pijamas e short doll",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/pijamas"
+          },
+          {
+            "name": "camisolas",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/camisolas"
+          },
+          {
+            "name": "kits",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/kits"
+          },
+          {
+            "name": "calcinhas",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/calcinhas?O=vtexscore+DESC"
+          },
+          {
+            "name": "sutiãs e tops",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/sutias?O=vtexscore+DESC"
+          },
+          {
+            "name": "meias",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/meias?O=vtexscore+DESC"
+          },
+          {
+            "name": "cintas e modeladores",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/funcionais?O=vtexscore+DESC"
+          },
+          {
+            "name": "robes e roupões",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/roupoes?O=vtexscore+DESC"
+          },
+          {
+            "name": "gestante",
+            "url": "https://www.cea.com.br/roupas-para-gestantes/lingerie"
+          },
+          {
+            "name": "plus size",
+            "url": "https://www.cea.com.br/plus-size/feminino/moda-intima"
+          },
+          {
+            "name": "monte seu conjuto",
+            "url": "https://www.cea.com.br/moda-feminina/moda-intima/monte-seu-conjunto?O=vtexscore+DESC"
+          },
+          {
+            "name": "algodão",
+            "url": "https://www.cea.com.br/moda/feminina/moda-intima/algodao"
+          },
+          {
+            "name": "renda",
+            "url": "https://www.cea.com.br/moda/feminina/moda-intima/renda"
+          }
+        ]
+      },
+      {
+        "name": "masculina",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "cuecas ",
+            "url": "https://www.cea.com.br/moda-masculina/cuecas-e-meias/cuecas?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "meias",
+            "url": "https://www.cea.com.br/moda-masculina/cuecas-e-meias/meias?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "pijamas",
+            "url": "https://www.cea.com.br/moda-masculina/pijamas?O=vtexscore+DESC"
+          },
+          {
+            "name": "samba canção",
+            "url": "https://www.cea.com.br/moda-masculina/cuecas-e-meias/samba-cancao?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "infantil",
+        "url": "https://www.cea.com.br/moda/infantil/moda-intima",
+        "subcategorias": [
+          {
+            "name": "calcinhas",
+            "url": "https://www.cea.com.br/moda/infantil/moda-intima/calcinhas"
+          },
+          {
+            "name": "cuecas",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/cuecas?O=vtexscore+DESC"
+          },
+          {
+            "name": "meias",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas-e-roupas-intimas/meias?O=vtexscore+DESC"
+          },
+          {
+            "name": "pijamas",
+            "url": "https://www.cea.com.br/moda-infantil/pijamas?O=vtexscore+DESC"
+          },
+          {
+            "name": "sutiãs e tops",
+            "url": "https://www.cea.com.br/moda/infantil/moda-intima/sutias"
+          }
+        ]
+      },
+      {
+        "name": "marcas",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "Duloren",
+            "url": "https://www.cea.com.br/galeria-cea/duloren"
+          },
+          {
+            "name": "Liz",
+            "url": "https://www.cea.com.br/galeria-cea/liz"
+          },
+          {
+            "name": "Mash",
+            "url": "https://www.cea.com.br/galeria-cea/she"
+          },
+          {
+            "name": "Lupo",
+            "url": "https://www.cea.com.br/lupo"
+          },
+          {
+            "name": "Trifil",
+            "url": "https://www.cea.com.br/trifil"
+          },
+          {
+            "name": "Dilady",
+            "url": "https://www.cea.com.br/dilady"
+          },
+          {
+            "name": "Valisere",
+            "url": "https://www.cea.com.br/galeria-cea/valisere"
+          },
+          {
+            "name": "Triumph",
+            "url": "https://www.cea.com.br/galeria-cea/triumph"
+          },
+          {
+            "name": "Sloggi",
+            "url": "https://www.cea.com.br/galeria-cea/sloggi"
+          },
+          {
+            "name": "Love Secret",
+            "url": "https://www.cea.com.br/love-secret"
+          }
+        ]
+      },
+      {
+        "name": "novidades",
+        "url": "https://www.cea.com.br/moda/moda-intima"
+      },
+      {
+        "name": "ofertas",
+        "url": "https://www.cea.com.br/moda/moda-intima/ofertas"
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/moda/moda-intima"
+      }
+    ]
+  },
+  {
+    "name": "calçados",
+    "url": "https://www.cea.com.br/moda-calcados",
+    "categorias": [
+      {
+        "name": "feminino",
+        "url": "https://www.cea.com.br/moda-feminina/calcados?O=vtexscore+DESC",
+        "banners": [
+          {
+            "name": "próxima estação",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-14/calcados/banner-quadrado-menu-inverno.jpg",
+            "url": "https://www.cea.com.br/moda/inverno/calcados?utmi_campaign=ID-008162_CAMP_CAL_HOME-PRC_BM01_M11_20210331_MENU-CALCADOS-NOVA-ESTACAO_GENERICO"
+          },
+          {
+            "name": "exclusivos online",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-09/calcados/banner-menu/banner-quadrado-menu-exclusivo-online_8107.jpg",
+            "url": "https://www.cea.com.br/calcados/exclusivos-online?utmi_campaign=ID-008107_CAMP_CAL_HOME-PRC_BM02_M11_20210224_MENU-CALCADOS-EXCLUSIVOS-ONLINE_GENERICO"
+          },
+          {
+            "name": "Chinelos",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-03/calcados/banners-menu/banner-menu-4-calcados_CHINELOS_ID-7934.jpg",
+            "url": "https://www.cea.com.br/calcados/chinelos?utmi_campaign=ID-007934_CAMP_CAL_HOME-PRC_BM03_M11_20210112_MENU-CALCADOS-CHINELOS_GENERICO"
+          },
+          {
+            "name": "Tênis",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-03/calcados/banners-menu/banner-menu-3-calcados_TENIS_ID-7933.jpg",
+            "url": "https://www.cea.com.br/calcados/tenis?utmi_campaign=ID-007933_CAMP_CAL_HOME-PRC_BM04_M11_20210112_MENU-CALCADOS-TENIS_GENERICO"
+          }
+        ], 
+        "subcategorias": [
+          {
+            "name": "botas",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/botas?O=vtexscore+DESC"
+          },
+          {
+            "name": "chinelos",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/chinelos?O=vtexscore+DESC"
+          },
+          {
+            "name": "mocassim",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/sapatos/mocassim?O=vtexscore+DESC"
+          },
+          {
+            "name": "mules",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/sapatos/mule?O=vtexscore+DESC"
+          },
+          {
+            "name": "oxford",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/sapatos/oxford?O=vtexscore+DESC"
+          },
+          {
+            "name": "pantufas",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/pantufas?O=vtexscore+DESC"
+          },
+          {
+            "name": "rasteirinhas",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/sandalias/rasteirinhas?&O=vtexscore+DESC"
+          },
+          {
+            "name": "sandálias",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/sandalias?O=vtexscore+DESC"
+          },
+          {
+            "name": "sapatilhas",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/sapatilhas?O=vtexscore+DESC"
+          },
+          {
+            "name": "scarpin",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/scarpin?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis casual",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/tenis?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis esportivo",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/tenis/esportivo?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis sneaker",
+            "url": "https://www.cea.com.br/moda-feminina/calcados/tenis/sneaker?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "masculino",
+        "url": "https://www.cea.com.br/moda-masculina/calcados?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "botas",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/botas?O=vtexscore+DESC"
+          },
+          {
+            "name": "chinelos",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/chinelos?O=vtexscore+DESC"
+          },
+          {
+            "name": "mocassim",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/mocassim?O=vtexscore+DESC"
+          },
+          {
+            "name": "mules",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/mocassins/mule?O=vtexscore+DESC"
+          },
+          {
+            "name": "pantufas",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/pantufas?O=vtexscore+DESC"
+          },
+          {
+            "name": "sapatênis",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/sapatenis?O=vtexscore+DESC"
+          },
+          {
+            "name": "sapatos",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/sapatos?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis casual",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/tenis/casual?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis esportivo",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/tenis/esportivo?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis sneaker",
+            "url": "https://www.cea.com.br/moda-masculina/calcados/tenis/sneaker?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "menino",
+        "url": "https://www.cea.com.br/busca?fq=C:1000162/1000189&O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "babuche",
+            "url": "https://www.cea.com.br/menino/calcados/babuche?O=vtexscore+DESC"
+          },
+          {
+            "name": "botas",
+            "url": "https://www.cea.com.br/menino/calcados/botas?O=vtexscore+DESC&PS=9"
+          },
+          {
+            "name": "chinelos",
+            "url": "https://www.cea.com.br/menino/calcados/chinelos?O=vtexscore+DESC"
+          },
+          {
+            "name": "pantufas",
+            "url": "https://www.cea.com.br/menino/calcados/pantufas?O=vtexscore+DESC"
+          },
+          {
+            "name": "sandálias",
+            "url": "https://www.cea.com.br/menino/calcados/sandalias?O=vtexscore+DESC"
+          },
+          {
+            "name": "sapatênis",
+            "url": "https://www.cea.com.br/menino/calcados/sapatenis?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis",
+            "url": "https://www.cea.com.br/menino/calcados/tenis?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "menina",
+        "url": "https://www.cea.com.br/busca?fq=C:1000146/1000324&O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "babuche",
+            "url": "https://www.cea.com.br/menina/calcados/babuche?O=vtexscore+DESC"
+          },
+          {
+            "name": "botas",
+            "url": "https://www.cea.com.br/menina/calcados/botas?O=vtexscore+DESC"
+          },
+          {
+            "name": "chinelos",
+            "url": "https://www.cea.com.br/menina/calcados/chinelos?O=vtexscore+DESC"
+          },
+          {
+            "name": "pantufas",
+            "url": "https://www.cea.com.br/menina/calcados/pantufas?O=vtexscore+DESC"
+          },
+          {
+            "name": "sandálias",
+            "url": "https://www.cea.com.br/menina/calcados/sandalias?O=vtexscore+DESC"
+          },
+          {
+            "name": "tênis",
+            "url": "https://www.cea.com.br/menina/calcados/tenis?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "tamanhos",
+        "url": "https://www.cea.com.br/moda-calcados",
+        "tamanhos": [
+          {
+            "name": "33",
+            "url": "https://www.cea.com.br/busca?fq=H:5181&fq=specificationFilter_46:33&fq=specificationFilter_46:33-34&O=vtexscore+DESC"
+          },
+          {
+            "name": "34",
+            "url": "https://www.cea.com.br/busca?fq=H:5181&fq=specificationFilter_46:34&fq=specificationFilter_46:33-34&O=vtexscore+DESC"
+          },
+          {
+            "name": "35",
+            "url": "https://www.cea.com.br/busca?fq=H:5181&fq=specificationFilter_46:35&fq=specificationFilter_46:35-36&O=vtexscore+DESC"
+          },
+          {
+            "name": "36",
+            "url": "https://www.cea.com.br/busca?fq=H:5181&fq=specificationFilter_46:36&fq=specificationFilter_46:35-36&O=vtexscore+DESC"
+          },
+          {
+            "name": "37",
+            "url": "https://www.cea.com.br/busca?fq=H:5181&fq=specificationFilter_46:37&fq=specificationFilter_46:37-38&O=vtexscore+DESC"
+          },
+          {
+            "name": "38",
+            "url": "https://www.cea.com.br/busca?fq=H:5181&fq=specificationFilter_46:38&fq=specificationFilter_46:37-38&O=vtexscore+DESC"
+          },
+          {
+            "name": "39",
+            "url": "https://www.cea.com.br/busca?fq=H:5181&fq=specificationFilter_46:39&fq=specificationFilter_46:39-40&O=vtexscore+DESC"
+          },
+          {
+            "name": "40",
+            "url": "https://www.cea.com.br/busca?fq=H:5181&fq=specificationFilter_46:40&fq=specificationFilter_46:39-40&O=vtexscore+DESC"
+          },
+          {
+            "name": "41",
+            "url": "https://www.cea.com.br/busca?fq=H:5181&fq=specificationFilter_46:41&fq=specificationFilter_46:41-42&O=vtexscore+DESC"
+          },
+          {
+            "name": "42",
+            "url": "https://www.cea.com.br/busca?fq=H:5181&fq=specificationFilter_46:42&fq=specificationFilter_46:41-42&O=vtexscore+DESC"
+          },
+          {
+            "name": "43",
+            "url": "https://www.cea.com.br/busca?fq=H:5181&fq=specificationFilter_46:43&fq=specificationFilter_46:43-44&O=vtexscore+DESC"
+          },
+          {
+            "name": "44",
+            "url": "https://www.cea.com.br/busca?fq=H:5181&fq=specificationFilter_46:44&fq=specificationFilter_46:43-44&O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "marcas",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "ace",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Malu&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "activitta",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Actvitta&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "alme",
+            "url": "https://www.cea.com.br/galeria-cea/alme/calcados"
+          },
+          {
+            "name": "ana capri",
+            "url": "https://www.cea.com.br/galeria-cea/anacapri/calcados"
+          },
+          {
+            "name": "azaleia",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Azaleia&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "baby club",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Baby Club&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "bebecê",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Bebecê&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "beira rio",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Beira Rio&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "cartago",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Cartago&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "dakota",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Dakota&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "ferracini",
+            "url": "https://www.cea.com.br/galeria-cea/ferracini/calcados"
+          },
+          {
+            "name": "grendene",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Grendene&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "grendha",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Grendha&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "havaianas",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Havaianas&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "ipanema",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Ipanema&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "Malu Comfort",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Malu&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "Mizuno",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Mizuno&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "Modare",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Modare&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "Moleca",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Moleca&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "Molekinha",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Molekinha&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "Molekinho",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Molekinho&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "Ollie",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Ollie&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "Olympikus",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Olympikus&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "oneself",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Oneself&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "pantufas.com",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Pimpolho&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "pimpolho",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Pimpolho&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "rider",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Rider&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "sonho dos pés",
+            "url": "https://www.cea.com.br/galeria-cea/sonho-dos-pes/calcados"
+          },
+          {
+            "name": "soulier",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Soulier&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "suzana santos",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Suzana Santos&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "tarsila",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Tarsila&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "usaflex",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Usaflex&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "via mia",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Via Mia&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "via uno",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Via Uno&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "vizzano",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Vizzano&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "zatz",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:ZATZ&O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "zaxy",
+            "url": "https://www.cea.com.br/busca?fq=H:3179&fq=specificationFilter_198:Zaxy&O=OrderByTopSaleDESC"
+          }
+        ]
+      },
+      {
+        "name": "novidades",
+        "url": "https://www.cea.com.br/calcados?O=vtexscore+DESC"
+      },
+      {
+        "name": "nova coleção",
+        "url": "https://www.cea.com.br/calcados/tendencias"
+      },
+      {
+        "name": "ofertas",
+        "url": "https://www.cea.com.br/calcados/ofertas"
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/calcados/mais-vendidos"
+      }
+    ]
+  },
+  {
+    "name": "moda esportiva",
+    "url": "https://www.cea.com.br/ace",
+    "categorias": [
+      {
+        "name": "feminino",
+        "url": "https://www.cea.com.br/ace/moda-feminina",
+        "subcategorias": [
+          {
+            "name": "top",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/top"
+          },
+          {
+            "name": "blusas e regatas",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/blusas"
+          },
+          {
+            "name": "shorts e bermudas",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/shorts"
+          },
+          {
+            "name": "calças e leggings",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/calcas"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/casacos-e-jaquetas"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/acessorios"
+          }
+        ]
+      },
+      {
+        "name": "masculino",
+        "url": "https://www.cea.com.br/ace/moda-masculina",
+        "subcategorias": [
+          {
+            "name": "bermudas e shorts",
+            "url": "https://www.cea.com.br/moda-masculina/esporte-ace/shorts-e-bermudas"
+          },
+          {
+            "name": "camisetas",
+            "url": "https://www.cea.com.br/moda-masculina/esporte-ace/camisetas"
+          },
+          {
+            "name": "regatas",
+            "url": "https://www.cea.com.br/moda-masculina/esporte-ace/regatas"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/moda-masculina/esporte-ace/calca"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/moda-masculina/esporte-ace/casacos-e-jaquetas"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/acessorios-esportivos"
+          }
+        ]
+      },
+      {
+        "name": "calçados",
+        "url": "https://www.cea.com.br/calcados/tenis-esportivos",
+        "subcategorias": []
+      }
+    ]
+  },
+  {
+    "name": "acessórios",
+    "url": "https://www.cea.com.br/acessorios",
+    "categorias": [
+      {
+        "name": "bolsas",
+        "url": "https://www.cea.com.br/acessorios/bolsas-e-mochilas",
+        "banners": [
+          {
+            "name": "Mochilas e Lancheiras",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-1-menu-acessorios-mochilas-lancheiras_ID-7667.jpg",
+            "url": "https://www.cea.com.br/moda-infantil/acessorios/mochilas-lancheiras-e-estojos?O=vtexscore+DESC&PS=9&utmi_campaign=ID-007667_CAMP_INF_HOME-PRC_BM01_M11_20201119_MENU-ACESSORIOS-MOCHILAS-E-LANCHEIRAS_GENERICO"
+          },
+          {
+            "name": "Bijoux",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-2-menu-acessorios-bijoux_ID-7635.jpg",
+            "url": "https://www.cea.com.br/acessorios/bijouterias?utmi_campaign=ID-007635_CAMP_INF_HOME-PRC_BM02_M11_20201119_MENU-ACESSORIOS-BIJOUX_GENERICO"
+          },
+          {
+            "name": "Bolsas",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-3-menu-acessorios-bolsas_ID-7636.jpg",
+            "url": "https://www.cea.com.br/acessorios/bolsas-e-mochilas?utmi_campaign=ID-007636_CAMP_INF_HOME-PRC_BM03_M11_20201119_MENU-ACESSORIOS-BOLSAS_GENERICO"
+          },
+          {
+            "name": "Praia",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-4-menu-acessorios-praia_ID-7637.jpg",
+            "url": "https://www.cea.com.br/acessorios/moda-praia?utmi_campaign=ID-007637_CAMP_INF_HOME-PRC_BM04_M11_20201119_MENU-ACESSORIOS-PRIA_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "mochilas e lancheiras",
+            "url": "https://www.cea.com.br/acessorios/mochilas-e-lancheiras"
+          },
+          {
+            "name": "pochetes",
+            "url": "https://www.cea.com.br/acessorios/pochetes"
+          },
+          {
+            "name": "carteiras",
+            "url": "https://www.cea.com.br/acessorios/carteiras"
+          },
+          {
+            "name": "necessarie",
+            "url": "https://busca.cea.com.br/search?_query=n%C3%A9cessaire"
+          },
+          {
+            "name": "porta moedas",
+            "url": "https://www.cea.com.br/porta-moedas"
+          },
+          {
+            "name": "jóias e semijóias",
+            "url": "https://www.cea.com.br/moda-feminina/joias?O=vtexscore+DESC"
+          },
+          {
+            "name": "colares",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/colares"
+          },
+          {
+            "name": "pulseiras",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/pulseiras?O=OrderByTopSaleDESC"
+          },
+          {
+            "name": "brincos",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/brincos"
+          },
+          {
+            "name": "anéis",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/aneis?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "bijouterias",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "colares",
+            "url": "https://www.cea.com.br/moda/feminina/bijuterias/colares"
+          },
+          {
+            "name": "pulseiras",
+            "url": "https://www.cea.com.br/moda/feminina/bijuterias/pulseiras"
+          },
+          {
+            "name": "brincos",
+            "url": "https://www.cea.com.br/moda/feminina/bijuterias/brincos"
+          },
+          {
+            "name": "anéis",
+            "url": "https://www.cea.com.br/moda/feminina/bijuterias/aneis"
+          }
+        ]
+      },
+      {
+        "name": "relógios",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "masculinos",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/relogios?O=vtexscore+DESC"
+          },
+          {
+            "name": "femininos",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/relogios?O=vtexscore+DESC"
+          },
+          {
+            "name": "smartwatches",
+            "url": "https://www.cea.com.br/relogios/smartwatch"
+          }
+        ]
+      },
+      {
+        "name": "outros acessórios",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "cintos",
+            "url": "https://www.cea.com.br/acessorios/cintos"
+          },
+          {
+            "name": "lenços e cachecois",
+            "url": "https://www.cea.com.br/acessorios/lencos-e-cachecois"
+          },
+          {
+            "name": "chapéus, viseiras e bonés",
+            "url": "https://www.cea.com.br/acessorios/chapeus"
+          },
+          {
+            "name": "gorros e luvas",
+            "url": "https://www.cea.com.br/acessorios/gorros-e-luvas"
+          },
+          {
+            "name": "óculos",
+            "url": "https://www.cea.com.br/acessorios/oculos"
+          },
+          {
+            "name": "máscaras",
+            "url": "https://www.cea.com.br/mascara-protecao"
+          },
+          {
+            "name": "acessórios de bebê",
+            "url": "https://www.cea.com.br/acessorios/bebes"
+          },
+          {
+            "name": "cabelo",
+            "url": "https://www.cea.com.br/beleza/acessorios/cabelos?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "diversos",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "garrafas, copos e potes",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/garrafas-copos-e-potes?O=vtexscore+DESC"
+          },
+          {
+            "name": "papelaria",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/papelaria?O=vtexscore+DESC"
+          },
+          {
+            "name": "apoios de pescoço e pelúcia",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/apoios-de-pescoco-e-pelucias?O=vtexscore+DESC"
+          },
+          {
+            "name": "acessórios esportivos",
+            "url": "https://www.cea.com.br/moda-feminina/esporte-ace/acessorios?O=vtexscore+DESC"
+          },
+          {
+            "name": "chaveiros",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/chaveiros?O=vtexscore+DESC"
+          },
+          {
+            "name": "outros",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/utilidades?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "marcas",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "Condor",
+            "url": "https://www.cea.com.br/relogios/condor"
+          },
+          {
+            "name": "Diesel",
+            "url": "https://www.cea.com.br/relogios/diesel"
+          },
+          {
+            "name": "Dumont",
+            "url": "https://www.cea.com.br/relogios/dumont"
+          },
+          {
+            "name": "Euro",
+            "url": "https://www.cea.com.br/relogios/euro"
+          },
+          {
+            "name": "Fossil",
+            "url": "https://www.cea.com.br/relogios/fossil"
+          },
+          {
+            "name": "Livo",
+            "url": "https://www.cea.com.br/galeria-cea/livo"
+          },
+          {
+            "name": "Mondaine",
+            "url": "https://www.cea.com.br/relogios/mondaine"
+          },
+          {
+            "name": "Mormaii",
+            "url": "https://www.cea.com.br/relogios/mormaii"
+          },
+          {
+            "name": "Vivara",
+            "url": "https://www.cea.com.br/galeria-cea/vivara"
+          },
+          {
+            "name": "Seculus",
+            "url": "https://www.cea.com.br/relogios/seculus"
+          }
+        ]
+      },
+      {
+        "name": "novidades",
+        "url": "https://www.cea.com.br/acessorios"
+      },
+      {
+        "name": "ofertas",
+        "url": "https://www.cea.com.br/acessorios/ofertas"
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/acessorios"
+      }
+    ]
+  },
+  {
+    "name": "eletrônicos",
+    "url": "https://www.cea.com.br/celulares-e-tablets",
+    "categorias": [
+      {
+        "name": "smartphones",
+        "url": "https://www.cea.com.br/celulares-tablets/vitrine/celulares",
+        "banners": [
+          {
+            "name": "Celulares em até 10x sem juros",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/megaheader-1-celular_ID-7589.jpg",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/celulares?utmi_campaign=_ID-007589_CAMP_FAS_HOME-FAS_BM01_M11_20201109_MENU-FT-CELULARES_GENERICO&O=vtexscore+DESC"
+          },
+          {
+            "name": "Kits relógios + pulseira",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/megaheader-2-relogio_ID-7590.jpg",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/relogios/exclusivos?utmi_campaign=_ID-007590_CAMP_FAS_HOME-FAS_BM02_M11_20201109_MENU-FT-KITS-RELOGIOS_GENERICO&O=vtexscore+DESC"
+          },
+          {
+            "name": "Acessórios",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/megaheader-3-acessorio_ID-7591.jpg",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/acessorios-eletronicos?utmi_campaign=_ID-007591_CAMP_FAS_HOME-FAS_BM03_M11_20201109_MENU-FT-ACESSORIOS_GENERICO&O=vtexscore+DESC"
+          },
+          {
+            "name": "Games",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/megaheader-4-games_ID-7592.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/games?utmi_campaign=_ID-007592_CAMP_FAS_HOME-FAS_BM04_M11_20201109_MENU-FT-GAMES_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "samsung",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/samsung?O=vtexscore+DESC"
+          },
+          {
+            "name": "motorola",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/motorola?O=vtexscore+DESC"
+          },
+          {
+            "name": "asus",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/asus?O=vtexscore+DESC"
+          },
+          {
+            "name": "lg",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/lg-todos?O=vtexscore+DESC"
+          },
+          {
+            "name": "multilaser",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/multilaser/todos?O=vtexscore+DESC"
+          },
+          {
+            "name": "webfones",
+            "url": "https://www.cea.com.br/galeria-cea/webfones"
+          }
+        ]
+      },
+      {
+        "name": "tablets",
+        "url": "https://www.cea.com.br/celulares-tablets/vitrine/tablets?O=vtexscore+DESC",
+        "subcategorias": []
+      },
+      {
+        "name": "acessórios",
+        "url": "https://www.cea.com.br/celulares-tablets/vitrine/acessorios-eletronicos?O=vtexscore+DESC",
+        "subcategorias": []
+      },
+      {
+        "name": "notebooks",
+        "url": "https://www.cea.com.br/celulares-e-tablets/notebooks?O=vtexscore+DESC",
+        "subcategorias": []
+      },
+      {
+        "name": "games",
+        "url": "https://www.cea.com.br/galeria-cea/games",
+        "subcategorias": []
+      },
+      {
+        "name": "relógios",
+        "url": "https://www.cea.com.br/relogios/geral",
+        "subcategorias": []
+      },
+      {
+        "name": "smartwatches",
+        "url": "https://www.cea.com.br/relogios/smartwatch",
+        "subcategorias": []
+      },
+      {
+        "name": "beleza",
+        "url": "https://www.cea.com.br/beleza/eletroportateis",
+        "subcategorias": [
+          {
+            "name": "secadores",
+            "url": "https://www.cea.com.br/beleza/cabelos/secador-e-modelador"
+          },
+          {
+            "name": "balanças digitais",
+            "url": "https://www.cea.com.br/casa/eletroportateis/balancas-de-banheiro"
+          },
+          {
+            "name": "depiladores e aparadores",
+            "url": "https://www.cea.com.br/beleza/eletroportateis/depiladores"
+          },
+          {
+            "name": "máquinas de cortar cabelo",
+            "url": "https://www.cea.com.br/beleza/eletroportateis/cortadores-de-cabelo"
+          }
+        ]
+      },
+      {
+        "name": "smart home",
+        "url": "https://www.cea.com.br/casa/smart-home",
+        "subcategorias": [
+          {
+            "name": "fechadura eletrônica",
+            "url": "https://www.cea.com.br/casa/smart-home/fechadura-eletronica"
+          },
+          {
+            "name": "sensores",
+            "url": "https://www.cea.com.br/casa/smart-home/sensores"
+          },
+          {
+            "name": "speaker",
+            "url": "https://www.cea.com.br/casa/smart-home/speaker"
+          },
+          {
+            "name": "tomadas",
+            "url": "https://www.cea.com.br/casa/smart-home/tomadas"
+          }
+        ]
+      },
+      {
+        "name": "marcas",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "samsung",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/samsung?O=vtexscore+DESC"
+          },
+          {
+            "name": "motorola",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/motorola?O=vtexscore+DESC"
+          },
+          {
+            "name": "asus",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/asus?O=vtexscore+DESC"
+          },
+          {
+            "name": "lg",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/lg-todos?O=vtexscore+DESC"
+          },
+          {
+            "name": "multilaser",
+            "url": "https://www.cea.com.br/celulares-tablets/vitrine/multilaser/todos?O=vtexscore+DESC"
+          },
+          {
+            "name": "webfones",
+            "url": "https://www.cea.com.br/galeria-cea/webfones"
+          },
+          {
+            "name": "casio",
+            "url": "https://www.cea.com.br/relogios/casio"
+          },
+          {
+            "name": "philco",
+            "url": "https://www.cea.com.br/galeria-cea/philco"
+          },
+          {
+            "name": "britânia",
+            "url": "https://www.cea.com.br/galeria-cea/britania"
+          },
+          {
+            "name": "cadence",
+            "url": "https://www.cea.com.br/galeria-cea/cadence"
+          },
+          {
+            "name": "oster",
+            "url": "https://www.cea.com.br/galeria-cea/oster"
+          }
+        ]
+      },
+      {
+        "name": "novidades",
+        "url": "https://www.cea.com.br/novidades?fq=C:1000185"
+      },
+      {
+        "name": "ofertas",
+        "url": "https://www.cea.com.br/ofertas?fq=C:1000185&fq=spec_fct_208:Sale&categories=celulares-e-tablets&O=vtexscore+DESC"
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/novidades?fq=C:1000185"
+      }
+    ]
+  },
+  {
+    "name": "casa",
+    "url": "https://www.cea.com.br/casa",
+    "categorias": [
+      {
+        "name": "decoração",
+        "url": "https://www.cea.com.br/casa/decoracao",
+        "banners": [
+          {
+            "name": "Decoração",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-1-menu-decoracao_ID-7583.jpg",
+            "url": "https://www.cea.com.br/casa/decoracao?utmi_campaign=_ID-007583_CAMP_MKP_HOME-MKP_BM01_M11_20201109_MENU-CASA-DECORACAO_GENERICO&O=vtexscore+DESC"
+          },
+          {
+            "name": "PET",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-3-menu-pet_ID-7584.jpg",
+            "url": "https://www.cea.com.br/casa/linha-pet?utmi_campaign=_ID-007584_CAMP_MKP_HOME- MKP_BM02_M11_20201109_MENU-CASA-PET_GENERICO&O=vtexscore+DESC"
+          },
+          {
+            "name": "Eletroportáteis",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-2-menu-eletroportateis_ID-7585.jpg",
+            "url": "https://www.cea.com.br/casa/eletroportateis?utmi_campaign=_ID-007585_CAMP_MKP_HOME- MKP_BM03_M11_20201109_MENU-CASA-ELETROPORTATEIS_GENERICO&O=vtexscore+DESC"
+          },
+          {
+            "name": "Cama, mesa e banho",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-4-menu-cama-mesa-banho_ID-7583.jpg",
+            "url": "https://www.cea.com.br/casa/mesa?utmi_campaign=_ID-007586_CAMP_MKP_HOME-MKP_BM04_M11_20201109_MENU-CASA-CAMA-MESA-BANHO_GENERICO&O=vtexscore+DESC"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "almofadas",
+            "url": "https://www.cea.com.br/casa/decoracao/almofadas?O=vtexscore+DESC"
+          },
+          {
+            "name": "bandejas",
+            "url": "https://www.cea.com.br/casa/decoracao/bandejas?O=vtexscore+DESC"
+          },
+          {
+            "name": "cortinas e persianas",
+            "url": "https://www.cea.com.br/casa/decoracao/cortinas?O=vtexscore+DESC"
+          },
+          {
+            "name": "espelhos",
+            "url": "https://www.cea.com.br/casa/decoracao/espelhos?O=vtexscore+DESC"
+          },
+          {
+            "name": "iluminação",
+            "url": "https://www.cea.com.br/casa/iluminacao?O=vtexscore+DESC"
+          },
+          {
+            "name": "vasos",
+            "url": "https://www.cea.com.br/casa/decoracao/vasos?O=vtexscore+DESC"
+          },
+          {
+            "name": "objetos de decoração",
+            "url": "https://www.cea.com.br/casa/objetos-decoracao?O=vtexscore+DESC"
+          },
+          {
+            "name": "placas",
+            "url": "https://www.cea.com.br/casa/decoracao/placas?O=vtexscore+DESC"
+          },
+          {
+            "name": "porta retratos",
+            "url": "https://www.cea.com.br/casa/decoracao/porta-retratos?O=vtexscore+DESC"
+          },
+          {
+            "name": "relógios",
+            "url": "https://www.cea.com.br/casa/decoracao/relogios?O=vtexscore+DESC"
+          },
+          {
+            "name": "tapetes e capachos",
+            "url": "https://www.cea.com.br/casa/decoracao/tapetes?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/casa/decoracao?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "organização",
+        "url": "https://www.cea.com.br/casa/organizacao?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "acessórios de papelaria",
+            "url": "https://www.cea.com.br/papelaria/acessorios"
+          },
+          {
+            "name": "caixas",
+            "url": "https://www.cea.com.br/casa/organizacao/caixas?O=vtexscore+DESC"
+          },
+          {
+            "name": "cestos",
+            "url": "https://www.cea.com.br/casa/organizacao/cestos?O=vtexscore+DESC"
+          },
+          {
+            "name": "ganchos e cabideiros",
+            "url": "https://www.cea.com.br/casa/organizacao/ganchos-e-cabideiros?O=vtexscore+DESC"
+          },
+          {
+            "name": "organizadores",
+            "url": "https://www.cea.com.br/casa/organizacao/organizadores?O=vtexscore+DESC"
+          },
+          {
+            "name": "potes e latas",
+            "url": "https://www.cea.com.br/casa/organizacao/potes-e-latas?O=vtexscore+DESC"
+          },
+          {
+            "name": "prateleiras e nichos",
+            "url": "https://www.cea.com.br/casa/organizacao/prateleiras-e-nichos?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/casa/organizacao?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "móveis",
+        "url": "https://www.cea.com.br/casa/moveis?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "poltronas",
+            "url": "https://www.cea.com.br/casa/moveis/poltronas?O=vtexscore+DESC"
+          },
+          {
+            "name": "bancos",
+            "url": "https://www.cea.com.br/casa/moveis/bancos?O=vtexscore+DESC"
+          },
+          {
+            "name": "cadeiras",
+            "url": "https://www.cea.com.br/casa/moveis/cadeiras?O=vtexscore+DESC"
+          },
+          {
+            "name": "camas",
+            "url": "https://www.cea.com.br/casa/moveis/camas?O=vtexscore+DESC"
+          },
+          {
+            "name": "mesas",
+            "url": "https://www.cea.com.br/casa/moveis/mesas?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/casa/moveis?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "linha pet",
+        "url": "https://www.cea.com.br/casa/linha-pet?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "cama para pet",
+            "url": "https://www.cea.com.br/casa/linha-pet/cama-para-pet?O=vtexscore+DESC"
+          },
+          {
+            "name": "brinquedos e mordedores",
+            "url": "https://www.cea.com.br/casa/linha-pet/brinquedos?O=vtexscore+DESC"
+          },
+          {
+            "name": "coleiras",
+            "url": "https://www.cea.com.br/casa/linha-pet/coleiras?O=vtexscore+DESC"
+          },
+          {
+            "name": "gravatas",
+            "url": "https://www.cea.com.br/casa/linha-pet/gravatas?O=vtexscore+DESC"
+          },
+          {
+            "name": "guia",
+            "url": "https://www.cea.com.br/casa/linha-pet/guia?O=vtexscore+DESC"
+          },
+          {
+            "name": "peitoral",
+            "url": "https://www.cea.com.br/casa/linha-pet/peitoral?O=vtexscore+DESC"
+          },
+          {
+            "name": "peitoral educativo",
+            "url": "https://www.cea.com.br/casa/linha-pet/peitoral-educativo?O=vtexscore+DESC"
+          },
+          {
+            "name": "acessórios",
+            "url": "https://www.cea.com.br/casa/linha-pet/acessorios?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/casa/linha-pet?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "smart home",
+        "url": "https://www.cea.com.br/casa/smart-home?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "fechadura eletrônica",
+            "url": "https://www.cea.com.br/casa/smart-home/fechadura?O=vtexscore+DESC"
+          },
+          {
+            "name": "sensores",
+            "url": "https://www.cea.com.br/casa/smart-home/sensores?O=vtexscore+DESC"
+          },
+          {
+            "name": "speaker",
+            "url": "https://www.cea.com.br/casa/smart-home/speaker?O=vtexscore+DESC"
+          },
+          {
+            "name": "tomadas",
+            "url": "https://www.cea.com.br/casa/smart-home/tomadas?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/casa/smart-home?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "eletroportáteis",
+        "url": "https://www.cea.com.br/casa/eletroportateis?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "adegas",
+            "url": "https://www.cea.com.br/casa/eletroportateis/adegas?O=vtexscore+DESC"
+          },
+          {
+            "name": "aspiradores de pó",
+            "url": "https://www.cea.com.br/casa/eletroportateis/aspiradores?O=vtexscore+DESC"
+          },
+          {
+            "name": "batedeiras",
+            "url": "https://www.cea.com.br/casa/eletroportateis/batedeiras?O=vtexscore+DESC"
+          },
+          {
+            "name": "cafeteiras",
+            "url": "https://www.cea.com.br/casa/eletroportateis/cafeteiras?O=vtexscore+DESC"
+          },
+          {
+            "name": "chaleiras elétricas",
+            "url": "https://www.cea.com.br/casa/eletroportateis/chaleiras?O=vtexscore+DESC"
+          },
+          {
+            "name": "ferros de passar e vaporizadores",
+            "url": "https://www.cea.com.br/casa/eletroportateis/ferros?O=vtexscore+DESC"
+          },
+          {
+            "name": "fornos elétricos",
+            "url": "https://www.cea.com.br/casa/eletroportateis/fornos?O=vtexscore+DESC"
+          },
+          {
+            "name": "fritadeiras",
+            "url": "https://www.cea.com.br/casa/eletroportateis/fritadeiras?O=vtexscore+DESC"
+          },
+          {
+            "name": "liquidificadores e mixers",
+            "url": "https://www.cea.com.br/casa/eletroportateis/liquidificadores?O=vtexscore+DESC"
+          },
+          {
+            "name": "panelas elétricas",
+            "url": "https://www.cea.com.br/casa/eletroportateis/panelas?O=vtexscore+DESC"
+          },
+          {
+            "name": "sanduicheiras e grills",
+            "url": "https://www.cea.com.br/casa/eletroportateis/sanduicheiras?O=vtexscore+DESC"
+          },
+          {
+            "name": "processadores e moedores",
+            "url": "https://www.cea.com.br/casa/eletroportateis/processadores-e-moedores?O=vtexscore+DESC"
+          },
+          {
+            "name": "ventiladores",
+            "url": "https://www.cea.com.br/casa/eletroportateis/ventiladores?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/casa/eletroportateis?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "cama",
+        "url": "https://www.cea.com.br/casa/cama?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "aromaterapia",
+            "url": "https://www.cea.com.br/casa/aromas?O=vtexscore+DESC"
+          },
+          {
+            "name": "fronha",
+            "url": "https://www.cea.com.br/casa/cama/fronha?O=vtexscore+DESC"
+          },
+          {
+            "name": "lençol",
+            "url": "https://www.cea.com.br/casa/cama/lencol?O=vtexscore+DESC"
+          },
+          {
+            "name": "edredom",
+            "url": "https://www.cea.com.br/casa/cama/edredom?O=vtexscore+DESC"
+          },
+          {
+            "name": "jogo de cama",
+            "url": "https://www.cea.com.br/casa/cama/jogo?O=vtexscore+DESC"
+          },
+          {
+            "name": "mantas e colchas",
+            "url": "https://www.cea.com.br/casa/cama/colchas-e-mantas?O=vtexscore+DESC"
+          },
+          {
+            "name": "protetores e capas",
+            "url": "https://www.cea.com.br/casa/cama/protetores-e-capas?O=vtexscore+DESC"
+          },
+          {
+            "name": "travesseiros",
+            "url": "https://www.cea.com.br/casa/cama/travesseiros?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/casa/cama?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "mesa",
+        "url": "https://www.cea.com.br/casa/mesa?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "bowls",
+            "url": "https://www.cea.com.br/casa/mesa/bowls?O=vtexscore+DESC"
+          },
+          {
+            "name": "café, chá e xícaras",
+            "url": "https://www.cea.com.br/casa/mesa/cafe-cha-e-xicaras?O=vtexscore+DESC"
+          },
+          {
+            "name": "pratos",
+            "url": "https://www.cea.com.br/casa/mesa/pratos?O=vtexscore+DESC"
+          },
+          {
+            "name": "sobremesa",
+            "url": "https://www.cea.com.br/casa/mesa/sobremesas?O=vtexscore+DESC"
+          },
+          {
+            "name": "taças",
+            "url": "https://www.cea.com.br/casa/mesa/tacas?O=vtexscore+DESC"
+          },
+          {
+            "name": "talheres",
+            "url": "https://www.cea.com.br/casa/mesa/talheres?O=vtexscore+DESC"
+          },
+          {
+            "name": "copos",
+            "url": "https://www.cea.com.br/casa/mesa/copos?O=vtexscore+DESC"
+          },
+          {
+            "name": "sousplat e jogos americanos",
+            "url": "https://www.cea.com.br/casa/mesa/sousplat-e-jogos-americanos?O=vtexscore+DESC"
+          },
+          {
+            "name": "toalhas de mesa",
+            "url": "https://www.cea.com.br/casa/mesa/toalhas?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/casa/mesa?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "banho",
+        "url": "https://www.cea.com.br/casa/banho?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "roupão",
+            "url": "https://www.cea.com.br/casa/banho/roupoes?O=vtexscore+DESC"
+          },
+          {
+            "name": "toalhas",
+            "url": "https://www.cea.com.br/casa/banho/toalhas?O=vtexscore+DESC"
+          },
+          {
+            "name": "tapetes de banheiro",
+            "url": "https://www.cea.com.br/casa/banho/tapetes?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/casa/banho?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "cozinha",
+        "url": "https://www.cea.com.br/casa/cozinha?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "faqueiros",
+            "url": "https://www.cea.com.br/cozinha/faqueiros"
+          },
+          {
+            "name": "copos e taças",
+            "url": "https://www.cea.com.br/cozinha/copos-e-tacas"
+          },
+          {
+            "name": "canecas e xícaras",
+            "url": "https://www.cea.com.br/casa/cozinha/canecas-e-xicaras?O=vtexscore+DESC"
+          },
+          {
+            "name": "aparelho de jantar",
+            "url": "https://www.cea.com.br/casa/cozinha/aparelho-de-jantar?O=vtexscore+DESC"
+          },
+          {
+            "name": "pratos avulsos",
+            "url": "https://www.cea.com.br/casa/cozinha/pratos-avulsos?O=vtexscore+DESC"
+          },
+          {
+            "name": "porta-copos",
+            "url": "https://www.cea.com.br/casa/cozinha/copos?O=vtexscore+DESC"
+          },
+          {
+            "name": "porta-guardanapo",
+            "url": "https://www.cea.com.br/casa/cozinha/porta-guardanapo?O=vtexscore+DESC"
+          },
+          {
+            "name": "panelas",
+            "url": "https://www.cea.com.br/casa/cozinha/panelas?O=vtexscore+DESC"
+          },
+          {
+            "name": "garrafas",
+            "url": "https://www.cea.com.br/casa/cozinha/garrafas?O=vtexscore+DESC"
+          },
+          {
+            "name": "utensílios",
+            "url": "https://www.cea.com.br/casa/cozinha/utensilios?O=vtexscore+DESC"
+          },
+          {
+            "name": "assadeiras e formas",
+            "url": "https://www.cea.com.br/casa/cozinha/assadeiras-e-formas?O=vtexscore+DESC"
+          },
+          {
+            "name": "tigelas e saladeiras",
+            "url": "https://www.cea.com.br/casa/cozinha/tigelas-e-saladeiras?O=vtexscore+DESC"
+          },
+          {
+            "name": "tábuas",
+            "url": "https://www.cea.com.br/casa/cozinha/tabuas?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/casa/cozinha?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "bar",
+        "url": "https://www.cea.com.br/casa/bar?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "abridor de garrafa",
+            "url": "https://www.cea.com.br/casa/bar/abridor?O=vtexscore+DESC"
+          },
+          {
+            "name": "balde de gelo",
+            "url": "https://www.cea.com.br/casa/bar/balde-de-gelo?O=vtexscore+DESC"
+          },
+          {
+            "name": "copos de shot",
+            "url": "https://www.cea.com.br/casa/bar/copos-de-shot?O=vtexscore+DESC"
+          },
+          {
+            "name": "formas de gelo",
+            "url": "https://www.cea.com.br/casa/bar/formas-de-gelo?O=vtexscore+DESC"
+          },
+          {
+            "name": "canudos",
+            "url": "https://www.cea.com.br/casa/bar/canudos?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/casa/bar?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "lazer",
+        "url": "https://www.cea.com.br/casa/lazer?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "bicicleta",
+            "url": "https://www.cea.com.br/casa/lazer/bicicleta?O=vtexscore+DESC"
+          },
+          {
+            "name": "patinete",
+            "url": "https://www.cea.com.br/casa/lazer/patinete?O=vtexscore+DESC"
+          },
+          {
+            "name": "patins",
+            "url": "https://www.cea.com.br/casa/lazer/patins?O=vtexscore+DESC"
+          },
+          {
+            "name": "triciclo",
+            "url": "https://www.cea.com.br/lazer/triciclo"
+          },
+          {
+            "name": "skate",
+            "url": "https://www.cea.com.br/casa/lazer/skate?O=vtexscore+DESC"
+          },
+          {
+            "name": "bolas",
+            "url": "https://www.cea.com.br/lazer/bolas"
+          },
+          {
+            "name": "piscina",
+            "url": "https://www.cea.com.br/lazer/piscina"
+          },
+          {
+            "name": "esportes",
+            "url": "https://www.cea.com.br/lazer/esportes"
+          },
+          {
+            "name": "acessórios de viagem",
+            "url": "https://www.cea.com.br/casa/lazer/acessorios-de-viagem?O=vtexscore+DESC"
+          },
+          {
+            "name": "acessórios para churrasco",
+            "url": "https://www.cea.com.br/casa/lazer/acessorios-para-churrasco?O=vtexscore+DESC"
+          },
+          {
+            "name": "acessórios proteção",
+            "url": "https://www.cea.com.br/brinquedos-e-jogos/lazer-e-diversao/acessorios-protecao?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/casa/lazer?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "papelaria",
+        "url": "https://www.cea.com.br/livraria-e-papelaria/papelaria?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "material para escritório",
+            "url": "https://www.cea.com.br/livraria-e-papelaria/papelaria/material-de-escritorio?O=vtexscore+DESC"
+          },
+          {
+            "name": "artigos para festa",
+            "url": "https://www.cea.com.br/livraria-e-papelaria/papelaria/artigos-de-festa?O=vtexscore+DESC"
+          },
+          {
+            "name": "material escolar",
+            "url": "https://www.cea.com.br/livraria-e-papelaria/papelaria/material-escolar?O=vtexscore+DESC"
+          },
+          {
+            "name": "livros",
+            "url": "https://www.cea.com.br/livraria-e-papelaria/livros?O=vtexscore+DESC"
+          },
+          {
+            "name": "mostrar tudo",
+            "url": "https://www.cea.com.br/livraria-e-papelaria/papelaria?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "novidades",
+        "url": "https://www.cea.com.br/novidades?fq=C:1001466"
+      },
+      {
+        "name": "ofertas",
+        "url": "https://www.cea.com.br/ofertas?fq=C:1001466"
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/casa"
+      }
+    ]
+  },
+  {
+    "name": "personagens",
+    "url": "https://www.cea.com.br/personagens",
+    "categorias": [
+      {
+        "name": "feminino",
+        "url": "https://www.cea.com.br/personagens/feminino",
+        "banners": [
+          {
+            "name": "Clássicos",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-1-menu-personagens-classicos_ID-7626.jpg",
+            "url": "https://www.cea.com.br/personagens/classicos?utmi_campaign=ID-007626_CAMP_GEN_HOME-PRC_BM01_M11_20201116_MENU-PERSONAGENS-CLASSICOS_GENERICO"
+          },
+          {
+            "name": "Heróis",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-2-menu-personagens-herois_ID-7627.jpg",
+            "url": "https://www.cea.com.br/personagens/herois?utmi_campaign=ID-007627_CAMP_GEN_HOME-PRC_BM02_M11_20201116_MENU-PERSONAGENS-HEROIS_GENERICO"
+          },
+          {
+            "name": "Games",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-3-menu-personagens-games_ID-7628.jpg",
+            "url": "https://www.cea.com.br/personagens/games?utmi_campaign=ID-007628_CAMP_GEN_HOME-PRC_BM03_M11_20201116_MENU-PERSONAGENS-GAMES_GENERICO"
+          },
+          {
+            "name": "Séries e Filmes",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-4-menu-personagens-series-e-filmes_ID-7629.jpg",
+            "url": "https://www.cea.com.br/personagens/filmes-e-series?utmi_campaign=ID-007629_CAMP_GEN_HOME-PRC_BM04_M11_20201116_MENU-PERSONAGENS-SERIES-E-FILMES_GENERICO"
+          }
+        ]
+      },
+      {
+        "name": "masculino",
+        "url": "https://www.cea.com.br/personagens/masculino"
+      },
+      {
+        "name": "infantil",
+        "url": "https://www.cea.com.br/personagens/infantil"
+      },
+      {
+        "name": "calçados",
+        "url": "https://www.cea.com.br/personagens/calcados"
+      },
+      {
+        "name": "utilidades",
+        "url": "https://www.cea.com.br/personagens/acessorios"
+      },
+      {
+        "name": "brinquedos",
+        "url": "https://www.cea.com.br/brinquedos"
+      },
+      {
+        "name": "mundos",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "clássicos",
+            "url": "https://www.cea.com.br/personagens/disney"
+          },
+          {
+            "name": "heróis",
+            "url": "https://www.cea.com.br/personagens/herois"
+          },
+          {
+            "name": "games",
+            "url": "https://www.cea.com.br/personagens/games"
+          },
+          {
+            "name": "séries e filmes",
+            "url": "https://www.cea.com.br/personagens/filmes-e-series"
+          }
+        ]
+      },
+      {
+        "name": "harry potter",
+        "url": "https://www.cea.com.br/personagens/harry-potter"
+      },
+      {
+        "name": "disney baby",
+        "url": "https://www.cea.com.br/disney/baby"
+      },
+      {
+        "name": "personagens",
+        "url": "https://www.cea.com.br/brinquedos",
+        "subcategorias": [
+          {
+            "name": "mickey e minnie",
+            "url": "https://www.cea.com.br/personagens/mickey-e-minie"
+          },
+          {
+            "name": "marvel",
+            "url": "https://www.cea.com.br/personagens/marvel"
+          },
+          {
+            "name": "dc comics",
+            "url": "https://www.cea.com.br/personagens/dc-comics"
+          },
+          {
+            "name": "mulher maravilha",
+            "url": "https://www.cea.com.br/moda/mulher-maravilha"
+          },
+          {
+            "name": "simpsons",
+            "url": "https://www.cea.com.br/personagens/os-simpsons"
+          },
+          {
+            "name": "LOL surprise",
+            "url": "https://www.cea.com.br/infantil/vitrine/lol-surprise"
+          },
+          {
+            "name": "star wars",
+            "url": "https://www.cea.com.br/personagens/star-wars"
+          },
+          {
+            "name": "frozen",
+            "url": "https://www.cea.com.br/personagens/frozen"
+          },
+          {
+            "name": "friends",
+            "url": "https://www.cea.com.br/personagens/friends"
+          },
+          {
+            "name": "rei leão",
+            "url": "https://www.cea.com.br/personagens/rei-leao"
+          },
+          {
+            "name": "harry potter",
+            "url": "https://www.cea.com.br/personagens/harry-potter"
+          },
+          {
+            "name": "fortnite",
+            "url": "https://www.cea.com.br/personagens/fortnite"
+          },
+          {
+            "name": "minecraft",
+            "url": "https://www.cea.com.br/personagens/minecraft"
+          },
+          {
+            "name": "snoopy",
+            "url": "https://www.cea.com.br/personagens/snoopy"
+          },
+          {
+            "name": "playstation",
+            "url": "https://www.cea.com.br/personagens/playstation"
+          },
+          {
+            "name": "bob esponja",
+            "url": "https://www.cea.com.br/personagens/bob-esponja"
+          },
+          {
+            "name": "ursinhos carinhos",
+            "url": "https://www.cea.com.br/personagens/ursinhos-carinhosos"
+          },
+          {
+            "name": "stranger things",
+            "url": "https://www.cea.com.br/personagens/stranger-things"
+          },
+          {
+            "name": "nasa",
+            "url": "https://www.cea.com.br/personagens/nasa"
+          },
+          {
+            "name": "netflix",
+            "url": "https://www.cea.com.br/personagens/netflix"
+          },
+          {
+            "name": "peppa Pig",
+            "url": "https://www.cea.com.br/personagens/peppa-pig"
+          },
+          {
+            "name": "pj marks",
+            "url": "https://www.cea.com.br/personagens/pj-masks"
+          },
+          {
+            "name": "outros",
+            "url": "https://www.cea.com.br/personagens"
+          }
+        ]
+      },
+      {
+        "name": "novidades",
+        "url": "https://cea.com.br/personagens/novidades"
+      },
+      {
+        "name": "ofertas",
+        "url": "https://www.cea.com.br/personagens/ofertas"
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/personagens/geral"
+      }
+    ]
+  },
+  {
+    "name": "relógios",
+    "url": "https://www.cea.com.br/relogios/geral",
+    "categorias": [
+      {
+        "name": "marcas",
+        "url": "",
+        "banners": [
+          {
+            "name": "SMARTWATCH",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-06/eletronicos/menu-relogios/0599brack202x368smart_id-8034.jpg",
+            "url": "https://www.cea.com.br/relogios/smartwatches?utmi_campaign=ID-008034_CAMP_FAS_HOME-PRC_BM01_M11_20210202_MENU-RELOGIOS-SMARTWATCH_GENERICO"
+          },
+          {
+            "name": "Relógios com até 40% OFF*",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-09/eletronicos/banner-menu-relogios-40off_ID-3138.jpg",
+            "url": "https://www.cea.com.br/relogios/geral?utmi_campaign=ID-008138_CAMP_FAS_HOME-PRC_BM02_M11_20210223_MENU-RELOGIOS-ATE-40-OFF_ATE-40-OFF"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "Casio",
+            "url": "https://www.cea.com.br/relogios/casio"
+          },
+          {
+            "name": "Mondaine",
+            "url": "https://www.cea.com.br/relogios/mondaine"
+          },
+          {
+            "name": "Seculus",
+            "url": "https://www.cea.com.br/relogios/seculus"
+          },
+          {
+            "name": "Technos",
+            "url": "https://www.cea.com.br/relogios/technos"
+          },
+          {
+            "name": "Fossil",
+            "url": "https://www.cea.com.br/relogios/fossil"
+          },
+          {
+            "name": "Michael Kors",
+            "url": "https://www.cea.com.br/relogios/michael-kors"
+          },
+          {
+            "name": "Skagen",
+            "url": "https://www.cea.com.br/relogios/skagen"
+          },
+          {
+            "name": "Speedo",
+            "url": "https://www.cea.com.br/relogios/speedo"
+          },
+          {
+            "name": "Condor",
+            "url": "https://www.cea.com.br/relogios/condor"
+          },
+          {
+            "name": "Diesel",
+            "url": "https://www.cea.com.br/relogios/diesel"
+          },
+          {
+            "name": "Dumont",
+            "url": "https://www.cea.com.br/relogios/dumont"
+          },
+          {
+            "name": "Euro",
+            "url": "https://www.cea.com.br/relogios/euro"
+          },
+          {
+            "name": "Mormaii",
+            "url": "https://www.cea.com.br/relogios/mormaii"
+          }
+        ]
+      },
+      {
+        "name": "feminino",
+        "url": "https://www.cea.com.br/moda-feminina/acessorios/relogios?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "kit presente",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/relogios/kit?O=vtexscore+DESC"
+          },
+          {
+            "name": "digital",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/relogios/digital?O=vtexscore+DESC"
+          },
+          {
+            "name": "analógico",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/relogios/analogico?O=vtexscore+DESC"
+          },
+          {
+            "name": "anadigi",
+            "url": "https://www.cea.com.br/moda-feminina/acessorios/relogios/anadigi?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "masculino",
+        "url": "https://www.cea.com.br/moda-masculina/acessorios/relogios?O=vtexscore+DESC",
+        "subcategorias": [
+          {
+            "name": "kit presente",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/relogios/kit?O=vtexscore+DESC"
+          },
+          {
+            "name": "digital",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/relogios/digital?O=vtexscore+DESC"
+          },
+          {
+            "name": "analógico",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/relogios/analogico?O=vtexscore+DESC"
+          },
+          {
+            "name": "anadigi",
+            "url": "https://www.cea.com.br/moda-masculina/acessorios/relogios/kit/anadig?O=vtexscore+DESC"
+          }
+        ]
+      },
+      {
+        "name": "tipo pulseira",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "aço",
+            "url": "https://www.cea.com.br/relogios/aco"
+          },
+          {
+            "name": "couro",
+            "url": "https://www.cea.com.br/relogios/couro"
+          },
+          {
+            "name": "borracha",
+            "url": "https://www.cea.com.br/relogios/borracha"
+          }
+        ]
+      },
+      {
+        "name": "exclusivos C&A",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "masculino",
+            "url": "https://www.cea.com.br/relogios/exclusivos/masculino"
+          },
+          {
+            "name": "feminino",
+            "url": "https://www.cea.com.br/relogios/exclusivos/feminino"
+          }
+        ]
+      },
+      {
+        "name": "smartwatches",
+        "url": "https://www.cea.com.br/smartwatch",
+        "subcategorias": []
+      },
+      {
+        "name": "novidades",
+        "url": "https://www.cea.com.br/novidades/relogios"
+      },
+      {
+        "name": "ofertas",
+        "url": "https://www.cea.com.br/ofertas/relogios"
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/relogios/geral"
+      }
+    ]
+  },
+  {
+    "name": "plus size",
+    "url": "https://www.cea.com.br/plus-size",
+    "categorias": [
+      {
+        "name": "feminino",
+        "url": "https://www.cea.com.br/plus-size/feminino",
+        "banners": [
+          {
+            "name": "Masculino",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-1-plus-size-masculino_ID-7610.jpg",
+            "url": "https://www.cea.com.br/plus-size/masculino?utmi_campaign=ID-007610_CAMP_MAS_HOME-PRC_BM01_M11_20201116_MENU-PLUS-SIZE-MASCULINO_GENERICO"
+          },
+          {
+            "name": "Feminino",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-2-plus-size-feminino_ID-7611.jpg",
+            "url": "https://www.cea.com.br/plus-size/feminino?utmi_campaign=ID-007611_CAMP_MAS_HOME-PRC_BM02_M11_20201116_MENU-PLUS-SIZE-FEMININO_GENERICO"
+          },
+          {
+            "name": "Básicos",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-3-plus-size-basicos_ID-7612.jpg",
+            "url": "https://www.cea.com.br/plus-size/basicos?utmi_campaign=ID-007612_CAMP_MAS_HOME-PRC_BM03_M11_20201116_MENU-PLUS-SIZE-BASICOS_GENERICO"
+          },
+          {
+            "name": "Novidades",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-4-plus-size-novidades_ID-7613.jpg",
+            "url": "https://www.cea.com.br/plus-size/novidades?utmi_campaign=ID-007613_CAMP_MAS_HOME-PRC_BM04_M11_20201116_MENU-PLUS-SIZE-NOVIDADES_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "blusas",
+            "url": "https://www.cea.com.br/plus-size/feminino/blusas"
+          },
+          {
+            "name": "camisetas",
+            "url": "https://www.cea.com.br/plus-size/feminino/camisetas"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/plus-size/feminino/calcas"
+          },
+          {
+            "name": "calças jeans",
+            "url": "https://www.cea.com.br/jeans/feminino/calcas/plus-size"
+          },
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/plus-size/feminino/camisas"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/plus-size/feminino/casacos-e-jaquetas"
+          },
+          {
+            "name": "macacões e jardineiras",
+            "url": "https://www.cea.com.br/plus-size/feminino/macacoes-e-jardineiras"
+          },
+          {
+            "name": "moda esportiva",
+            "url": "https://www.cea.com.br/plus-size/feminino/moda-esportiva"
+          },
+          {
+            "name": "moda íntima",
+            "url": "https://www.cea.com.br/plus-size/feminino/moda-intima"
+          },
+          {
+            "name": "moda praia",
+            "url": "https://www.cea.com.br/plus-size/feminino/moda-praia"
+          },
+          {
+            "name": "moletom",
+            "url": "https://www.cea.com.br/plus-size/feminino/moletom"
+          },
+          {
+            "name": "saias",
+            "url": "https://www.cea.com.br/plus-size/feminino/saias"
+          },
+          {
+            "name": "shorts e bermudas",
+            "url": "https://www.cea.com.br/plus-size/feminino/shorts-e-bermudas"
+          },
+          {
+            "name": "vestidos",
+            "url": "https://www.cea.com.br/plus-size/vestidos"
+          },
+          {
+            "name": "jeans",
+            "url": "https://www.cea.com.br/jeans/feminino/plus-size"
+          },
+          {
+            "name": "básicos",
+            "url": "https://www.cea.com.br/plus-size/feminino/basicos"
+          }
+        ]
+      },
+      {
+        "name": "masculino",
+        "url": "https://www.cea.com.br/plus-size/masculino",
+        "subcategorias": [
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/plus-size/masculino/camisas"
+          },
+          {
+            "name": "polos",
+            "url": "https://www.cea.com.br/plus-size/masculino/polos"
+          },
+          {
+            "name": "camisetas",
+            "url": "https://www.cea.com.br/plus-size/masculino/camisetas"
+          },
+          {
+            "name": "bermudas e shorts",
+            "url": "https://www.cea.com.br/plus-size/masculino/shorts-e-bermudas"
+          },
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/plus-size/masculino/calcas"
+          },
+          {
+            "name": "pijamas",
+            "url": "https://www.cea.com.br/plus-size/masculino/pijamas"
+          },
+          {
+            "name": "cuecas",
+            "url": "https://www.cea.com.br/plus-size/masculino/cuecas"
+          },
+          {
+            "name": "casacos e jaquetas",
+            "url": "https://www.cea.com.br/plus-size/masculino/casacos-e-jaquetas"
+          },
+          {
+            "name": "moda esportiva",
+            "url": "https://www.cea.com.br/plus-size/masculino/moda-esportiva"
+          }
+        ]
+      },
+      {
+        "name": "marcas",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "Daluz",
+            "url": "https://www.cea.com.br/galeria-cea/daluz"
+          },
+          {
+            "name": "Flaminga",
+            "url": "https://www.cea.com.br/galeria-cea/flaminga"
+          },
+          {
+            "name": "Kauê Plus Size",
+            "url": "https://www.cea.com.br/moda/plus-size/kaue-plus-size"
+          },
+          {
+            "name": "Zuya",
+            "url": "https://www.cea.com.br/galeria-cea/zuya"
+          }
+        ]
+      },
+      {
+        "name": "novidades",
+        "url": "https://www.cea.com.br/plus-size/novidades"
+      },
+      {
+        "name": "ofertas",
+        "url": "https://www.cea.com.br/plus-size/ofertas"
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/plus-size"
+      }
+    ]
+  },
+  {
+    "name": "jeans",
+    "url": "https://www.cea.com.br/jeans/",
+    "categorias": [
+      {
+        "name": "feminino",
+        "url": "https://www.cea.com.br/jeans/feminino/",
+        "banners": [
+          {
+            "name": "Godê",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-1-menu-jeans-gode_ID-7618.jpg",
+            "url": "https://www.cea.com.br/jeans/feminino/gode?utmi_campaign=ID-007618_CAMP_FEM_HOME-PRC_BM01_M11_20201116_MENU-JEANS-GODE_GENERICO"
+          },
+          {
+            "name": "Baggy",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-2-menu-jeans-baggy_ID-7619.jpg",
+            "url": "https://www.cea.com.br/jeans/feminino/baggy?utmi_campaign=ID-007619_CAMP_FEM_HOME-PRC_BM02_M11_20201116_MENU-JEANS-BAGGY_GENERICO"
+          },
+          {
+            "name": "MOM",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-3-menu-jeans-mom_ID-7620.jpg",
+            "url": "https://www.cea.com.br/jeans/feminino/mom?utmi_campaign=ID-007620_CAMP_FEM_HOME-PRC_BM03_M11_20201116_MENU-JEANS-MOM_GENERICO"
+          },
+          {
+            "name": "Bermudas Masculinas",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/mega-header/banner-4-menu-jeans-bermudas-masc_ID-7621.jpg",
+            "url": "https://www.cea.com.br/jeans/masculino/bermuda?utmi_campaign=ID-007621_CAMP_MAS_HOME-PRC_BM04_M11_20201116_MENU-JEANS-BERMUDAS-MASCULINAS_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/jeans/feminino/calcas"
+          },
+          {
+            "name": "shorts e bermudas",
+            "url": "https://www.cea.com.br/jeans/feminino/shorts-e-bermudas"
+          },
+          {
+            "name": "saias",
+            "url": "https://www.cea.com.br/jeans/feminino/saias"
+          },
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/jeans/feminino/camisas"
+          },
+          {
+            "name": "jaquetas",
+            "url": "https://www.cea.com.br/jeans/feminino/jaquetas"
+          },
+          {
+            "name": "vestidos e macacões",
+            "url": "https://www.cea.com.br/jeans/feminino/vestidos-e-macacoes"
+          }
+        ]
+      },
+      {
+        "name": "gestantes",
+        "url": "https://www.cea.com.br/roupas-para-gestantes/jeans",
+        "subcategorias": []
+      },
+      {
+        "name": "modelagens",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "mom",
+            "url": "https://www.cea.com.br/semana-jeans/feminino/mom"
+          },
+          {
+            "name": "jogger",
+            "url": "https://www.cea.com.br/jeans/feminino/jogger"
+          },
+          {
+            "name": "cintura alta",
+            "url": "https://www.cea.com.br/jeans/feminino/cintura-alta"
+          },
+          {
+            "name": "flare",
+            "url": "https://www.cea.com.br/jeans/feminino/flare"
+          },
+          {
+            "name": "skinny",
+            "url": "https://www.cea.com.br/jeans/feminino/skinny"
+          },
+          {
+            "name": "clochard",
+            "url": "https://www.cea.com.br/jeans/feminino/clochard"
+          },
+          {
+            "name": "reta",
+            "url": "https://www.cea.com.br/jeans/feminino/reta"
+          },
+          {
+            "name": "cargo",
+            "url": "https://www.cea.com.br/jeans/feminino/cargo"
+          },
+          {
+            "name": "pull up",
+            "url": "https://www.cea.com.br/jeans/feminino/pull-up"
+          },
+          {
+            "name": "baggy",
+            "url": "https://www.cea.com.br/jeans/feminino/baggy"
+          },
+          {
+            "name": "pantacourt",
+            "url": "https://www.cea.com.br/jeans/feminino/pantacourt"
+          }
+        ]
+      },
+      {
+        "name": "lavagens",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "Jeans claro",
+            "url": "https://www.cea.com.br/jeans/feminino/jeans-claro"
+          },
+          {
+            "name": "Jeans médio",
+            "url": "https://www.cea.com.br/jeans/feminino/jeans-medio"
+          },
+          {
+            "name": "Jeans escuro",
+            "url": "https://www.cea.com.br/jeans/feminino/jeans-escuro"
+          },
+          {
+            "name": "Jeans Destroyed",
+            "url": "https://www.cea.com.br/jeans/feminino/destroyed"
+          }
+        ]
+      },
+      {
+        "name": "masculino",
+        "url": "https://www.cea.com.br/jeans/masculino/",
+        "subcategorias": [
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/jeans/masculino/calca"
+          },
+          {
+            "name": "camisas",
+            "url": "https://www.cea.com.br/jeans/masculino/camisas"
+          },
+          {
+            "name": "Jaquetas",
+            "url": "https://www.cea.com.br/jeans/masculino/jaquetas"
+          },
+          {
+            "name": "Bermudas",
+            "url": "https://www.cea.com.br/jeans/masculino/bermuda"
+          }
+        ]
+      },
+      {
+        "name": "infantil",
+        "url": "https://www.cea.com.br/jeans/infantil/",
+        "subcategorias": [
+          {
+            "name": "calças",
+            "url": "https://www.cea.com.br/jeans/infantil/calcas"
+          },
+          {
+            "name": "jaquetas",
+            "url": "https://www.cea.com.br/jeans/infantil/jaquetas"
+          },
+          {
+            "name": "jardineiras e salopetes",
+            "url": "https://www.cea.com.br/jeans/infantil/jardineiras-e-salopetes"
+          },
+          {
+            "name": "shorts e bermudas",
+            "url": "https://www.cea.com.br/jeans/infantil/shorts-e-bermudas"
+          },
+          {
+            "name": "vestidos e macacões",
+            "url": "https://www.cea.com.br/jeans/infantil/vestidos-e-macacoes"
+          }
+        ]
+      },
+      {
+        "name": "plus size",
+        "url": "https://www.cea.com.br/plus-size/jeans",
+        "subcategorias": []
+      }
+    ]
+  },
+  {
+    "name": "marcas",
+    "url": "https://www.cea.com.br/glossario-marcas",
+    "categorias": [
+      {
+        "name": "acessórios",
+        "url": "",
+        "banners": [
+          {
+            "name": "Vivara",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_acessorios_VIVARA.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/vivara?utmi_campaign=ID-007940_CAMP_MKP_HOME-PRC_BM01_M11_20210114_MENU-MARCAS-ACESSORIOS-VIVARA_GENERICO"
+          },
+          {
+            "name": "Livo",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_acessorios_LIVO.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/livo?utmi_campaign=ID-007941_CAMP_MKP_HOME-PRC_BM02_M11_20210114_MENU-MARCAS-ACESSORIOS-LIVO_GENERICO"
+          },
+          {
+            "name": "Séculus",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_acessorios_SECULUS.jpg",
+            "url": "http://www.cea.com.br/galeria-cea/seculus?utmi_campaign=ID-007942_CAMP_MKP_HOME-PRC_BM03_M11_20210114_MENU-MARCAS-ACESSORIOS-SECULUS_GENERICO"
+          },
+          {
+            "name": "Mondaine",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_acessorios_MONDAINE.jpg",
+            "url": "http://www.cea.com.br/galeria-cea/mondaine?utmi_campaign=ID-007943_CAMP_MKP_HOME-PRC_BM04_M11_20210114_MENU-MARCAS-ACESSORIOS-MONDAINE_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "Ana Hickman",
+            "url": "https://www.cea.com.br/galeria-cea/ana-hickmann"
+          },
+          {
+            "name": "Key Design",
+            "url": "https://www.cea.com.br/galeria-cea/key-design"
+          },
+          {
+            "name": "Pri Acessórios",
+            "url": "https://www.cea.com.br/galeria-cea/pri-acessorios"
+          },
+          {
+            "name": "Vivara",
+            "url": "https://www.cea.com.br/galeria-cea/vivara"
+          },
+          {
+            "name": "Livo",
+            "url": "https://www.cea.com.br/galeria-cea/livo"
+          },
+          {
+            "name": "Séculus",
+            "url": "http://www.cea.com.br/galeria-cea/seculus"
+          },
+          {
+            "name": "Mondaine",
+            "url": "http://www.cea.com.br/galeria-cea/mondaine"
+          }
+        ]
+      },
+      {
+        "name": "beleza",
+        "url": "",
+        "banners": [
+          {
+            "name": "Up2you cosmetics",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_beleza_UP2YOU.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/up2-you?utmi_campaign=ID-007944_CAMP_MKP_HOME-PRC_BM01_M11_20210114_MENU-MARCAS-BELEZA-UP2YOU_GENERICO"
+          },
+          {
+            "name": "Água de cheiro",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_beleza_AGUA_DE_CHEIRO.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/agua-de-cheiro?utmi_campaign=ID-007945_CAMP_MKP_HOME-PRC_BM02_M11_20210114_MENU-MARCAS-BELEZA-AGUA-DE-CHEIRO_GENERICO"
+          },
+          {
+            "name": "Dermage",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_beleza_DERMAGE.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/dermage?utmi_campaign=ID-007946_CAMP_MKP_HOME-PRC_BM03_M11_20210114_MENU-MARCAS-BELEZA-DERMAGE_GENERICO"
+          },
+          {
+            "name": "Gama Italy",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_beleza_GAMA_ITALY.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/gama-italy?utmi_campaign=ID-007947_CAMP_MKP_HOME-PRC_BM04_M11_20210114_MENU-MARCAS-BELEZA-GAMA-ITALY_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "Dermage",
+            "url": "https://www.cea.com.br/galeria-cea/dermage"
+          },
+          {
+            "name": "Água de Cheiro",
+            "url": "https://www.cea.com.br/galeria-cea/agua-de-cheiro"
+          },
+          {
+            "name": "Gama Italy",
+            "url": "https://www.cea.com.br/galeria-cea/gama-italy"
+          },
+          {
+            "name": "Bell Hair",
+            "url": "https://www.cea.com.br/galeria-cea/bell-hair"
+          },
+          {
+            "name": "Max Love",
+            "url": "https://www.cea.com.br/galeria-cea/max-love"
+          },
+          {
+            "name": "Estrela Beauty",
+            "url": "https://www.cea.com.br/galeria-cea/estrela-beauty"
+          },
+          {
+            "name": "Up2you cosmetics",
+            "url": "https://www.cea.com.br/galeria-cea/up2-you"
+          }
+        ]
+      },
+      {
+        "name": "calçados",
+        "url": "",
+        "banners": [
+          {
+            "name": "Havaianas",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_calcados_HAVAIANAS.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/havaianas?utmi_campaign=ID-007948_CAMP_MKP_HOME-PRC_BM01_M11_20210114_MENU-MARCAS-CALCADOS-HAVAIANAS_GENERICO"
+          },
+          {
+            "name": "Dakota",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_calcados_DAKOTA.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/dakota?utmi_campaign=ID-007949_CAMP_MKP_HOME-PRC_BM02_M11_20210114_MENU-MARCAS-CALCADOS-DAKOTA_GENERICO"
+          },
+          {
+            "name": "Sonho dos pés",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_calcados_SONHO_DOS_PES.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/sonho-dos-pes?utmi_campaign=ID-007950_CAMP_MKP_HOME-PRC_BM03_M11_20210114_MENU-MARCAS-CALCADOS-SONHO-DOS-PES_GENERICO"
+          },
+          {
+            "name": "Anacapri",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_calcados_ANACAPRI.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/anacapri?utmi_campaign=ID-007951_CAMP_MKP_HOME-PRC_BM04_M11_20210114_MENU-MARCAS-CALCADOS-ANACAPRI_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "Anacapri",
+            "url": "https://www.cea.com.br/galeria-cea/anacapri"
+          },
+          {
+            "name": "Clean Up",
+            "url": "http://www.cea.com.br/galeria-cea/cleanup"
+          },
+          {
+            "name": "Dakota",
+            "url": "https://www.cea.com.br/galeria-cea/dakota"
+          },
+          {
+            "name": "Ferracini",
+            "url": "https://www.cea.com.br/galeria-cea/ferracini"
+          },
+          {
+            "name": "Havaianas",
+            "url": "https://www.cea.com.br/galeria-cea/havaianas"
+          },
+          {
+            "name": "Sonho dos Pés",
+            "url": "https://www.cea.com.br/galeria-cea/sonho-dos-pes"
+          },
+          {
+            "name": "Soulier",
+            "url": "https://www.cea.com.br/galeria-cea/soulier"
+          },
+          {
+            "name": "Tarsila",
+            "url": "https://www.cea.com.br/galeria-cea/tarsila"
+          },
+          {
+            "name": "Usaflex",
+            "url": "https://www.cea.com.br/galeria-cea/usaflex"
+          }
+        ]
+      },
+      {
+        "name": "feminino",
+        "url": "",
+        "banners": [
+          {
+            "name": "Oh,Boy!",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_feminino_OH_BOY.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/oh-boy?utmi_campaign=ID-007952_CAMP_MKP_HOME-PRC_BM01_M11_20210114_MENU-MARCAS-FEMININO-OHBOY_GENERICO"
+          },
+          {
+            "name": "Levi’s",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_feminino_LEVIS.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/levi?fq=C:1000003&fq=H:11639&categories=moda-feminina&O=OrderByScoreDESC&utmi_campaign=ID-007953_CAMP_MKP_HOME-PRC_BM02_M11_20210114_MENU-MARCAS-FEMININO-LEVIS_GENERICO"
+          },
+          {
+            "name": "Zinzane",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_feminino_ZINZANE.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/zinzane?fq=C:1000003&fq=H:10564&categories=moda-feminina&utmi_campaign=ID-007954_CAMP_MKP_HOME-PRC_BM03_M11_20210114_MENU-MARCAS-FEMININO-ZINZANE_GENERICO"
+          },
+          {
+            "name": "Afghan",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_feminino_AFGHAN.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/afghan?utmi_campaign=ID-007955_CAMP_MKP_HOME-PRC_BM04_M11_20210114_MENU-MARCAS-FEMININO-AFGHAN_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "Afghan",
+            "url": "https://www.cea.com.br/galeria-cea/afghan"
+          },
+          {
+            "name": "Amapô",
+            "url": "https://www.cea.com.br/galeria-cea/amapo-jeans"
+          },
+          {
+            "name": "Basicamente",
+            "url": "https://www.cea.com.br/galeria-cea/basicamente?fq=C:1000003&fq=H:11607&categories=moda-feminina&O=OrderByScoreDESC"
+          },
+          {
+            "name": "Baw Clothing",
+            "url": "https://www.cea.com.br/galeria-cea/baw-clothing?fq=C:1000003&fq=H:10923&categories=moda-feminina&O=OrderByScoreDESC"
+          },
+          {
+            "name": "Clara Arruda",
+            "url": "https://www.cea.com.br/galeria-cea/clara-arruda"
+          },
+          {
+            "name": "Daluz",
+            "url": "https://www.cea.com.br/galeria-cea/daluz?fq=C:1000003&fq=H:10128&categories=moda-feminina"
+          },
+          {
+            "name": "Elora",
+            "url": "https://www.cea.com.br/galeria-cea/elora"
+          },
+          {
+            "name": "Flaminga Plus Size",
+            "url": "https://www.cea.com.br/galeria-cea/flaminga?fq=C:1000003&fq=H:10175&categories=moda-feminina&O=OrderByReleaseDateDESC"
+          },
+          {
+            "name": "Kauê Plus Size",
+            "url": "https://www.cea.com.br/moda/plus-size/kaue-plus-size?fq=C:1000003&fq=H:9700&categories=moda-feminina"
+          },
+          {
+            "name": "Oh,Boy!",
+            "url": "https://www.cea.com.br/galeria-cea/oh-boy"
+          },
+          {
+            "name": "Sawary",
+            "url": "https://www.cea.com.br/galeria-cea/sawary?fq=C:1000003&fq=H:9879&categories=moda-feminina"
+          },
+          {
+            "name": "Yacamim",
+            "url": "https://www.cea.com.br/galeria-cea/yacamim"
+          },
+          {
+            "name": "Zinzane",
+            "url": "https://www.cea.com.br/galeria-cea/zinzane?fq=C:1000003&fq=H:10564&categories=moda-feminina"
+          },
+          {
+            "name": "Levi's",
+            "url": "https://www.cea.com.br/galeria-cea/levi?fq=C:1000003&fq=H:11639&categories=moda-feminina&O=OrderByScoreDESC"
+          },
+          {
+            "name": "Enjoy",
+            "url": "https://www.cea.com.br/galeria-cea/enjoy"
+          }
+        ]
+      },
+      {
+        "name": "infantil",
+        "url": "",
+        "banners": [
+          {
+            "name": "Brandili",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_infantil_BRANDILI.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/brandili?utmi_campaign=ID-007956_CAMP_MKP_HOME-PRC_BM01_M11_20210114_MENU-MARCAS-INFANTIL-BRANDILI_GENERICO"
+          },
+          {
+            "name": "Clube Mirasol",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_infantil_CLUBE_MIRASOL.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/clube-marisol?utmi_campaign=ID-007957_CAMP_MKP_HOME-PRC_BM02_M11_20210114_MENU-MARCAS-INFANTIL-CLUBE-MIRASOL_GENERICO"
+          },
+          {
+            "name": "Pulla Bulla",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_infantil_PULLA_BULLA.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/pulla-bulla?utmi_campaign=ID-007958_CAMP_MKP_HOME-PRC_BM03_M11_20210114_MENU-MARCAS-INFANTIL-PULLA-BULLA_GENERICO"
+          },
+          {
+            "name": "Pistol Star",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_infantil_PISTOL_STAR.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/pistol-star?utmi_campaign=ID-007959_CAMP_MKP_HOME-PRC_BM04_M11_20210114_MENU-MARCAS-INFANTIL-PISTOL-STAR_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "Pulla Bulla",
+            "url": "https://www.cea.com.br/galeria-cea/pulla-bulla"
+          },
+          {
+            "name": "Pistol Star",
+            "url": "https://www.cea.com.br/galeria-cea/Pistol-star"
+          },
+          {
+            "name": "Maria Maria Enfance",
+            "url": "https://www.cea.com.br/galeria-cea/maria-maria-enfance"
+          },
+          {
+            "name": "Bup Baby ",
+            "url": "https://www.cea.com.br/galeria-cea/bup-baby"
+          },
+          {
+            "name": "Gharka Kids",
+            "url": "https://www.cea.com.br/galeria-cea/gharka-kids"
+          },
+          {
+            "name": "Look Jeans",
+            "url": "https://www.cea.com.br/galeria-cea/look-jeans"
+          },
+          {
+            "name": "Nosh",
+            "url": "https://www.cea.com.br/galeria-cea/nosh"
+          },
+          {
+            "name": "Grow",
+            "url": "https://www.cea.com.br/galeria-cea/grow"
+          },
+          {
+            "name": "Brandili",
+            "url": "https://www.cea.com.br/moda/infantil/brandili"
+          },
+          {
+            "name": "Clube Marisol",
+            "url": "https://www.cea.com.br/galeria-cea/clube-marisol"
+          }
+        ]
+      },
+      {
+        "name": "masculino",
+        "url": "",
+        "banners": [
+          {
+            "name": "Taco",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_masculino_TACO.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/taco?fq=C:1000083&fq=H:11442&categories=moda-masculina&O=OrderByScoreDESC&utmi_campaign=ID-007960_CAMP_MKP_HOME-PRC_BM01_M11_20210114_MENU-MARCAS-MASCULINO-TACO_GENERICO"
+          },
+          {
+            "name": "Wolliner",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_masculino_WOLLINER.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/wollner?utmi_campaign=ID-007961_CAMP_MKP_HOME-PRC_BM02_M11_20210114_MENU-MARCAS-MASCULINO-WOLLINER_GENERICO"
+          },
+          {
+            "name": "Basicamente",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_masculino_BASICAMENTE.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/basicamente?fq=C:1000083&fq=H:11607&categories=moda-masculina&O=OrderByScoreDESC&utmi_campaign=ID-007962_CAMP_MKP_HOME-PRC_BM03_M11_20210114_MENU-MARCAS-MASCULINO-BASICAMENTE_GENERICO"
+          },
+          {
+            "name": "Armandillo",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_masculino_ARMADILLO.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/armadillo?utmi_campaign=ID-007963_CAMP_MKP_HOME-PRC_BM04_M11_20210114_MENU-MARCAS-MASCULINO-ARMANDILLO_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "Armadillo",
+            "url": "https://www.cea.com.br/galeria-cea/armadillo"
+          },
+          {
+            "name": "Basicamente",
+            "url": "https://www.cea.com.br/galeria-cea/basicamente?fq=C:1000083&fq=H:11607&categories=moda-masculina&O=OrderByScoreDESC"
+          },
+          {
+            "name": "Kauê Plus Size",
+            "url": "https://www.cea.com.br/moda/plus-size/kaue-plus-size?fq=C:1000083&fq=H:9700&categories=moda-masculina"
+          },
+          {
+            "name": "Levi's",
+            "url": "https://www.cea.com.br/galeria-cea/levi?fq=C:1000083&fq=H:11639&categories=moda-masculina&O=OrderByScoreDESC"
+          },
+          {
+            "name": "Mormaii",
+            "url": "https://www.cea.com.br/galeria-cea/mormaii?fq=C:1000083&fq=H:10472&categories=moda-masculina"
+          },
+          {
+            "name": "Sawary",
+            "url": "https://www.cea.com.br/galeria-cea/sawary?fq=C:1000083&fq=H:9879&categories=moda-masculina"
+          },
+          {
+            "name": "Taco",
+            "url": "https://www.cea.com.br/galeria-cea/taco?fq=C:1000083&fq=H:11442&categories=moda-masculina&O=OrderByScoreDESC"
+          },
+          {
+            "name": "Wollner",
+            "url": "https://www.cea.com.br/galeria-cea/wollner"
+          },
+          {
+            "name": "Zinzane",
+            "url": "https://www.cea.com.br/galeria-cea/zinzane?fq=C:1000083&fq=H:10564&categories=moda-masculina"
+          },
+          {
+            "name": "Mizuno",
+            "url": "https://www.cea.com.br/galeria-cea/mizuno?fq=C:1000083&fq=H:10246&categories=moda-masculina"
+          },
+          {
+            "name": "Hermoso Compadre",
+            "url": "https://www.cea.com.br/galeria-cea/hermoso-compadre"
+          }
+        ]
+      },
+      {
+        "name": "moda íntima",
+        "url": "",
+        "banners": [
+          {
+            "name": "Verve Lingerie",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_moda_intima_VERVE_LINGERIE.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/verve?utmi_campaign=ID-007964_CAMP_MKP_HOME-PRC_BM01_M11_20210114_MENU-MARCAS-MODA-INTIMA-VERVE_GENERICO"
+          },
+          {
+            "name": "Valisere",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_moda_intima_VALISERE.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/valisere?utmi_campaign=ID-007965_CAMP_MKP_HOME-PRC_BM02_M11_20210114_MENU-MARCAS-MODA-INTIMA-VALISERE_GENERICO"
+          },
+          {
+            "name": "Duloren",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_moda_intima_DULOREN.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/duloren?utmi_campaign=ID-007966_CAMP_MKP_HOME-PRC_BM03_M11_20210114_MENU-MARCAS-MODA-INTIMA-DULOREN_GENERICO"
+          },
+          {
+            "name": "Mash",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_moda_intima_MASH.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/she?utmi_campaign=ID-007967_CAMP_MKP_HOME-PRC_BM04_M11_20210114_MENU-MARCAS-MODA-INTIMA-MASH_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "Daniela Tombini",
+            "url": "https://www.cea.com.br/galeria-cea/daniela-tombini"
+          },
+          {
+            "name": "Duloren",
+            "url": "https://www.cea.com.br/galeria-cea/duloren"
+          },
+          {
+            "name": "Liebe Lingerie",
+            "url": "https://www.cea.com.br/galeria-cea/liebe"
+          },
+          {
+            "name": "Liz",
+            "url": "https://www.cea.com.br/galeria-cea/liz"
+          },
+          {
+            "name": "Mash",
+            "url": "https://www.cea.com.br/galeria-cea/she"
+          },
+          {
+            "name": "Meia de Seda",
+            "url": "https://www.cea.com.br/galeria-cea/meia-de-seda"
+          },
+          {
+            "name": "Sloggi",
+            "url": "https://www.cea.com.br/galeria-cea/sloggi"
+          },
+          {
+            "name": "Triumph",
+            "url": "https://www.cea.com.br/galeria-cea/triumph"
+          },
+          {
+            "name": "Valisere",
+            "url": "https://www.cea.com.br/galeria-cea/valisere"
+          },
+          {
+            "name": "Verve Lingerie",
+            "url": "https://www.cea.com.br/galeria-cea/verve"
+          }
+        ]
+      },
+      {
+        "name": "moda praia",
+        "url": "",
+        "banners": [
+          {
+            "name": "Cia Marítima",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_moda_praia_CIA_MARITIMA.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/cia-maritima?utmi_campaign=ID-007968_CAMP_MKP_HOME-PRC_BM01_M11_20210114_MENU-MARCAS-MODA-PRAIA-CIA-MARITIMA_GENERICO"
+          },
+          {
+            "name": "Triya ",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_moda_praia_TRIYA.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/triya?utmi_campaign=ID-007969_CAMP_MKP_HOME-PRC_BM02_M11_20210114_MENU-MARCAS-MODA-PRAIA-TRIYA_GENERICO"
+          },
+          {
+            "name": "Baz Brazil",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_moda_praia_BAZ_BRASIL.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/baz-brazil?utmi_campaign=ID-007970_CAMP_MKP_HOME-PRC_BM03_M11_20210114_MENU-MARCAS-MODA-PRAIA-BAZ-BRAZIL_GENERICO"
+          },
+          {
+            "name": "Blueman",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/menu-marcas/202x176_menu_moda_praia_BLUEMAN.jpg",
+            "url": "https://www.cea.com.br/galeria-cea/blueman?utmi_campaign=ID-007971_CAMP_MKP_HOME-PRC_BM04_M11_20210114_MENU-MARCAS-MODA-PRAIA-BLUEMAN_GENERICO"
+          }
+        ],
+        "subcategorias": [
+          {
+            "name": "Acqua by Classic",
+            "url": "https://www.cea.com.br/galeria-cea/acqua-by-classic"
+          },
+          {
+            "name": "Baz Brasil",
+            "url": "https://www.cea.com.br/galeria-cea/baz-brazil"
+          },
+          {
+            "name": "Blueman",
+            "url": "https://www.cea.com.br/galeria-cea/blueman"
+          },
+          {
+            "name": "Cia Maritima",
+            "url": "https://www.cea.com.br/galeria-cea/cia-maritima"
+          },
+          {
+            "name": "Cosmoswim",
+            "url": "https://www.cea.com.br/galeria-cea/cosmo-swim"
+          },
+          {
+            "name": "Livelle",
+            "url": "https://www.cea.com.br/galeria-cea/livelle"
+          },
+          {
+            "name": "Suntime Swim",
+            "url": "https://www.cea.com.br/galeria-cea/suntime"
+          },
+          {
+            "name": "Triya",
+            "url": "https://www.cea.com.br/galeria-cea/triya"
+          },
+          {
+            "name": "Uv Line",
+            "url": "https://www.cea.com.br/galeria-cea/uvline"
+          },
+          {
+            "name": "Brazil Del Mar",
+            "url": "https://www.cea.com.br/galeria-cea/brazil-del-mar"
+          },
+          {
+            "name": "Via Sol",
+            "url": "https://www.cea.com.br/galeria-cea/via-sol"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ofertas",
+    "url": "https://www.cea.com.br/ofertas",
+    "categorias": [
+      {
+        "name": "feminino",
+        "url": "https://www.cea.com.br/ofertas/moda-feminina",
+        "banners": [
+          {
+            "name": "Camisetas e blusas a partir de R$ 19,99",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/artes-semana-49/geral/menu-ofertas/menu-1-blusas-camisetas_ID-7774.jpg",
+            "url": "https://www.cea.com.br/moda/camisetas-e-blusas-a-partir-19?utmi_campaign=ID-007774_CAMP_GEN_HOME-PRC_BM01_M11_20201203_MENU-OFERTAS-BLUSAS-E-CAMISETAS-A-PARTIR-DE-19_GENERICO"
+          },
+          {
+            "name": "Presentes a partir de R$ 29,99",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/artes-semana-49/geral/menu-ofertas/menu-2-presentes_ID-7775.jpg",
+            "url": "https://www.cea.com.br/moda/presentes-a-partir-de-29?utmi_campaign=ID-007775_CAMP_GEN_HOME-PRC_BM02_M11_20201203_MENU-OFERTAS-PRESENTES-A-PARTIR-DE-29_GENERICO"
+          },
+          {
+            "name": "Shorts e bermudas a partir de R$ 59,99",
+            "image": "https://images.cea-ecommerce.com.br/site/2020/artes-semana-49/geral/menu-ofertas/menu-3-bottom_ID-7776.jpg",
+            "url": "https://www.cea.com.br/moda/shorts-e-bermudas-a-partir-59?utmi_campaign=ID-007776_CAMP_GEN_HOME-PRC_BM03_M11_20201203_MENU-OFERTAS-SHORTS-E-BERMUDAS-A-PARTIR-DE-59_GENERICO"
+          },
+          {
+            "name": "Liquida C&A",
+            "image": "https://images.cea-ecommerce.com.br/site/2021/artes-semana-14/calcados/menu-ofertas-liquida-calcados_ID-008162.jpg",
+            "url": "https://www.cea.com.br/moda/inverno/calcados?utmi_campaign=ID-008162_PROM_CAL_HOME-PRC_BM04_M11_20210330_MENU-OFERTAS-CALCADOS_ATE-60OFF"
+          }
+        ],
+        "subcategorias": []
+      },
+      {
+        "name": "masculino",
+        "url": "https://www.cea.com.br/ofertas/masculina",
+        "subcategorias": []
+      },
+      {
+        "name": "infantil",
+        "url": "https://www.cea.com.br/ofertas/moda-infantil",
+        "subcategorias": []
+      },
+      {
+        "name": "moda íntima",
+        "url": "https://www.cea.com.br/moda/moda-intima/ofertas",
+        "subcategorias": []
+      },
+      {
+        "name": "personagens",
+        "url": "https://www.cea.com.br/personagens/ofertas",
+        "subcategorias": []
+      },
+      {
+        "name": "beleza",
+        "url": "https://www.cea.com.br/ofertas?fq=C:1000438&fq=spec_fct_208:Sale&categories=beleza&O=OrderByBestDiscountDESC",
+        "subcategorias": []
+      },
+      {
+        "name": "acessórios",
+        "url": "https://www.cea.com.br/acessorios/ofertas",
+        "subcategorias": []
+      },
+      {
+        "name": "calçados",
+        "url": "https://www.cea.com.br/calcados/ofertas",
+        "subcategorias": []
+      },
+      {
+        "name": "casa",
+        "url": "https://www.cea.com.br/casa",
+        "subcategorias": []
+      },
+      {
+        "name": "eletrônicos",
+        "url": "https://www.cea.com.br/ofertas?fq=C:1000185&fq=spec_fct_208:Sale&categories=celulares-e-tablets&O=OrderByBestDiscountDESC",
+        "subcategorias": []
+      },
+      {
+        "name": "brinquedos",
+        "url": "https://www.cea.com.br/busca?fq=C:1003159&O=OrderByReleaseDateDESC",
+        "subcategorias": []
+      },
+      {
+        "name": "relógios",
+        "url": "https://www.cea.com.br/ofertas/relogios",
+        "subcategorias": []
+      },
+      {
+        "name": "moda praia",
+        "url": "https://www.cea.com.br/moda/moda-praia?filters=[]&O=vtexscore+DESC",
+        "subcategorias": []
+      },
+      {
+        "name": "jeans",
+        "url": "https://www.cea.com.br/jeans/ofertas",
+        "subcategorias": []
+      },
+      {
+        "name": "plus size",
+        "url": "https://www.cea.com.br/plus-size/ofertas",
+        "subcategorias": []
+      },
+      {
+        "name": "mostrar tudo",
+        "url": "https://www.cea.com.br/ofertas",
+        "subcategorias": []
+      }
+    ]
+  },
+  {
+    "name": "BBB21",
+    "url": "https://www.cea.com.br/bbb",
+    "categorias": [
+      {
+        "name": "Looks por Brothers",
+        "url": "",
+        "subcategorias": [
+          {
+            "name": "Arcrebiano",
+            "url": "https://www.cea.com.br/bbb/arcrebiano"
+          },
+          {
+            "name": "Arthur",
+            "url": "https://www.cea.com.br/bbb/arthur"
+          },
+          {
+            "name": "Caio",
+            "url": "https://www.cea.com.br/bbb/caio"
+          },
+          {
+            "name": "Camilla de Lucas",
+            "url": "https://www.cea.com.br/bbb/camilla-de-lucas"
+          },
+          {
+            "name": "Carla Diaz",
+            "url": "https://www.cea.com.br/bbb/carla-diaz"
+          },
+          {
+            "name": "Fiuk",
+            "url": "https://www.cea.com.br/bbb/fiuk"
+          },
+          {
+            "name": "Gilberto",
+            "url": "https://www.cea.com.br/bbb/gilberto"
+          },
+          {
+            "name": "João Luiz",
+            "url": "https://www.cea.com.br/bbb/joao-luiz"
+          },
+          {
+            "name": "Juliette",
+            "url": "https://www.cea.com.br/bbb/juliette"
+          },
+          {
+            "name": "Karol conká",
+            "url": "https://www.cea.com.br/bbb/karol-conka"
+          },
+          {
+            "name": "Kerline",
+            "url": "https://www.cea.com.br/bbb/kerline"
+          },
+          {
+            "name": "Lucas Penteado",
+            "url": "https://www.cea.com.br/bbb/lucas-penteado"
+          },
+          {
+            "name": "Lumena",
+            "url": "https://www.cea.com.br/bbb/lumena"
+          },
+          {
+            "name": "Nego Di",
+            "url": "https://www.cea.com.br/bbb/nego-di"
+          },
+          {
+            "name": "Pocah",
+            "url": "https://www.cea.com.br/bbb/pocah"
+          },
+          {
+            "name": "Projota",
+            "url": "https://www.cea.com.br/bbb/projota"
+          },
+          {
+            "name": "Rodolffo",
+            "url": "https://www.cea.com.br/bbb/rodolffo"
+          },
+          {
+            "name": "Sarah",
+            "url": "https://www.cea.com.br/bbb/sarah"
+          },
+          {
+            "name": "Thaís",
+            "url": "https://www.cea.com.br/bbb/thais"
+          },
+          {
+            "name": "Viih Tube",
+            "url": "https://www.cea.com.br/bbb/viih-tube"
+          }
+          
+        ]
+      },
+      {
+        "name": "feminino",
+        "url": "https://www.cea.com.br/bbb/moda-feminina",
+        "subcategorias": []
+      },
+      {
+        "name": "masculino",
+        "url": "https://www.cea.com.br/bbb/moda-masculina",
+        "subcategorias": []
+      },
+      {
+        "name": "Ver tudo",
+        "url": "https://www.cea.com.br/bbb/vitrine",
+        "subcategorias": []
+      }
+      
+    ]
+  }
+]

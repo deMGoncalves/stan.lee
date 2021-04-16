@@ -1,0 +1,16 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.prior__link {
+  text-decoration: none;
+}
+
+.prior__estrela {
+  display: inline-block;
+}
+
+.prior__quantidade {
+  color: var(--COLOR-SMOKE-LIGHT);
+  font-size: var(--FONT-SIZE-XSMALL);
+}

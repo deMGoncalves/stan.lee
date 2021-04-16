@@ -1,0 +1,47 @@
+.boxgray,
+.boxgray__text { display: flex; }
+
+.boxgray {
+  background-color: #f9fafc;
+  border: 1px solid #dfe4ef;
+  box-sizing: border-box;
+  flex-direction: column;
+  margin-bottom: 10px;
+  min-height: 205px;
+  padding: 35px;
+}
+
+@media (min-width: 768px) {
+  .boxgray { width: 48%; }
+}
+
+.boxgray__title {
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: 25px;
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  font-size: 24px;
+  padding-left: 35px;
+  text-transform: lowercase;
+}
+
+.boxgray__for {
+  background-image: url('https://cea.vteximg.com.br/arquivos/icon-grana-confirmation.png');
+}
+
+.boxgray__res {
+  background-image: url('https://cea.vteximg.com.br/arquivos/icon-list-confirmation.png');
+}
+
+.boxgray__text {
+  color: #5f6872;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-size: 14px;
+  justify-content: space-between;
+  line-height: 25px;
+}
+
+@media (min-width: 768px) {
+  .boxgray__text { flex-direction: row; }
+}

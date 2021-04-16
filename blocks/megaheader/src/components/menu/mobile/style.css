@@ -1,0 +1,13 @@
+.menu__navigation {
+  height: 100%;
+  overflow-y: auto;
+  padding-top: 10px;
+}
+
+.menu__bread span:last-child { font-family: var(--FONT-FAMILY-SECONDARY); }
+
+.menu__copyLogin div { justify-content: flex-start; }
+
+.menu__copyLogin div::after { display: none; }
+
+.menu__navigation .menu__exit { color: var(--COLOR-CEA-LIGHTER); }

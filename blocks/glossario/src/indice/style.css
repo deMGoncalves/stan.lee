@@ -1,0 +1,114 @@
+
+.glossario__container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 24px 8px;
+}
+
+.glossario__title {
+  color: var(--COLOR-CEA);
+  font-family: var(--FONT-FAMILY-SECONDARY);
+  font-size: var(--FONT-SIZE-DISPLAY-SMALL);
+  margin-bottom: 10px;
+}
+
+.glossario__nav {
+  width: 100%;
+}
+
+.glossario__ol {
+  display: inline-block;
+  margin: -4px;
+  text-align: justify;
+}
+
+.glossario__li,
+.glossario__li.true,
+.glossario__numeros,
+.glossario__todos {
+  display: inline-table;
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  height: 30px;
+  margin: 0 2px 0 0;
+  text-transform: uppercase;
+}
+
+.glossario__numeros::after,
+.glossario__li.true::after,
+.glossario__li::after {
+  background-color: var(--COLOR-SNOW);
+  border-radius: 4px;
+  content: '';
+  display: inline-block;
+  height: 4px;
+  margin: 0 0 3px 7px;
+  width: 4px;
+}
+
+.glossario__li.true::after {
+  background-color: transparent;
+}
+
+.glossario__a,
+.glossario__a.true,
+.glossario__orientacao,
+.glossario__orientacao.true {
+  color: var(--COLOR-BLACK-LIGHT);
+  cursor: pointer;
+  display: inline-block;
+  font-size: var(--FONT-SIZE-BODY);
+  font-weight: 700;
+  height: 48px;
+  line-height: 48px;
+  text-align: center;
+  text-decoration: none;
+  width: 48px;
+}
+
+.glossario__a.true,
+.glossario__orientacao.true {
+  color: var(--COLOR-CEA-LIGHT);
+}
+
+@media (min-width: 768px) {
+  .glossario__container {
+    align-items: flex-start;
+    padding: 24px 12px;
+  }
+}
+
+@media (min-width: 940px) {
+  .glossario__title {
+    margin: 0;
+    width: 141px;
+  }
+
+  .glossario__nav {
+    width: auto;
+  }
+
+  .glossario__a,
+  .glossario__a.true,
+  .glossario__orientacao {
+    height: unset;
+    line-height: unset;
+    text-align: left;
+    width: unset;
+  }
+
+  .glossario__container {
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .glossario__li,
+  .glossario__numeros,
+  .glossario__todos {
+    margin: 4px 11px 4px 4px;
+  }
+}

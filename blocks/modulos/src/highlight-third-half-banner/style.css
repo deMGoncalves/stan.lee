@@ -1,0 +1,24 @@
+highlight-third-half-banner {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.highlightThirdHalfBanner figure {
+  cursor: pointer;
+}
+
+.highlightThirdHalfBanner__halfBanner {
+  margin-bottom: 12px;
+}
+
+@media (min-width: 768px) {
+  .highlightThirdHalfBanner {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .highlightThirdHalfBanner__halfBanner {
+    margin: 24px 0 0 0;
+  }
+}

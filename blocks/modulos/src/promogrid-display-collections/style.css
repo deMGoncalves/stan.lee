@@ -1,0 +1,42 @@
+promogrid-display-collectons {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+
+.promogridDisplayCollections__banner {
+  margin-bottom: 12px;
+}
+
+.promogridDisplayCollections__container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 12px 0 24px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.promogridDisplayCollections__title {
+  margin-bottom: 12px;
+}
+
+@media (min-width: 768px) {
+  .promogridDisplayCollections__banner {
+    margin-bottom: 24px;
+  }
+
+  .promogridDisplayCollections__container {
+    height: 100%;
+    justify-content: flex-end;
+    left: 0;
+    padding: 0 0 24px 0;
+    position: absolute;
+    top: 0;
+  }
+
+  .promogridDisplayCollections__title {
+    margin-bottom: 24px;
+  }
+}
