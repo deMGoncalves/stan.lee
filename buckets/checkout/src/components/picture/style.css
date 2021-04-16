@@ -1,0 +1,17 @@
+.picture {
+  display: block;
+  height: 120px;
+  padding-top: 120px;
+  position: relative;
+  width: 100px;
+}
+
+.picture__image {
+  height: 100%;
+  left: 0;
+  object-fit: cover;
+  object-position: center center;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}

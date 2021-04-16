@@ -1,0 +1,13 @@
+.cupom {
+  position: relative;
+}
+
+.cupom::before {
+  background-color: purple;
+  content: '>';
+  height: var(--ICON-SIZE);
+  position: absolute;
+  right: 0;
+  top: 16px;
+  width: var(--ICON-SIZE-SMALL);
+}

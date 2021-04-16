@@ -1,0 +1,6 @@
+.content {
+  background-color: #fff;
+  border: 1px solid var(--COLOR-SNOW);
+  border-radius: var(--RADIUS);
+  padding: 0 var(--SPACE-SIZE);
+}

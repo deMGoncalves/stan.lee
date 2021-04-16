@@ -1,0 +1,12 @@
+.icon {
+  min-width: var(--ICON-SIZE);
+  padding-top: var(--ICON-SIZE) !important;
+  width: var(--ICON-SIZE) !important;
+}
+
+.icon[small] {
+  min-width: var(--ICON-SIZE-SMALL);
+  padding-top: var(--ICON-SIZE-SMALL) !important;
+  width: var(--ICON-SIZE-SMALL) !important;
+}
+

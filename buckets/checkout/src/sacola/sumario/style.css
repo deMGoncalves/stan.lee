@@ -1,0 +1,17 @@
+.sumario {
+  padding: 8px 0;
+}
+
+.sumario__item {
+  align-items: center;
+  border-bottom: 1px solid var(--COLOR-SNOW-LIGHT);
+  color: var(--COLOR-BLACK);
+  display: flex;
+  font-size: var(--FONT-SIZE-SMALL);
+  justify-content: space-between;
+  line-height: 47px;
+}
+
+.sumario__item:last-child {
+  border-bottom: none;
+}

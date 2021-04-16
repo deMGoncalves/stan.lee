@@ -1,0 +1,86 @@
+.productContainer {
+  display: flex;
+}
+
+.productCard {
+  border: 1px solid transparent;
+  max-width: 292px;
+  padding: 6px;
+  transition: all linear 0.3s;
+  width: 100%;
+}
+
+.productCard:hover {
+  border: 1px solid var(--COLOR-EMERALD-LIGHT);
+}
+
+.productCard__title {
+  border-bottom: 1px solid #ccc;
+  color: var(--COLOR-BLACK);
+  display: block;
+  font-family: var(--FONT-FAMILY-PRIMARY);
+  font-size: var(--FONT-SIZE-SMALL);
+  font-weight: 700;
+  min-height: 84px;
+  padding: 12px;
+  text-align: left;
+  text-decoration: none;
+  white-space: initial;
+}
+
+.productCard__imageContainer {
+  aspect-ratio: 5 /6;
+  cursor: pointer;
+  position: relative;
+  object-fit: cover;
+}
+
+.productCard .productCard__imageHover {
+  left: 0;
+  max-width: 100%;
+  position: absolute;
+  top: 0;
+  transition: all linear 0.3s;
+  z-index: 0;
+}
+
+.productCard:hover .productCard__imageHover {
+  opacity: 0;
+}
+
+.productCard__price {
+  color: var(--COLOR-BLACK);
+  display: block;
+  font-size: var(--FONT-SIZE-SMALL);
+  padding: 12px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.productCard__priceParcelTitle {
+  display: block;
+}
+
+.productCard__installmentDetails {
+  display: block;
+  font-size: var(--FONT-SIZE-DISPLAY-XSMALL);
+}
+
+.productCard__installmentPrice {
+  color: var(--COLOR-EMERALD);
+  font-weight: 700;
+}
+
+.productCard__cardtxt {
+  display: block;
+  font-size: var(--FONT-SIZE-XSMALL);
+}
+
+.productCard__unavailable {
+  align-items: center;
+  color: var(--COLOR-DANGER-TEXT);
+  display: flex;
+  justify-content: center;
+  min-height: 106px;
+  text-decoration: none;
+}

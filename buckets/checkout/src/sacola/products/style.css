@@ -1,0 +1,61 @@
+.product__header {
+  display: flex;
+  flex-wrap: wrap;
+  padding: var(--SPACE-SIZE) 0;
+}
+
+.product__name,
+.product__seller {
+  font-size: var(--FONT-SIZE-XSMALL);
+  font-weight: 400;
+  text-transform: lowercase;
+}
+
+.product__name {
+  color: var(--COLOR-BLACK);
+  width: 100%;
+}
+
+.product__information {
+  width: calc(100% - 100px);
+}
+
+.product__seller {
+  color: var(--COLOR-BLACK-LIGHT);
+  grid-area: seller;
+  margin-bottom: 8px;
+}
+
+/* TODO: Price */
+.product__price {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product__priceOld,
+.product__priceDiscount {
+  font-size: var(--FONT-SIZE-XSMALL);
+}
+
+.product__priceOld {
+  margin-bottom: 4px;
+  width: 100%;
+}
+
+.product__priceDiscount {
+  background-color: #e0f8e6;
+  border: 1px solid #d0f4d9;
+  border-radius: 3px;
+  color: var(--COLOR-SUCCESS-TEXT);
+  line-height: 16px;
+  margin-left: 8px;
+  padding: 0 5px;
+}
+
+.product__priceBest {
+  color: var(--COLOR-BLACK);
+  font-size: var(--FONT-SIZE-SMALL);
+  font-style: normal;
+  font-weight: 600;
+}

@@ -1,0 +1,55 @@
+.frete {
+  border-top: 1px solid var(--COLOR-SNOW-LIGHT);
+  display: flex;
+  flex-wrap: wrap;
+  padding: var(--SPACE-SIZE) 0;
+}
+
+.frete__label {
+  color: var(--COLOR-INFO-TEXT);
+  font-size: var(--FONT-SIZE-SMALL);
+  font-weight: 500;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+.frete__input,
+.frete__button {
+  font-size: var(--FONT-SIZE-SMALL);
+  height: 32px;
+  width: 100%;
+}
+
+.frete__input {
+  border: 1px solid var(--COLOR-SMOKE-LIGHT);
+  border-radius: 3px;
+  box-shadow: 0 -1px 0 var(--COLOR-SMOKE) inset;
+  max-width: 143px;
+  padding: 0 14px;
+}
+
+.frete__input::placeholder {
+  color: var(--COLOR-BLACK-LIGHTER);
+}
+
+.frete__button {
+  background-color: var(--COLOR-CEA-LIGHT);
+  border: none;
+  border-radius: 16px;
+  color: #fff;
+  cursor: pointer;
+  font-family: var(--FONT-FAMILY-SECONDARY-BOLD);
+  margin-left: 12px;
+  max-width: 97px;
+  text-transform: lowercase;
+}
+
+.frete__link {
+  color: var(--COLOR-CEA-LIGHTER);
+  display: block;
+  font-size: var(--FONT-SIZE-XSMALL);
+  margin-top: var(--SPACE-SIZE);
+  text-decoration: none;
+  width: 100%;
+}

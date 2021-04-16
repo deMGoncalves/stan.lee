@@ -1,0 +1,57 @@
+.bag {
+  background-color: var(--COLOR-SMOKE-LIGHTER);
+  height: 100vh;
+  padding: 0 var(--FONT-SIZE-BODY);
+}
+
+.bag__tooltip {
+  align-items: center;
+  background-color: #fff;
+  border-radius: var(--RADIUS);
+  box-shadow: 1px 2px 2px 0 rgba(0, 0, 0, 0.1);
+  display: flex;
+  height: 71px;
+  margin-top: 18px;
+  padding: 14px 12px;
+  position: relative;
+}
+
+.bag__tooltip::before {
+  border-color: transparent transparent #fff transparent;
+  border-style: solid;
+  border-width: 12px;
+  content: '';
+  left: 50%;
+  position: absolute;
+  top: -24px;
+  transform: translate3d(-50%, 0, 0);
+}
+
+.bag__tooltipIcon {
+  background-color: rosybrown;
+  height: 32px;
+  margin-right: 4px;
+  text-indent: -9000em;
+  width: 32px;
+}
+
+.bag__tooltipText {
+  color: var(--COLOR-BLACK-LIGHT);
+  font-size: var(--FONT-SIZE-XSMALL);
+  line-height: var(--SPACE-SIZE);
+  width: calc(100% - 32px);
+}
+
+.bag__tooltipDestak {
+  color: var(--COLOR-BLACK);
+  font-style: normal;
+}
+
+.bag__link {
+  color: var(--COLOR-CEA-LIGHTER);
+  display: inline-block;
+  font-size: var(--FONT-SIZE-XSMALL);
+  margin-left: 50%;
+  text-align: center;
+  transform: translate3d(-50%, 0, 0);
+}

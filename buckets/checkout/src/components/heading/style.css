@@ -1,0 +1,16 @@
+.heading {
+  align-items: center;
+  color: var(--COLOR-BLACK);
+  display: flex;
+  font-size: var(--FONT-SIZE-SMALL);
+  line-height: 56px;
+  text-transform: lowercase;
+}
+
+.heading__icon {
+  background-color: aquamarine;
+  height: var(--ICON-SIZE);
+  margin-right: 8px;
+  text-indent: -9000em;
+  width: var(--ICON-SIZE);
+}

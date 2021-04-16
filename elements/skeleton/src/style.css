@@ -1,0 +1,102 @@
+.skeleton {
+  background-color: #f3f3f3;
+  border-radius: 4px;
+  display: flex;
+  margin: 0.4em 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+.skeleton::before {
+  animation: load 1.3s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+  background: linear-gradient(to right, transparent 0%, rgba(255, 255, 255, 0.5) 50%, transparent 100%);
+  content: '';
+  display: flex;
+  height: 100%;
+  left: -150px;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+@keyframes load {
+  from {
+    left: -150px;
+  }
+
+  to {
+    left: 100%;
+  }
+}
+
+.skeleton.card {
+  background-color: initial;
+  box-shadow: 0 2px 4px 0 rgba(33, 33, 33, 0.15);
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 6px;
+  margin-right: 6px;
+  padding: 4px 0;
+}
+
+.skeleton.image1_1 {
+  aspect-ratio: 1/1;
+  width: 100%;
+}
+
+.skeleton.image16_9 {
+  aspect-ratio: 16/9;
+  width: 100%;
+}
+
+.skeleton.image5_6 {
+  aspect-ratio: 5/6;
+  width: 100%;
+}
+
+.skeleton.image4_3 {
+  aspect-ratio: 4/3;
+  width: 100%;
+}
+
+.skeleton.image3_2 {
+  aspect-ratio: 3/2;
+  width: 100%;
+}
+
+.skeleton.image8_5 {
+  aspect-ratio: 8/5;
+  width: 100%;
+}
+
+.skeleton.text {
+  height: 0.9em;
+  width: 100%;
+}
+
+.skeleton.h1 {
+  height: 1.5em;
+  width: 100%;
+}
+
+.skeleton.textmedium {
+  height: 0.9em;
+  width: 50%;
+}
+
+.skeleton.textshort {
+  height: 0.9em;
+  width: 30%;
+}
+
+.skeleton.line {
+  height: 0.1em;
+  width: 100%;
+}
+
+.skeleton.linebreak {
+  flex-basis: 100%;
+  height: 0;
+  margin: 0;
+  padding: 0;
+}

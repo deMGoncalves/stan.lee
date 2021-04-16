@@ -1,0 +1,11 @@
+.picture {
+  display: block;
+  position: relative;
+  z-index: -1;
+}
+
+.picture__image{
+  background: url("./loader.gif") 50% 50% / 30px no-repeat;
+  height: auto;
+  max-width: 100%;
+}

@@ -1,0 +1,10 @@
+.productCard__flags{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.productCard__flags div{
+  display: none;
+  width: 100%!important
+}
